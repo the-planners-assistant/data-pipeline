@@ -7,7 +7,7 @@
 ## London Boroughs
 
 ### Inner London
-- Camden: 2017 (and more)
+- Camden: 2017, v1 draft at consultation stage as of 04/25
 - Greenwich
 - Hackney
 - Hammersmith and Fulham
@@ -15,8 +15,8 @@
 - Kensington and Chelsea
 - Lambeth
 - Lewisham
-- Southwark
-- Tower Hamlets: 2020, Examination in progress as of 04/25
+- Southwark: 2022
+- Tower Hamlets: 2020, draft examination in progress as of 04/25
 - Wandsworth
 - Westminster
 
@@ -31,20 +31,17 @@
 - Enfield
 - Haringey
 - Harrow
-- Havering
+- Havering: 2021
 - Hillingdon
 - Hounslow
 - Kingston upon Thames
 - Merton
 - Newham
 - Redbridge
-- Richmond upon Thames: 2018, Examination in progress as of 04/25
+- Richmond upon Thames: 2018, draft examination in progress as of 04/25
 - Sutton
 - Waltham Forest
 
-Below is the updated documentation for your **pdf_extract** script. This version now includes improved cleaning of the extracted Markdown (using the new `clean_chunk_text` function) and always names the output JSON file after the PDF’s filename. It also extracts images and stores them in a subdirectory named after the PDF (without extension) within the designated output folder.
-
----
 
 # pdf_extract Documentation
 

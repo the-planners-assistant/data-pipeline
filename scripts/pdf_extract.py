@@ -76,7 +76,9 @@ def save_chunks_to_json(chunks, output_json: Path):
 
 def extract_images(pdf_path: Path, images_dir: Path) -> list:
     """
-    Extracts all images from the PDF using PyMuPDF and saves them as PNG files.
+    Extracts all images from the PDF using PyMuPDF.
+    Attempts to save each image as PNG. If saving fails due to unsupported colorspace,
+    falls back to using doc.extract_image(xref) and saves the raw image using its native extension.
     Returns a manifest of extracted images with metadata.
     """
     doc = fitz.open(str(pdf_path))
@@ -90,8 +92,7 @@ def extract_images(pdf_path: Path, images_dir: Path) -> list:
             xref = img[0]
             pix = fitz.Pixmap(doc, xref)
 
-            # If image uses a colorspace with more than 4 components (e.g. CMYK),
-            # convert it to RGB.
+            # If the image uses more than 4 components (e.g., CMYK), convert it to RGB.
             if pix.n > 4:
                 pix = fitz.Pixmap(fitz.csRGB, pix)
 
@@ -100,12 +101,15 @@ def extract_images(pdf_path: Path, images_dir: Path) -> list:
             out_path = images_dir / filename
             try:
                 pix.save(str(out_path))
-            except ValueError as e:
-                # If saving fails due to unsupported colorspace, convert explicitly and retry.
-                print(f"Warning: {e}. Converting image on page {page_num} (image index {img_index}) to RGB.")
-                converted_pix = fitz.Pixmap(fitz.csRGB, pix)
-                converted_pix.save(str(out_path))
-                converted_pix = None
+            except Exception as e:
+                print(f"Warning: {e}. Falling back to doc.extract_image for page {page_num}, image {img_index}.")
+                # Fallback: Extract raw image data and determine its native extension
+                image_dict = doc.extract_image(xref)
+                ext = image_dict.get("ext", "png")
+                filename = f"page_{page_num}_img_{img_index:03}.{ext}"
+                out_path = images_dir / filename
+                with out_path.open("wb") as img_file:
+                    img_file.write(image_dict.get("image"))
             pix = None  # free memory
 
             images_manifest.append({

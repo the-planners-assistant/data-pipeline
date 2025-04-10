@@ -1,0 +1,68 @@
+task_name: site_analysis_report_generation_v3
+description: >
+  Generates a comprehensive site analysis report to assist a UK planning officer.
+  It integrates site specifics, submitted documents, policies, constraints, and application type
+  with general UK planning knowledge.
+input_schema:
+  location_description:
+    type: string
+    description: "Address or textual description of the site location."
+  application_type: # **** NEW INPUT ****
+    type: string
+    description: "The type of planning application (e.g., 'Full', 'Outline', 'Reserved Matters', 'Variation of Condition', 'Listed Building Consent'). Influences expected detail level."
+  geospatial_constraints:
+    type: list
+    items:
+      type: string
+    description: "List of known geospatial factors affecting the site (e.g., 'Flood Zone 3', 'Adjacent to Listed Building Grade II', 'Within Conservation Area boundary', 'Steep slope > 1:8', 'Public Right of Way crosses site', 'Potential contamination identified in Phase 1 report')."
+  specific_policies:
+    type: list
+    items:
+      type: string
+    description: "List of specific National (NPPF sections), Regional (London Plan), or Local Plan policy references deemed initially relevant."
+  submitted_documents:
+    type: list
+    items:
+      type: string
+    description: >
+      List identifying the key documents submitted as part of the planning application.
+      (e.g., 'Planning Statement', 'Design and Access Statement', 'Flood Risk Assessment (FRA)',
+      'Arboricultural Impact Assessment (AIA)', 'Site Location Plan', 'Proposed Floor Plans & Elevations',
+      'Transport Statement', 'Sustainability Statement', 'Heritage Statement', 'Ecology Survey').
+desired_outputs:
+  - analysis_report:
+      type: object
+      properties:
+        site_summary: # **** REFINED DESCRIPTION ****
+          type: string
+          description: "Concise overview of the site: location, physical characteristics, current state/use, and immediate surroundings."
+        planning_history_notes: # **** REFINED DESCRIPTION ****
+          type: string
+          description: "Brief summary of known relevant planning history on the site or immediately adjacent, noting application numbers if available. State if none apparent."
+        policy_assessment: # **** REFINED DESCRIPTION ****
+          type: string
+          description: "Analysis of proposal against listed specific policies and relevant general UK planning principles (NPPF, etc.). Highlight key policy alignments, conflicts, or tensions. Reference how submitted documents (e.g., Planning Stmt) address policies. Note if `application_type` (e.g., Outline) affects the level of policy detail expected at this stage."
+        geospatial_analysis: # **** REFINED DESCRIPTION ****
+          type: string
+          description: "Assessment of the planning implications of EACH listed geospatial constraint (e.g., flood risk impact, heritage setting considerations, access limitations). Note if/how submitted technical documents (e.g., FRA, AIA, Heritage Stmt) address these specific constraints."
+        proposal_document_overview: # **** REFINED DESCRIPTION ****
+          type: string
+          description: "Brief description of the key submitted documents and their primary purpose in the context of the proposal and site constraints. Note adequacy relative to `application_type` (e.g., Outline vs Full)."
+        proposal_context_fit: # **** REFINED DESCRIPTION ****
+          type: string
+          description: "Initial evaluation of how the proposed development (scale, use, principle - considering `application_type`) fits within the site's physical context, constraints, policy landscape, and surrounding character. Is the principle acceptable?"
+        key_issues_opportunities: # **** REFINED DESCRIPTION ****
+          type: string
+          description: "Bulleted list identifying the core planning considerations: major constraints needing resolution, significant policy hurdles, potential negative impacts, and any clear opportunities presented by the proposal (e.g., regeneration, meeting housing need)."
+        further_investigation_needed: # **** REFINED DESCRIPTION ****
+          type: string
+          description: "Specific, actionable list for the planning officer: crucial documents needing detailed review, key technical aspects requiring verification (e.g., FRA conclusions), specific site visit checks, or necessary consultations (e.g., Highways, EA)."
+domain_constraints:
+  - "The report must be written from the perspective of an objective planning analyst."
+  - "Reference specific policy numbers/names provided in the input where relevant."
+  - "Clearly link *each significant* geospatial constraint listed to potential development impacts and note if/how submitted documents address it."
+  - "Structure the output according to the defined 'analysis_report' schema with its refined descriptions." # Updated
+  - "Leverage general knowledge of UK planning system (NPPF, common Local Plan themes)."
+  - "Assume the target audience is a professional UK planning officer."
+  - "Explicitly consider the *purpose and potential implications* of the different `submitted_documents`."
+  - "**Consider the `application_type` when assessing the level of detail provided and expected in submitted documents and policy compliance demonstrations.**" # **** NEW CONSTRAINT ****

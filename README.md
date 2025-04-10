@@ -1,7 +1,7 @@
 # data-pipeline
 
-NPPF: December 2024 -- no useful images
-London Plan: 2021 -- lots of vector graphics, should be replicated in London datasets
+NPPF: December 2024 - no useful images
+London Plan: 2021 - lots of vector graphics, should be replicated in London datasets
 City of London:
 
 ## London Boroughs
@@ -169,7 +169,7 @@ output_folder/
   Below is a more **creative, AI-first approach** to auto-generating your prompt templating DSL, harnessing the **LLM’s emergent domain understanding** rather than purely rule-based or code-based transformations. The concept is to let the LLM itself *architect* and *instantiate* the DSL based on **high-level domain specifications**, examples, and constraints—so you can flexibly scale to new reasoning tasks without manually writing out every prompt template.
 
 
-#Meta-prompting DSL
+# Meta-prompting DSL
 
 ## 1. Big Picture Overview
 

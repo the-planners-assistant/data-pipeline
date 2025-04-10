@@ -1,0 +1,44 @@
+task_name: policy_prioritization_london_plan_v1
+description: >
+  Identifies and prioritizes the most relevant London Plan 2021 policies
+  for a specific planning application context. Acts as an initial filter
+  to guide detailed site analysis.
+
+input_schema:
+  location_description:
+    type: string
+    description: "Address or textual description of the site location within London (e.g., 'Site at 123 Example St, Hackney, E8' or 'Land adjacent to King's Cross Station')."
+  application_type:
+    type: string
+    description: "The type of planning application (e.g., 'Full', 'Outline', 'Reserved Matters', 'Variation of Condition')."
+  proposed_development_description:
+    type: string
+    description: "Brief description of the proposed development (e.g., 'Erection of 10-storey office building (Use Class E(g))', 'Demolition of existing warehouse and construction of 50 residential units (Use Class C3)', 'Change of use from retail (Use Class E(a)) to restaurant (Use Class E(b))')."
+  geospatial_constraints:
+    type: list
+    items:
+      type: string
+    description: "List of known geospatial factors affecting the site (e.g., 'Flood Zone 3', 'Within Conservation Area', 'Adjacent to Listed Building Grade II*', 'Green Belt', 'Metropolitan Open Land', 'Potential Contamination Identified', 'Within 800m of Town Centre Boundary', 'PTAL 5')."
+  # Note: The full London Plan corpus is implicitly available context for the LLM using the generated prompt, not a direct input to this specific task spec.
+
+desired_outputs:
+  - prioritized_policy_list:
+      type: list
+      items:
+        type: string
+      description: >
+        A prioritized list of the top 10-15 most relevant London Plan 2021 policy references
+        (using the format 'Policy XN Title', e.g., 'Policy HC1 Heritage conservation and growth').
+        The list should start with the most fundamental or constraining policies for the specific context.
+
+domain_constraints:
+  - "The generated prompt must instruct the target LLM to use the provided London Plan 2021 context/corpus."
+  - "Prioritization logic must place policies directly addressing listed `geospatial_constraints` (e.g., Green Belt, Flood Risk, Heritage) near the top of the list."
+  - "Policies directly relevant to the `proposed_development_description` (e.g., housing policies for residential, office policies for offices) must be highly prioritized."
+  - "Spatial Strategy policies (e.g., CAZ, Opportunity Area, Town Centre, SIL) must be included if the `location_description` suggests the site falls within or near such a designated area."
+  - "Key impact policies (e.g., Air Quality, Transport/Parking, Density/Design, Energy/Sustainability) should be considered based on the scale and nature of the proposal."
+  - "Design policies (Chapter 3) should be included, with priority potentially influenced by `application_type` (more critical for 'Full'/'Reserved Matters')."
+  - "Relevant Good Growth (GG) policies (Chapter 1) can be included but generally have lower priority than specific constraint or topic policies for this filtered list."
+  - "The output list should contain approximately 10-15 policy references."
+  - "Policy references must use the standard format 'Policy [Code] [Title]' as found in the London Plan text (e.g., 'Policy H4 Delivering affordable housing')."
+  - "The generated prompt should explicitly ask the target LLM to order the policies by relevance/priority."

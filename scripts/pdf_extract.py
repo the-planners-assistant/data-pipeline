@@ -10,13 +10,13 @@ def clean_chunk_text(text: str) -> str:
     Clean the extracted markdown text:
       - Remove bold formatting markers.
       - Remove markdown header markers.
-      - Remove noise like "To table of contents" and horizontal lines.
+      - Remove noise like "to table of contents" and horizontal lines.
       - Remove stray control characters.
       - Collapse soft line breaks and excessive whitespace.
     """
     # Remove bold markers: **text** → text
     text = re.sub(r"\*\*([^*]+)\*\*", r"\1", text)
-    # Remove markdown header markers (e.g. '#' characters at line beginnings)
+    # Remove markdown header markers (e.g. '#' characters at the beginning of lines)
     text = re.sub(r"^#+\s*", "", text, flags=re.MULTILINE)
     # Remove unwanted text like "to table of contents" (case-insensitive)
     text = re.sub(r"(?i)to table of contents", "", text)
@@ -30,7 +30,7 @@ def clean_chunk_text(text: str) -> str:
     text = re.sub(r"\s{2,}", " ", text)
     # Remove any stray arrow or marker artifacts (e.g. )
     text = re.sub(r"", "", text)
-    # Collapse multiple newlines (more than two) into two newlines
+    # Collapse multiple newlines into a maximum of two
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
 
@@ -43,7 +43,6 @@ def chunk_markdown(md_text: str, doc_id: str) -> list:
     chunks = []
 
     for i, section in enumerate(sections):
-        # Split the section into heading and the rest of the body
         lines = section.strip().split("\n", 1)
         heading = lines[0].replace("##", "").strip() if lines else f"Section {i+1}"
         body = lines[1].strip() if len(lines) > 1 else ""
@@ -54,8 +53,8 @@ def chunk_markdown(md_text: str, doc_id: str) -> list:
         body = re.sub(r"\s{2,}", " ", body)  # remove extra spaces
         body = body.replace("\b", "")  # remove leftover \b artifacts
         body = re.sub(r"^•\s*", "- ", body, flags=re.MULTILINE)  # normalize bullets
-        
-        # Apply the additional cleaning from our helper function.
+
+        # Apply further cleaning from our helper function.
         body = clean_chunk_text(body)
 
         chunk = {
@@ -90,14 +89,23 @@ def extract_images(pdf_path: Path, images_dir: Path) -> list:
         for img_index, img in enumerate(image_list, start=1):
             xref = img[0]
             pix = fitz.Pixmap(doc, xref)
-            # Convert images using more than 4 components (e.g., CMYK) to RGB.
+
+            # If image uses a colorspace with more than 4 components (e.g. CMYK),
+            # convert it to RGB.
             if pix.n > 4:
                 pix = fitz.Pixmap(fitz.csRGB, pix)
 
             image_count += 1
             filename = f"page_{page_num}_img_{img_index:03}.png"
             out_path = images_dir / filename
-            pix.save(str(out_path))
+            try:
+                pix.save(str(out_path))
+            except ValueError as e:
+                # If saving fails due to unsupported colorspace, convert explicitly and retry.
+                print(f"Warning: {e}. Converting image on page {page_num} (image index {img_index}) to RGB.")
+                converted_pix = fitz.Pixmap(fitz.csRGB, pix)
+                converted_pix.save(str(out_path))
+                converted_pix = None
             pix = None  # free memory
 
             images_manifest.append({

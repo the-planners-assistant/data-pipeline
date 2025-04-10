@@ -7,7 +7,7 @@ City of London:
 ## London Boroughs
 
 ### Inner London
-- Camden
+- Camden: 2017 (and more)
 - Greenwich
 - Hackney
 - Hammersmith and Fulham
@@ -16,7 +16,7 @@ City of London:
 - Lambeth
 - Lewisham
 - Southwark
-- Tower Hamlets: 2020
+- Tower Hamlets: 2020, Examination in progress as of 04/25
 - Wandsworth
 - Westminster
 
@@ -38,7 +38,7 @@ City of London:
 - Merton
 - Newham
 - Redbridge
-- Richmond upon Thames:
+- Richmond upon Thames: 2018, Examination in progress as of 04/25
 - Sutton
 - Waltham Forest
 

@@ -15,7 +15,7 @@
 - Kensington and Chelsea
 - Lambeth
 - Lewisham
-- Southwark: 2022
+- Southwark: 2022, complete
 - Tower Hamlets: 2020, draft examination in progress as of 04/25
 - Wandsworth
 - Westminster
@@ -29,9 +29,9 @@
 - Croydon
 - Ealing
 - Enfield
-- Haringey
+- Haringey: 2017, new plan on horizon
 - Harrow
-- Havering: 2021
+- Havering: 2021, complete
 - Hillingdon
 - Hounslow
 - Kingston upon Thames

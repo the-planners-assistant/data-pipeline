@@ -336,3 +336,53 @@ Notice how the LLM applies domain constraints (NPPF viability, local thresholds)
 3. **Iterate and refine** using the same or a secondary QA pass.  
 
 That way, you can spin up sophisticated, domain-accurate prompt templates *faster* and *more consistently* than manual DSL writing, letting your system grow seamlessly across the entire planning domain.
+
+# Gov.UK Geodatasets:
+- agricultural-land-classification  
+- air-quality-management-area  
+- ancient-woodland  
+- archaeological-priority-area  
+- area-of-outstanding-natural-beauty  
+- article-4-direction-area  
+- asset-of-community-value  
+- battlefield  
+- brownfield-land  
+- brownfield-site  
+- building-preservation-notice  
+- built-up-area  
+- central-activities-zone  
+- certificate-of-immunity  
+- parish  
+- conservation-area  
+- design-code-area  
+- educational-establishment  
+- flood-storage-area  
+- green-belt  
+- heritage-at-risk  
+- heritage-coast  
+- park-and-garden  
+- infrastructure-project  
+- listed-building  
+- listed-building-outline  
+- local-authority-district  
+- local-nature-reserve  
+- local-plan-boundary  
+- local-planning-authority  
+- local-resilience-forum-boundary  
+- locally-listed-building  
+- national-nature-reserve  
+- national-park  
+- nature-improvement-area  
+- protected-wreck-site  
+- transport-access-node  
+- ramsar  
+- region  
+- scheduled-monument  
+- site-of-special-scientific-interest  
+- special-area-of-conservation  
+- special-protection-area  
+- tree  
+- tree-preservation-zone  
+- ward  
+- world-heritage-site  
+- world-heritage-site-buffer-zone  

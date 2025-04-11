@@ -1,0 +1,29 @@
+description: >
+  Reusable prompt template DSL for prioritizing relevant geospatial datasets
+  (from a provided list) based on planning application context.
+  Generated based on domain spec: geospatial_dataset_prioritization_v1.
+
+variables:
+  - name: location_description
+    description: "Address or textual description of the site location."
+  - name: application_type
+    description: "The type of planning application (e.g., 'Full', 'Outline')."
+  - name: proposed_development_description
+    description: "Brief description of the proposed development (e.g., use, scale)."
+  - name: known_constraints
+    description: "List of known geospatial constraints affecting the site."
+  - name: available_datasets
+    description: "The list of all available dataset names to select from."
+
+prompt_template: |
+  You are an expert Geospatial Analyst supporting UK planning officers. Your task is to identify and prioritize the most relevant geospatial datasets (GIS layers) from a given list that should be consulted for assessing a specific planning application.
+
+  **Application Context:**
+  - Site Location: {{ location_description }}
+  - Application Type: {{ application_type }}
+  - Proposed Development: {{ proposed_development_description }}
+  - Known Constraints: {{ known_constraints | join(', ') if known_constraints else 'None listed' }}
+
+  **Available Datasets List:**
+  ```json
+  {{ available_datasets | tojson(indent=2) }}

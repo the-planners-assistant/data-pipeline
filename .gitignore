@@ -1,4 +1,8 @@
+# Avoid storing big data files in the repository
 *.pdf
+*.png
+*.jpeg
+*.jpg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

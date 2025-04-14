@@ -1,0 +1,76 @@
+# DSL Template generated for Site Analysis Report Generation (v3 - adds application_type, refines output descriptions)
+
+description: "Instructs an LLM to generate a comprehensive site analysis report for a UK planning officer, integrating site specifics, application type, policies, constraints, and submitted documents."
+task_name: site_analysis_report_generation_v3
+
+variables:
+  - name: location_description
+    description: "Address or textual description of the site location."
+  - name: application_type # New variable
+    description: "The type of planning application (e.g., 'Full', 'Outline', 'Reserved Matters')."
+  - name: geospatial_constraints
+    description: "List of known geospatial factors affecting the site."
+  - name: specific_policies
+    description: "List of specific National, Regional, or Local Plan policy references."
+  - name: submitted_documents
+    description: "List identifying the key documents submitted with the planning application."
+
+output_schema: # Reflects refined descriptions from spec v3
+  type: object
+  properties:
+    site_summary:
+      type: string
+      description: "Concise overview: site location, physical characteristics, current state/use, immediate surroundings."
+    planning_history_notes:
+      type: string
+      description: "Brief summary of relevant planning history (site/adjacent), application numbers if known. State if none apparent."
+    policy_assessment:
+      type: string
+      description: "Analysis against policies (specific & general). Highlight alignments/conflicts. Reference documents. Note impact of `application_type` on expected detail."
+    geospatial_analysis:
+      type: string
+      description: "Implications of EACH listed geospatial constraint. Note if/how technical documents (FRA, AIA etc.) address them."
+    proposal_document_overview:
+      type: string
+      description: "Describe key documents and purpose. Note adequacy relative to `application_type` (Outline vs Full)."
+    proposal_context_fit:
+      type: string
+      description: "Evaluation of proposal's principle (scale, use) considering `application_type`, site context, constraints, policy, character. Is the principle acceptable?"
+    key_issues_opportunities:
+      type: string
+      description: "Bulleted list: core planning considerations - major constraints, policy hurdles, potential impacts, opportunities (regeneration, housing need)."
+    further_investigation_needed:
+      type: string
+      description: "Actionable list for officer: documents for detailed review, technical aspects for verification, site checks, consultations needed."
+
+prompt_template: |
+  You are an expert UK Planning Analyst AI. Your task is to generate a comprehensive site analysis report to assist a planning officer. Synthesize information about the site, application type, constraints, policies, and submitted documents, using your extensive knowledge of the UK planning system. Maintain an objective, professional tone.
+
+  **Site & Application Information:**
+  *   Location: {{ location_description }}
+  *   Application Type: {{ application_type }}
+  *   Geospatial Constraints (List): {{ geospatial_constraints }}
+  *   Specific Policies Provided (List): {{ specific_policies }}
+  *   Submitted Application Documents (List): {{ submitted_documents }}
+
+  **Analysis Instructions:**
+  1.  **Synthesize Inputs:** Integrate the provided details with your general UK planning knowledge (NPPF, etc.). Crucially, consider how the `application_type` influences the level of detail expected at this stage (e.g., Outline focuses on principles, Full requires comprehensive details).
+  2.  **Analyze Submitted Documents:** Briefly review the `submitted_documents` list. Infer their purpose and how they address site issues/policy. Comment on whether the suite seems appropriate for the stated `application_type` in the `proposal_document_overview`.
+  3.  **Assess Policy Context:** Analyze the site/proposal against `specific_policies` and broader relevant policies. Evaluate how submitted documents address these policies. Explicitly note where the `application_type` sets the expectation for policy compliance detail (e.g., less design detail needed for Outline policy checks).
+  4.  **Evaluate Geospatial Constraints:** For *each significant item* in `geospatial_constraints`, explain its planning implications. Note if `submitted_documents` (e.g., FRA, AIA) address that constraint and if the level of detail is suitable for the `application_type`.
+  5.  **Assess Overall Fit:** Provide an initial assessment in `proposal_context_fit`. Consider the principle of development (use, scale) in light of the `application_type`, site characteristics, constraints, policy, and surrounding area context.
+  6.  **Summarize & Recommend Next Steps:** Identify key issues/opportunities in `key_issues_opportunities`. Provide specific, actionable recommendations for the officer in `further_investigation_needed`, focusing on critical verification points or documents needing detailed scrutiny.
+  7.  **Structure Output:** Generate a report structured exactly as follows, providing concise analysis matching the refined descriptions for each section. Output the report as a single, valid JSON object matching the schema below.
+
+  **Required Output Structure (JSON Object):**
+  ```json
+  {
+    "site_summary": "Provide concise overview: site location, physical characteristics, current state/use, immediate surroundings.",
+    "planning_history_notes": "Provide brief summary of relevant planning history (site/adjacent), application numbers if known. State if none apparent.",
+    "policy_assessment": "Provide analysis against policies (specific & general). Highlight alignments/conflicts. Reference documents. Note impact of application_type on expected detail.",
+    "geospatial_analysis": "Provide implications of EACH listed geospatial constraint. Note if/how technical documents (FRA, AIA etc.) address them.",
+    "proposal_document_overview": "Describe key documents and purpose. Note adequacy relative to application_type (Outline vs Full).",
+    "proposal_context_fit": "Provide evaluation of proposal's principle (scale, use) considering application_type, site context, constraints, policy, character. Is the principle acceptable?",
+    "key_issues_opportunities": "Provide bulleted list: core planning considerations - major constraints, policy hurdles, potential impacts, opportunities (regeneration, housing need).",
+    "further_investigation_needed": "Provide actionable list for officer: documents for detailed review, technical aspects for verification, site checks, consultations needed."
+  }

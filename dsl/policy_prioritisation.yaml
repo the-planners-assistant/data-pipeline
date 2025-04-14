@@ -1,0 +1,80 @@
+description: >
+  Reusable prompt template DSL for prioritizing relevant London Plan 2021 policies
+  based on specific planning application context. Designed to be filled with
+  runtime data and executed by a target LLM.
+  Generated based on domain spec: policy_prioritization_london_plan_v1.
+
+variables:
+  - name: location_description
+    description: "Address or textual description of the site location within London."
+  - name: application_type
+    description: "The type of planning application (e.g., 'Full', 'Outline')."
+  - name: proposed_development_description
+    description: "Brief description of the proposed development (e.g., use class, scale)."
+  - name: geospatial_constraints
+    description: "List of known geospatial factors affecting the site."
+
+prompt_template: |
+  You are an expert UK planning policy analyst specializing in the London Plan 2021. Your task is to identify and prioritize the most relevant London Plan 2021 policies for assessing a specific planning application, using the provided context and your knowledge of the Plan's structure.
+
+  **Application Context:**
+  - Site Location: {{ location_description }}
+  - Application Type: {{ application_type }}
+  - Proposed Development: {{ proposed_development_description }}
+  - Geospatial Constraints: {{ geospatial_constraints | join(', ') if geospatial_constraints else 'None listed' }}
+
+  **London Plan 2021 Structure Overview (for context):**
+  - Core Principles: Good Growth (GG1-6).
+  - Spatial Strategy: Opportunity Areas (SD1), CAZ (SD4-5), Town Centres (SD6-9), Regeneration (SD10), Wider South East (SD2-3).
+  - Design: Character, Density, Quality, Housing Standards, Tall Buildings, Noise, Safety (D1-14).
+  - Housing: Supply, Small Sites, Affordability (H4-7), Types (Build to Rent, Student, Older Persons, etc.) (H1-16).
+  - Social Infrastructure: Health, Education, Play, Sport, Community Facilities (S1-7).
+  - Economy: Offices, Industrial (SIL/LSIS), Retail, Visitor, Culture Interface (E1-11).
+  - Heritage & Culture: Conservation, Assets, Views, Cultural Venues, Night Economy, Pubs (HC1-7).
+  - Green Infrastructure: Strategy, Green Belt, MOL, Open Space, Greening, Biodiversity, Trees (G1-G9).
+  - Sustainable Infrastructure: Air Quality (SI1), Energy (SI2-3), Heat/Flood/Drainage (SI4, SI12-13), Water, Digital, Waste (SI5-11), Waterways (SI14-17).
+  - Transport: Strategy, Healthy Streets, Capacity, Impacts, Cycling, Parking (T1-T9).
+  - Delivery: Viability, Obligations (DF1).
+  - Annexes: Definitions, Lists.
+
+  **Instructions:**
+  1.  Thoroughly analyze the provided Application Context.
+  2.  Identify the specific London Plan 2021 policies most critical for evaluating this proposal. Use the exact policy format 'Policy [Code] [Title]' (e.g., 'Policy H4 Delivering affordable housing').
+  3.  Prioritize the list (approximately 10-15 policies) based on the following hierarchy:
+      a.  **Fundamental Constraints:** Policies directly addressing major `geospatial_constraints` listed (e.g., G2/G3 for Green Belt/MOL, SI12 for Flood Zone 3, HC1/HC2 for designated heritage assets).
+      b.  **Proposed Use:** Policies governing the core `proposed_development_description` (e.g., H policies for residential, E1 for office, E4-E7 for industrial, E9 for retail). Include affordable housing (H4/H5/H6) if residential is proposed.
+      c.  **Spatial Designation:** Relevant Spatial Strategy (SD) policies if the `location_description` indicates a specific area (e.g., SD1/OAPF, SD4/SD5/CAZ, SD6-9/Town Centre, E5/SIL).
+      d.  **Key Impacts & Design:** Policies covering significant potential impacts or design considerations based on proposal scale/type (e.g., SI1 Air Quality, T2/T4/T5/T6 Transport/Parking/Cycling, D3/D4/D6 Density/Design/Housing Quality, D9 Tall Buildings if applicable, SI2 Energy). Design policy relevance may be higher for 'Full' or 'Reserved Matters' `application_type`.
+      e.  **Overarching Principles:** Good Growth (GG) policies can be noted for context but should generally rank lower than specific constraint/topic policies in this prioritized list unless a GG policy is unusually pertinent to the proposal's core conflict/opportunity.
+  4.  Ensure the list is ordered starting with the highest priority policy.
+
+  **Output Format:**
+  Respond *ONLY* with a single, valid JSON list of strings, where each string is a prioritized policy reference. Do not include any other text, explanations, or markdown formatting outside the JSON list itself.
+
+example_usage:
+  input:
+    location_description: "Site adjacent to Hackney Marshes, within Lee Valley Regional Park buffer, E9"
+    application_type: "Outline"
+    proposed_development_description: "Residential-led mixed-use scheme, approx 150 units + ground floor commercial (Use Class E)"
+    geospatial_constraints:
+      - "Metropolitan Open Land (MOL)"
+      - "Flood Zone 2"
+      - "Adjacent to SINC"
+      - "Potential for Archaeological Interest (APA Tier 3)"
+  output: |
+    [
+      "Policy G3 Metropolitan Open Land",
+      "Policy SI 12 Flood risk management",
+      "Policy G6 Biodiversity and access to nature",
+      "Policy H1 Increasing housing supply",
+      "Policy H4 Delivering affordable housing",
+      "Policy HC1 Heritage conservation and growth", # Due to APA Tier 3
+      "Policy D3 Optimising site capacity through the design-led approach",
+      "Policy SI 13 Sustainable drainage",
+      "Policy E2 Providing suitable business space", # For Use Class E
+      "Policy T4 Assessing and mitigating transport impacts",
+      "Policy T6 Car parking",
+      "Policy SI 1 Improving air quality",
+      "Policy GG2 Making the best use of land",
+      "Policy D1 London’s form, character and capacity for growth"
+    ]

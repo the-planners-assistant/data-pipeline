@@ -1,0 +1,128 @@
+[
+  {
+    "page_number": 1,
+    "image_file": "page_1_img_001.png",
+    "xref": 8631,
+    "image_index": 1
+  },
+  {
+    "page_number": 1,
+    "image_file": "page_1_img_002.png",
+    "xref": 8633,
+    "image_index": 2
+  },
+  {
+    "page_number": 1,
+    "image_file": "page_1_img_003.jpeg",
+    "xref": 8635,
+    "image_index": 3
+  },
+  {
+    "page_number": 2,
+    "image_file": "page_2_img_001.png",
+    "xref": 6,
+    "image_index": 1
+  },
+  {
+    "page_number": 8,
+    "image_file": "page_8_img_001.png",
+    "xref": 21,
+    "image_index": 1
+  },
+  {
+    "page_number": 8,
+    "image_file": "page_8_img_002.png",
+    "xref": 22,
+    "image_index": 2
+  },
+  {
+    "page_number": 9,
+    "image_file": "page_9_img_001.png",
+    "xref": 25,
+    "image_index": 1
+  },
+  {
+    "page_number": 9,
+    "image_file": "page_9_img_002.png",
+    "xref": 26,
+    "image_index": 2
+  },
+  {
+    "page_number": 12,
+    "image_file": "page_12_img_001.jpeg",
+    "xref": 39,
+    "image_index": 1
+  },
+  {
+    "page_number": 12,
+    "image_file": "page_12_img_002.png",
+    "xref": 40,
+    "image_index": 2
+  },
+  {
+    "page_number": 23,
+    "image_file": "page_23_img_001.jpeg",
+    "xref": 98,
+    "image_index": 1
+  },
+  {
+    "page_number": 23,
+    "image_file": "page_23_img_002.jpeg",
+    "xref": 101,
+    "image_index": 2
+  },
+  {
+    "page_number": 28,
+    "image_file": "page_28_img_001.jpeg",
+    "xref": 161,
+    "image_index": 1
+  },
+  {
+    "page_number": 28,
+    "image_file": "page_28_img_002.jpeg",
+    "xref": 122,
+    "image_index": 2
+  },
+  {
+    "page_number": 53,
+    "image_file": "page_53_img_001.jpeg",
+    "xref": 217,
+    "image_index": 1
+  },
+  {
+    "page_number": 53,
+    "image_file": "page_53_img_002.png",
+    "xref": 219,
+    "image_index": 2
+  },
+  {
+    "page_number": 53,
+    "image_file": "page_53_img_003.png",
+    "xref": 435,
+    "image_index": 3
+  },
+  {
+    "page_number": 90,
+    "image_file": "page_90_img_001.png",
+    "xref": 310,
+    "image_index": 1
+  },
+  {
+    "page_number": 95,
+    "image_file": "page_95_img_001.png",
+    "xref": 325,
+    "image_index": 1
+  },
+  {
+    "page_number": 95,
+    "image_file": "page_95_img_002.jpeg",
+    "xref": 327,
+    "image_index": 2
+  },
+  {
+    "page_number": 95,
+    "image_file": "page_95_img_003.png",
+    "xref": 435,
+    "image_index": 3
+  }
+]

@@ -1,5 +1,7 @@
 # data-pipeline
 
+# Warning: notes, readme is TODO
+
 - NPPF: December 2024 - no useful images
 - London Plan: 2021 - lots of vector graphics, should be replicated in London datasets
 - City of London:

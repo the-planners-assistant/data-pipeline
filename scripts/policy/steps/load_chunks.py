@@ -1,7 +1,7 @@
 import json
 from typing import List, Dict
 from pathlib import Path
-from utils import classify_chunk_type  # Import from utils.py
+from scripts.policy.utils.utils import classify_chunk_type  # Import from utils.py
 
 
 def load_chunks_with_ontology(jsonl_path: str, ontology_path: str) -> List[Dict]:

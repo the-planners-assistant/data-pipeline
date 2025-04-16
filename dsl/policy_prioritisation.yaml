@@ -1,80 +1,124 @@
+# --- Generated DSL File ---
+task_name: policy_prioritization_generic_local_plan_with_details_v1 # Naming reflects output change
 description: >
-  Reusable prompt template DSL for prioritizing relevant London Plan 2021 policies
-  based on specific planning application context. Designed to be filled with
-  runtime data and executed by a target LLM.
-  Generated based on domain spec: policy_prioritization_london_plan_v1.
+  A reusable prompt template DSL for prioritizing relevant Local Plan policies
+  based on specific planning application context. Designed for use with ANY
+  Local Plan structure. The output includes policy ID, Title, and Summary.
+  To be filled with runtime data and executed by a target LLM.
 
+# Variables for the template
 variables:
   - name: location_description
-    description: "Address or textual description of the site location within London."
+    description: "Address or textual description of the site location and its context."
+    example: "Former factory site, designated Employment Area, edge of town."
   - name: application_type
-    description: "The type of planning application (e.g., 'Full', 'Outline')."
+    description: "The type of planning application."
+    example: "Outline Planning Permission (all matters reserved)"
   - name: proposed_development_description
-    description: "Brief description of the proposed development (e.g., use class, scale)."
+    description: "Brief description of the proposed development."
+    example: "Residential development (Use Class C3), approx 50 units."
   - name: geospatial_constraints
     description: "List of known geospatial factors affecting the site."
+    example: ["Within designated Employment Area", "Adjacent to railway line (noise potential)", "Potential for contamination"]
+  - name: candidate_policies # Input list of policies to prioritize
+    description: >
+      List of candidate policies (each an object with 'id', 'title', 'summary')
+      from the relevant Local Plan. The prompt requires access to these details
+      to include them in the output.
+    example: # Structure example - IDs/Titles are Local Plan specific
+      [
+        { id: "SP1", title: "Sustainable Development", summary: "Core strategy principle..." },
+        { id: "EC1", title: "Protection of Employment Land", summary: "Resist loss of employment sites..." },
+        { id: "DM8", title: "Noise and Vibration", summary: "Mitigating noise impacts..." },
+        { id: "DM9", title: "Contaminated Land", summary: "Requires assessment and remediation..." },
+        { id: "H1", title: "Principle of Housing Development", summary: "Location criteria for new housing..." }
+      ]
+  - name: desired_policy_count
+    description: "The target number of top-priority policies the user wants returned."
+    example: 10
 
+# The core prompt template - Generic and adaptable
 prompt_template: |
-  You are an expert UK planning policy analyst specializing in the London Plan 2021. Your task is to identify and prioritize the most relevant London Plan 2021 policies for assessing a specific planning application, using the provided context and your knowledge of the Plan's structure.
+  You are an expert UK Planning Policy Analyst. Your task is to rank the candidate Local Plan policies below based on their importance and centrality for assessing the specific planning application described. Assume the policies provided are from the relevant Local Plan for the site location.
 
   **Application Context:**
-  - Site Location: {{ location_description }}
-  - Application Type: {{ application_type }}
-  - Proposed Development: {{ proposed_development_description }}
-  - Geospatial Constraints: {{ geospatial_constraints | join(', ') if geospatial_constraints else 'None listed' }}
+  *   Location: {{ location_description }}
+  *   Application Type: {{ application_type }}
+  *   Proposed Development: {{ proposed_development_description }}
+  *   Site Constraints: {{ geospatial_constraints | join(', ') if geospatial_constraints else 'None listed' }}
 
-  **London Plan 2021 Structure Overview (for context):**
-  - Core Principles: Good Growth (GG1-6).
-  - Spatial Strategy: Opportunity Areas (SD1), CAZ (SD4-5), Town Centres (SD6-9), Regeneration (SD10), Wider South East (SD2-3).
-  - Design: Character, Density, Quality, Housing Standards, Tall Buildings, Noise, Safety (D1-14).
-  - Housing: Supply, Small Sites, Affordability (H4-7), Types (Build to Rent, Student, Older Persons, etc.) (H1-16).
-  - Social Infrastructure: Health, Education, Play, Sport, Community Facilities (S1-7).
-  - Economy: Offices, Industrial (SIL/LSIS), Retail, Visitor, Culture Interface (E1-11).
-  - Heritage & Culture: Conservation, Assets, Views, Cultural Venues, Night Economy, Pubs (HC1-7).
-  - Green Infrastructure: Strategy, Green Belt, MOL, Open Space, Greening, Biodiversity, Trees (G1-G9).
-  - Sustainable Infrastructure: Air Quality (SI1), Energy (SI2-3), Heat/Flood/Drainage (SI4, SI12-13), Water, Digital, Waste (SI5-11), Waterways (SI14-17).
-  - Transport: Strategy, Healthy Streets, Capacity, Impacts, Cycling, Parking (T1-T9).
-  - Delivery: Viability, Obligations (DF1).
-  - Annexes: Definitions, Lists.
+  **Candidate Local Plan Policies to Prioritize:**
+  ```
+  {# Concise formatting for the policy list #}
+  {% for policy in candidate_policies %}
+  - ID: {{ policy.id }}
+    Title: {{ policy.title }}
+    Summary: {{ policy.summary }}
+  {% endfor %}
+  ```
 
-  **Instructions:**
-  1.  Thoroughly analyze the provided Application Context.
-  2.  Identify the specific London Plan 2021 policies most critical for evaluating this proposal. Use the exact policy format 'Policy [Code] [Title]' (e.g., 'Policy H4 Delivering affordable housing').
-  3.  Prioritize the list (approximately 10-15 policies) based on the following hierarchy:
-      a.  **Fundamental Constraints:** Policies directly addressing major `geospatial_constraints` listed (e.g., G2/G3 for Green Belt/MOL, SI12 for Flood Zone 3, HC1/HC2 for designated heritage assets).
-      b.  **Proposed Use:** Policies governing the core `proposed_development_description` (e.g., H policies for residential, E1 for office, E4-E7 for industrial, E9 for retail). Include affordable housing (H4/H5/H6) if residential is proposed.
-      c.  **Spatial Designation:** Relevant Spatial Strategy (SD) policies if the `location_description` indicates a specific area (e.g., SD1/OAPF, SD4/SD5/CAZ, SD6-9/Town Centre, E5/SIL).
-      d.  **Key Impacts & Design:** Policies covering significant potential impacts or design considerations based on proposal scale/type (e.g., SI1 Air Quality, T2/T4/T5/T6 Transport/Parking/Cycling, D3/D4/D6 Density/Design/Housing Quality, D9 Tall Buildings if applicable, SI2 Energy). Design policy relevance may be higher for 'Full' or 'Reserved Matters' `application_type`.
-      e.  **Overarching Principles:** Good Growth (GG) policies can be noted for context but should generally rank lower than specific constraint/topic policies in this prioritized list unless a GG policy is unusually pertinent to the proposal's core conflict/opportunity.
-  4.  Ensure the list is ordered starting with the highest priority policy.
+  **Core Prioritization Principles:**
+  1.  **Constraints & Principle First:** Give highest priority to policies directly addressing listed **Site Constraints** (e.g., Employment Area, Flood Zone, Heritage policies) and those governing the fundamental **Principle** of the proposed development (acceptability of use/scale here).
+  2.  **Proposed Use:** Prioritize policies regulating the specific **Proposed Development** described (e.g., housing mix/density for residential; design, amenity, transport policies relevant to the scale/type).
+  3.  **Context Matters:** Adjust ranking based on the **Application Type** (Outline focuses on principle/strategy, Full on details) and the specific combination of constraints and proposal impacts.
+  4.  **Focus on Impact:** Prioritize policies likely to be **determinative** or represent major assessment hurdles for *this* specific application. Rank only the policies provided.
 
-  **Output Format:**
-  Respond *ONLY* with a single, valid JSON list of strings, where each string is a prioritized policy reference. Do not include any other text, explanations, or markdown formatting outside the JSON list itself.
+  **Required Output:**
+  Return ONLY a valid JSON list containing objects. Each object MUST represent one of the prioritized candidate policies and MUST have the keys 'id', 'title', and 'summary'. The list should contain approximately {{ desired_policy_count }} policy objects and MUST be ordered from most critical policy to least critical based on the principles above.
 
+  Example object format: {"id": "POLICY_ID", "title": "Policy Title", "summary": "Policy summary text..."}
+
+# Notes on the expected output format from the target LLM
+output_format_notes: >
+  Output must be a single JSON list of objects.
+  Each object must have keys: "id" (string), "title" (string), "summary" (string).
+  The list must be ordered by descending priority (most important first).
+  No other text outside the JSON list.
+
+# Example usage scenario demonstrating template population (Generic Context)
 example_usage:
-  input:
-    location_description: "Site adjacent to Hackney Marshes, within Lee Valley Regional Park buffer, E9"
-    application_type: "Outline"
-    proposed_development_description: "Residential-led mixed-use scheme, approx 150 units + ground floor commercial (Use Class E)"
-    geospatial_constraints:
-      - "Metropolitan Open Land (MOL)"
-      - "Flood Zone 2"
-      - "Adjacent to SINC"
-      - "Potential for Archaeological Interest (APA Tier 3)"
-  output: |
+  _scenario_description: "Prioritizing policies for an Outline application for housing on a designated Employment Area site."
+  input_data:
+    location_description: "Edge of town, within designated Employment Area B."
+    application_type: "Outline Planning Permission (all matters reserved)"
+    proposed_development_description: "Residential scheme (approx 50 units)."
+    geospatial_constraints: ["Within designated Employment Area", "Adjacent to existing industrial uses (amenity concern)"]
+    candidate_policies: # Example policy list (hypothetical IDs/Titles)
+      [
+        { id: "SP1", title: "Sustainable Development", summary: "Core strategy principle..." },
+        { id: "EC1", title: "Protection of Employment Land", summary: "Resist loss of employment sites unless criteria met..." },
+        { id: "DM5", title: "Amenity", summary: "Protecting existing users from new development impacts..." },
+        { id: "H1", title: "Principle of Housing Development", summary: "Location criteria for new housing..." },
+        { id: "INF1", title: "Infrastructure Provision", summary: "Requires contributions..." }
+      ]
+    desired_policy_count: 5
+  expected_llm_output: |
     [
-      "Policy G3 Metropolitan Open Land",
-      "Policy SI 12 Flood risk management",
-      "Policy G6 Biodiversity and access to nature",
-      "Policy H1 Increasing housing supply",
-      "Policy H4 Delivering affordable housing",
-      "Policy HC1 Heritage conservation and growth", # Due to APA Tier 3
-      "Policy D3 Optimising site capacity through the design-led approach",
-      "Policy SI 13 Sustainable drainage",
-      "Policy E2 Providing suitable business space", # For Use Class E
-      "Policy T4 Assessing and mitigating transport impacts",
-      "Policy T6 Car parking",
-      "Policy SI 1 Improving air quality",
-      "Policy GG2 Making the best use of land",
-      "Policy D1 London’s form, character and capacity for growth"
+      {
+        "id": "EC1",
+        "title": "Protection of Employment Land",
+        "summary": "Resist loss of employment sites unless criteria met..."
+      },
+      {
+        "id": "H1",
+        "title": "Principle of Housing Development",
+        "summary": "Location criteria for new housing..."
+      },
+      {
+        "id": "DM5",
+        "title": "Amenity",
+        "summary": "Protecting existing users from new development impacts..."
+      },
+      {
+        "id": "SP1",
+        "title": "Sustainable Development",
+        "summary": "Core strategy principle..."
+      },
+      {
+        "id": "INF1",
+        "title": "Infrastructure Provision",
+        "summary": "Requires contributions..."
+      }
     ]
+  _rationale_for_example_output: >
+    EC1 (Employment Land) is top priority due to direct conflict with proposal principle on a constrained site. H1 (Housing Principle) is next as it governs the proposed use location criteria (likely conflicting with EC1). DM5 (Amenity) is high due to adjacent industrial uses. SP1 (Core Principle) is relevant. INF1 (Infrastructure) is a standard consideration but less fundamental than the principle/constraint issues here for an Outline app.

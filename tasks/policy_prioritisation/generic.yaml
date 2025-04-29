@@ -1,0 +1,75 @@
+task_name: policy_prioritization_from_candidates
+description: >
+  Analyzes planning application details against a list of candidate Local Plan policies
+  to identify and rank the most critical policies for assessment. This prioritizes
+  focus for planning officers or downstream analysis tasks.
+
+input_schema:
+  application_context:
+    type: object
+    description: "Key details about the specific planning application."
+    properties:
+      location_description:
+        type: string
+        description: "Address or textual description of the site location, providing context (e.g., 'urban edge', 'town centre', 'rural setting')."
+      application_type:
+        type: string
+        description: "The type of planning application (e.g., 'Full', 'Outline', 'Listed Building Consent'). Crucial for determining the focus of policy assessment."
+      geospatial_constraints:
+        type: list
+        items:
+          type: string
+        description: "List of known geospatial factors affecting the site (e.g., 'Flood Zone 3', 'Conservation Area', 'Green Belt'). Direct triggers for specific policies."
+      submitted_documents:
+        type: list
+        items:
+          type: string
+        description: "List identifying key documents submitted (e.g., 'FRA', 'Heritage Statement', 'Transport Assessment'). Hints at key issues and corresponding policies."
+
+  candidate_policies:
+    type: list
+    description: "A pre-filtered list of potentially relevant Local Plan policies to be ranked."
+    items:
+      type: object
+      properties:
+        id:
+          type: string
+          description: "The unique identifier of the policy (e.g., 'DM10', 'H5')."
+        title:
+          type: string
+          description: "The official title of the policy."
+        summary: # Using summary instead of full text for context window efficiency
+          type: string
+          description: "A concise summary of the policy's core requirements and intent."
+        keywords:
+          type: list
+          items:
+            type: string
+          description: "Keywords associated with the policy topic (e.g., 'design', 'heritage', 'flood_risk')."
+
+  desired_policy_count:
+    type: integer
+    description: "The target number of top policies to return in the prioritized list (e.g., 15)."
+    default: 15 # Optional default value
+
+desired_outputs:
+  - name: prioritized_policy_ids
+    type: list
+    items:
+      type: string
+    description: >
+      A ranked list of policy IDs (strings) from the candidate list, ordered from
+      most critical to least critical for assessing the given application context.
+      The list should contain approximately 'desired_policy_count' items.
+
+domain_constraints:
+  - "The primary goal is to rank policies by their likely impact and centrality to the decision-making process for THIS specific application."
+  - "Highest priority MUST be given to policies directly governing the listed 'geospatial_constraints'."
+  - "Policies addressing the fundamental 'principle' of the development (acceptability of use/scale in this location) MUST be highly prioritized, considering 'application_type' and 'location_description'."
+  - "The relevance indicated by 'submitted_documents' MUST be considered (e.g., an FRA submission elevates flood policies)."
+  - "The implications of the 'application_type' MUST inform prioritization (e.g., 'Outline' focuses on principle/strategic policies, 'Full' on detailed DM policies, 'LBC' heavily on heritage)."
+  - "Focus on policies likely to be 'determinative' or represent significant assessment hurdles, rather than minor guidance."
+  - "The output MUST be a JSON list containing only the policy IDs (strings)."
+  - "The output list MUST be ordered by priority (most important first)."
+  - "The output list length SHOULD approximate the 'desired_policy_count'."
+  - "The prioritization MUST be based *only* on the provided application context and candidate policy information."

@@ -1,0 +1,2015 @@
+[
+  {
+    "policy_id": "DEL1",
+    "policy_title": "DELIVERY AND IMPLEMENTATION",
+    "policy_type": "Local Plan",
+    "summary": "Outlines how the council will implement the Local Plan policies and proposals, including working with stakeholders, preparing supplementary documents, managing infrastructure delivery through an Infrastructure Delivery Plan, utilizing development management powers, considering financial viability, allocating funding, and preparing annual monitoring reports.",
+    "key_themes": [
+      "implementation",
+      "delivery",
+      "stakeholder engagement",
+      "supplementary planning documents",
+      "infrastructure delivery",
+      "development management",
+      "viability",
+      "monitoring"
+    ],
+    "cross_references": [
+      "Infrastructure Delivery Plan",
+      "Viability Protocol in Appendix 9",
+      "Appendix 6"
+    ],
+    "geographic_mentions": [
+      "Old Oak and Park Royal Development Corporation"
+    ],
+    "targets": [],
+    "page_number": 34
+  },
+  {
+    "policy_id": null,
+    "policy_title": "STRATEGIC POLICY REGENERATION AREAS",
+    "policy_type": "Local Plan",
+    "summary": "The council supports major regeneration and growth in the borough's four regeneration areas, working with the local community and stakeholders to ensure proposals deliver exemplary sustainable communities, meet housing and job targets, respect local context and heritage, and provide necessary infrastructure.",
+    "key_themes": [
+      "regeneration",
+      "strategic growth",
+      "sustainable communities",
+      "housing delivery",
+      "job creation",
+      "urban design",
+      "infrastructure"
+    ],
+    "cross_references": [
+      "Table 1"
+    ],
+    "geographic_mentions": [
+      "borough's four regeneration areas"
+    ],
+    "targets": [
+      "19,800 new homes in the period up to 2035",
+      "29,500 new jobs in the period up to 2035"
+    ],
+    "page_number": 40
+  },
+  {
+    "policy_id": "WCRA",
+    "policy_title": "WHITE CITY REGENERATION AREA",
+    "policy_type": "Local Plan",
+    "summary": "The Council will work to secure comprehensive regeneration of WCRA, focusing on a new high-quality mixed-use development in White City East, a major research/academic facility, regeneration of Shepherd\u2019s Bush Town Centre, and phased estate renewal, delivering 6,000 homes and 10,000 jobs.",
+    "key_themes": [
+      "regeneration",
+      "mixed-use development",
+      "housing",
+      "employment",
+      "research and academic uses",
+      "town centre renewal",
+      "estate renewal",
+      "public transport",
+      "connectivity"
+    ],
+    "cross_references": [
+      "A3220",
+      "Hammersmith & City and Circle Lines"
+    ],
+    "geographic_mentions": [
+      "WCRA",
+      "White City East",
+      "Shepherd\u2019s Bush Town Centre",
+      "White City West",
+      "Westfield",
+      "Wood Lane",
+      "RBKC"
+    ],
+    "targets": [
+      "6,000 new homes",
+      "10,000 jobs"
+    ],
+    "page_number": 44
+  },
+  {
+    "policy_id": "WCRA1",
+    "policy_title": "WHITE CITY EAST",
+    "policy_type": "Local Plan",
+    "summary": "The council will seek regeneration in White City East for a mixed-use urban quarter within a high quality environment. Proposals should include housing, employment (creative/academic), a research hub, leisure, community uses, and significant open space, integrating with the surrounding context and respecting heritage like the former BBC TV Centre.",
+    "key_themes": [
+      "regeneration",
+      "mixed-use development",
+      "urban quarter",
+      "housing",
+      "employment",
+      "research and academic",
+      "open space",
+      "heritage",
+      "connectivity",
+      "infrastructure"
+    ],
+    "cross_references": [
+      "RBKC"
+    ],
+    "geographic_mentions": [
+      "White City East",
+      "Westfield",
+      "WCRA",
+      "Hammersmith and City Line railway viaduct",
+      "RBKC",
+      "former BBC TV Centre"
+    ],
+    "targets": [
+      "local park located centrally of approximately 2ha"
+    ],
+    "page_number": 49
+  },
+  {
+    "policy_id": "WCRA2",
+    "policy_title": "WHITE CITY WEST",
+    "policy_type": "Local Plan",
+    "summary": "The council will work with estate residents and stakeholders to secure the renewal of the estates in White City West and create a sustainable community. Development proposals should support local employment/skills, provide varied housing, appropriate infrastructure, permeable street patterns, and consider redevelopment of Loftus Road Stadium or the TA Centre for residential-led uses with community facilities.",
+    "key_themes": [
+      "estate renewal",
+      "sustainable communities",
+      "housing",
+      "employment support",
+      "infrastructure",
+      "permeability",
+      "community facilities"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [
+      "White City West",
+      "Loftus Road Stadium",
+      "Territorial Army (TA) Centre"
+    ],
+    "targets": [],
+    "page_number": 54
+  },
+  {
+    "policy_id": "WCRA3",
+    "policy_title": "SHEPHERD\u2019S BUSH MARKET AND ADJACENT LAND",
+    "policy_type": "Local Plan",
+    "summary": "The council will support the retention and improvement of Shepherd\u2019s Bush Market to create a vibrant mixed-use area, including leisure, offices, and residential uses, while assisting existing traders and re-providing Goldhawk Road businesses. Affordable housing and workspace are also required.",
+    "key_themes": [
+      "market regeneration",
+      "mixed-use development",
+      "town centre vitality",
+      "small business support",
+      "affordable housing",
+      "affordable workspace"
+    ],
+    "cross_references": [
+      "Policy HO3",
+      "Policy E1"
+    ],
+    "geographic_mentions": [
+      "Shepherd\u2019s Bush Market",
+      "Pennard Road Laundry site",
+      "Lime Grove",
+      "Goldhawk Road"
+    ],
+    "targets": [],
+    "page_number": 56
+  },
+  {
+    "policy_id": "HRA",
+    "policy_title": "HAMMERSMITH REGENERATION AREA",
+    "policy_type": "Local Plan",
+    "summary": "The council will encourage regeneration of Hammersmith Town Centre, leveraging its office and retail strengths, securing modern accommodation, improving the environment and public realm, enhancing access to the Thames, and supporting the replacement of the A4 flyover with a tunnel.",
+    "key_themes": [
+      "town centre regeneration",
+      "office development",
+      "retail development",
+      "public realm",
+      "connectivity",
+      "arts and leisure",
+      "transport infrastructure"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [
+      "Hammersmith Town Centre",
+      "Thames",
+      "Kings Mall",
+      "Town Hall",
+      "Hammersmith Apollo",
+      "Lyric Theatre",
+      "St Pauls Green",
+      "Lyric Square",
+      "river front",
+      "A4"
+    ],
+    "targets": [
+      "2,800 indicative additional homes",
+      "10,000 indicative new jobs"
+    ],
+    "page_number": 60
+  },
+  {
+    "policy_id": "HRA1",
+    "policy_title": "TOWN HALL EXTENSION AND ADJACENT LAND, NIGEL PLAYFAIR AVENUE",
+    "policy_type": "Local Plan",
+    "summary": "The council will work with partners to upgrade the Town Hall Extension and neighbouring land for refurbished/replacement council offices and a mix of town centre uses (retail, employment, housing, cinema), improving the King Street frontage and links to Furnivall Gardens and the river, with building heights consistent with the existing townscape.",
+    "key_themes": [
+      "civic buildings",
+      "town centre regeneration",
+      "mixed-use development",
+      "public realm",
+      "heritage",
+      "connectivity"
+    ],
+    "cross_references": [
+      "Grade II listed Town Hall"
+    ],
+    "geographic_mentions": [
+      "Town Hall Extension",
+      "Nigel Playfair Avenue",
+      "King Street",
+      "Furnivall Gardens",
+      "river",
+      "Grade II listed Town Hall"
+    ],
+    "targets": [],
+    "page_number": 64
+  },
+  {
+    "policy_id": "HRA2",
+    "policy_title": "A4, HAMMERSMITH FLYOVER, HAMMERSMITH GYRATORY AND ADJOINING LAND",
+    "policy_type": "Local Plan",
+    "summary": "The council will work with TfL to replace the Hammersmith Flyover and sections of the A4 with a tunnel, releasing land for mixed-use redevelopment (housing, employment, hotels, retail, arts/culture) that regenerates Hammersmith Town Centre. This includes improving public open space, connectivity to the riverside, and redeveloping the Hammersmith Centre West Island site with an improved bus station and two-way gyratory.",
+    "key_themes": [
+      "transport infrastructure",
+      "urban regeneration",
+      "public realm improvement",
+      "connectivity",
+      "mixed-use development",
+      "housing",
+      "town centre renewal"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [
+      "A4",
+      "Hammersmith Flyover",
+      "Hammersmith Gyratory",
+      "Hammersmith Town Centre",
+      "St Paul\u2019s Green",
+      "Furnivall Gardens",
+      "riverside",
+      "Hammersmith Centre West Island site",
+      "Hammersmith bus station"
+    ],
+    "targets": [],
+    "page_number": 66
+  },
+  {
+    "policy_id": "FRA",
+    "policy_title": "FULHAM REGENERATION AREA",
+    "policy_type": "Local Plan",
+    "summary": "Seeks to leverage substantial regeneration opportunities within the Fulham Regeneration Area (FRA) through strategic site development for community benefit. This includes 7,000 homes and 9,000 jobs, enhancing Fulham Town Centre (especially North End Road), improving estates, and providing necessary infrastructure while respecting heritage.",
+    "key_themes": [
+      "regeneration",
+      "housing",
+      "employment",
+      "town centre vitality",
+      "estate renewal",
+      "infrastructure",
+      "heritage",
+      "community benefit"
+    ],
+    "cross_references": [
+      "Grade II* listed Fulham Town Hall",
+      "Grade I Historic Park and Garden at Brompton Cemetery"
+    ],
+    "geographic_mentions": [
+      "Fulham Regeneration Area (FRA)",
+      "Royal Borough of Kensington and Chelsea",
+      "Fulham Town Centre",
+      "North End Road",
+      "West Kensington",
+      "Gibbs Green",
+      "Registered Provider estates",
+      "Fulham Town Hall",
+      "Brompton Cemetery"
+    ],
+    "targets": [
+      "7,000 indicative additional homes",
+      "9,000 indicative new jobs"
+    ],
+    "page_number": 72
+  },
+  {
+    "policy_id": "FRA1",
+    "policy_title": "EARL\u2019S COURT AND WEST KENSINGTON OPPORTUNITY AREA",
+    "policy_type": "Local Plan",
+    "summary": "Supports the phased mixed-use residential-led redevelopment of the Earl\u2019s Court and West Kensington Opportunity Area. Proposals should provide housing, employment, hotels, leisure, retail, cultural facilities, supporting infrastructure, green corridors, and a centrally located local park of at least 2 hectares. Tall buildings may be considered subject to full urban design analysis.",
+    "key_themes": [
+      "opportunity area",
+      "regeneration",
+      "mixed-use development",
+      "residential-led development",
+      "housing",
+      "employment",
+      "cultural facilities",
+      "infrastructure",
+      "open space",
+      "tall buildings"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [
+      "Earl\u2019s Court and West Kensington Opportunity Area",
+      "West Kensington",
+      "Gibbs Green",
+      "Registered Provider estates"
+    ],
+    "targets": [
+      "local park of at least 2 hectares"
+    ],
+    "page_number": 75
+  },
+  {
+    "policy_id": "SFRRA",
+    "policy_title": "SOUTH FULHAM RIVERSIDE REGENERATION AREA",
+    "policy_type": "Local Plan",
+    "summary": "The council will work with partners to secure the phased regeneration of the South Fulham Riverside area into a high-quality residential area with mixed uses (employment, small retail/leisure). This includes improving riverside access, connectivity (including a pedestrian/cycle bridge and a new Crossrail 2 station at Imperial Wharf), and infrastructure, while ensuring sensitive design.",
+    "key_themes": [
+      "riverside regeneration",
+      "residential development",
+      "mixed-use development",
+      "public access",
+      "connectivity",
+      "transport infrastructure",
+      "urban design",
+      "employment"
+    ],
+    "cross_references": [
+      "Local Plan River Thames policies",
+      "Crossrail 2"
+    ],
+    "geographic_mentions": [
+      "South Fulham Riverside Regeneration Area (SFRRA)",
+      "Imperial Wharf Station",
+      "Wandsworth Bridge Road",
+      "Townmead Road",
+      "Carnwath Road junction",
+      "Thames Path National Trail",
+      "Imperial Wharf"
+    ],
+    "targets": [
+      "4,000 additional dwellings by 2035",
+      "500 indicative new jobs"
+    ],
+    "page_number": 81
+  },
+  {
+    "policy_id": "SFRRA1",
+    "policy_title": "IMPERIAL GASWORKS NATIONAL GRID",
+    "policy_type": "Local Plan",
+    "summary": "Supports comprehensive residential-led development of the Imperial Gasworks National Grid site, with supporting community facilities and open space. Development must respect the character of the Imperial Square and Gasworks Conservation Area, protect the Grade II Listed Gasholder, improve connectivity (including a new link road and pedestrian access under the West London Line), and manage impacts on skyline and heritage assets.",
+    "key_themes": [
+      "brownfield regeneration",
+      "residential development",
+      "heritage conservation",
+      "open space",
+      "connectivity",
+      "community facilities",
+      "urban design"
+    ],
+    "cross_references": [
+      "Grade II Listed Gasholder"
+    ],
+    "geographic_mentions": [
+      "Imperial Gasworks National Grid site",
+      "Imperial Road",
+      "New Kings Road",
+      "West London Line",
+      "Lots Road",
+      "Imperial Square and Gasworks Conservation Area",
+      "Chelsea Creek"
+    ],
+    "targets": [],
+    "page_number": 86
+  },
+  {
+    "policy_id": "HO1",
+    "policy_title": "HOUSING SUPPLY",
+    "policy_type": "Local Plan",
+    "summary": "The council aims to exceed the London Plan (2016) minimum housing target by achieving new homes through development of strategic sites, SHLAA sites, windfall sites, conversions, retaining existing stock, returning vacant homes to use, and supporting self/custom builds.",
+    "key_themes": [
+      "housing supply",
+      "housing targets",
+      "residential development",
+      "land availability",
+      "conversions",
+      "self-build",
+      "custom build"
+    ],
+    "cross_references": [
+      "London Plan (2016)",
+      "London SHLAA Strategic Housing Land Availability Assessment (SHLAA)"
+    ],
+    "geographic_mentions": [],
+    "targets": [
+      "exceed minimum target of 1,031 additional dwellings a year up to 2025",
+      "seek at least 1,031 additional dwellings a year in the period up to 2035"
+    ],
+    "page_number": 90
+  },
+  {
+    "policy_id": "HO2",
+    "policy_title": "HOUSING CONVERSION AND RETENTION",
+    "policy_type": "Local Plan",
+    "summary": "Permits conversions of existing dwellings into two or more dwellings if the original dwelling exceeds 120m\u00b2, at least 50% of new units are 2+ bedrooms, family housing has garden/amenity access, and no adverse parking impact. Resists net loss of permanent residential accommodation. Supports reinstatement of family houses.",
+    "key_themes": [
+      "housing conversion",
+      "housing retention",
+      "family housing",
+      "residential amenity",
+      "parking management"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [],
+    "targets": [
+      "original dwelling > 120m\u00b2 for conversion",
+      "at least 50% of proposed units consist of two or more bedrooms",
+      "streets with less than 10% night-time free parking space (may restrict additional dwellings)"
+    ],
+    "page_number": 94
+  },
+  {
+    "policy_id": "HO3",
+    "policy_title": "AFFORDABLE HOUSING",
+    "policy_type": "Local Plan",
+    "summary": "Requires affordable housing in developments of 11+ dwellings (or sites with capacity for 11+), targeting at least 50% affordable overall. Specifies a 60% social/affordable rented and 40% intermediate housing tenure split for affordable units. Affordable homes should be distributed throughout developments. Negotiation considers viability, site specifics, and public subsidy. No net loss of social/affordable rented housing.",
+    "key_themes": [
+      "affordable housing",
+      "housing targets",
+      "tenure mix",
+      "viability",
+      "housing need",
+      "social rented housing",
+      "intermediate housing"
+    ],
+    "cross_references": [
+      "Viability Protocol (Appendix 9)",
+      "paragraph 6.39"
+    ],
+    "geographic_mentions": [],
+    "targets": [
+      "at least 50% of all dwellings built should be affordable",
+      "60% of additional affordable housing for social or affordable renting",
+      "40% of additional affordable housing for intermediate housing",
+      "developments of 11 or more self-contained dwellings"
+    ],
+    "page_number": 95
+  },
+  {
+    "policy_id": "HO4",
+    "policy_title": "HOUSING QUALITY AND DENSITY",
+    "policy_type": "Local Plan",
+    "summary": "Expects all housing development to respect local context, provide high-quality, well-designed, energy-efficient homes with a good range of types/sizes and adequate amenity space. New housing must meet London Plan internal space standards. Density should be appropriate to context, public transport accessibility (PTAL 4-6 for high density), and good design principles.",
+    "key_themes": [
+      "housing quality",
+      "urban design",
+      "density",
+      "residential amenity",
+      "energy efficiency",
+      "space standards",
+      "accessibility"
+    ],
+    "cross_references": [
+      "Design and Conservation policies",
+      "London Plan internal space policies",
+      "Policy OS1 Parks and Open Spaces",
+      "Housing SPG"
+    ],
+    "geographic_mentions": [],
+    "targets": [
+      "PTAL 4-6 (for high density housing)"
+    ],
+    "page_number": 100
+  },
+  {
+    "policy_id": "HO5",
+    "policy_title": "HOUSING MIX",
+    "policy_type": "Local Plan",
+    "summary": "Requires development schemes to provide a mix of housing types and sizes, including family accommodation, meeting local needs. Aims for specific bedroom mixes in social/affordable rented (10% 1-bed, 40% 2-bed, 35% 3-bed, 15% 4+bed) and intermediate housing (50% 1-bed, 35% 2-bed, 15% 3+bed), subject to viability and site specifics. Market housing should also include larger family units.",
+    "key_themes": [
+      "housing mix",
+      "unit sizes",
+      "family housing",
+      "affordable housing",
+      "local needs"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [],
+    "targets": [
+      "Social/affordable rented: 1 bed: 10%, 2 beds: 40%, 3 beds: 35%, 4+ beds: 15% (approximate)",
+      "Intermediate housing: 1 bed: 50%, 2 bed: 35%, 3 or more beds: 15% (approximate)"
+    ],
+    "page_number": 102
+  },
+  {
+    "policy_id": "HO6",
+    "policy_title": "ACCESSIBLE HOUSING",
+    "policy_type": "Local Plan",
+    "summary": "Requires 90% of new housing to meet Building Regulation M4(2) 'accessible and adaptable dwellings' and 10% to meet M4(3) 'wheelchair user dwellings', with M4(3) units proportionate to tenure mix. Accessible parking for blue badge holders is also required.",
+    "key_themes": [
+      "accessible housing",
+      "inclusive design",
+      "wheelchair accessibility",
+      "building regulations",
+      "parking"
+    ],
+    "cross_references": [
+      "Building Regulation requirement M4(2)",
+      "Building Regulation requirement M4(3)",
+      "Local Plan Policy T5",
+      "British Standards",
+      "London Plan (2016) Policy 3.8"
+    ],
+    "geographic_mentions": [],
+    "targets": [
+      "90% of new housing to meet M4(2)",
+      "10% of new housing to meet M4(3)"
+    ],
+    "page_number": 103
+  },
+  {
+    "policy_id": "HO7",
+    "policy_title": "MEETING NEEDS OF PEOPLE WHO NEED CARE AND SUPPORT",
+    "policy_type": "Local Plan",
+    "summary": "Encourages and supports applications for new special needs and supported housing, including for older people, if it meets criteria of established local need, satisfactory facility standards, good public transport accessibility, and no detrimental impact on local amenity or services. Loss of existing special needs housing resisted unless no longer needed or replaced.",
+    "key_themes": [
+      "special needs housing",
+      "supported housing",
+      "older people's housing",
+      "care facilities",
+      "accessibility",
+      "local need"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 105
+  },
+  {
+    "policy_id": "HO8",
+    "policy_title": "HOSTELS AND HOUSES IN MULTIPLE OCCUPATION",
+    "policy_type": "Local Plan",
+    "summary": "Assesses planning applications for new Houses in Multiple Occupation (HMOs) or hostels, or for the loss of existing ones, based on the quality of accommodation, impact on the locality, and the local need for such accommodation.",
+    "key_themes": [
+      "HMOs",
+      "hostels",
+      "housing quality",
+      "residential amenity",
+      "local need"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 106
+  },
+  {
+    "policy_id": "HO9",
+    "policy_title": "STUDENT ACCOMMODATION",
+    "policy_type": "Local Plan",
+    "summary": "Supports student accommodation as part of mixed-use schemes in White City and Earls Court/West Kensington Opportunity Areas. Outside these areas, proposals are assessed site-by-site and resisted if likely to have adverse local impacts. Requires good public transport accessibility (PTAL 4-6), no loss of existing housing, no detrimental local impact (with management plan), high quality design, wheelchair accessibility, and secured occupation by students of specified institutions or affordable accommodation element per London Plan.",
+    "key_themes": [
+      "student accommodation",
+      "mixed-use development",
+      "opportunity areas",
+      "public transport accessibility",
+      "housing quality",
+      "residential amenity",
+      "management plan"
+    ],
+    "cross_references": [
+      "London Plan"
+    ],
+    "geographic_mentions": [
+      "White City Opportunity Areas",
+      "Earls Court and West Kensington Opportunity Areas"
+    ],
+    "targets": [
+      "PTAL 4-6 (public transport accessibility)"
+    ],
+    "page_number": 107
+  },
+  {
+    "policy_id": "HO10",
+    "policy_title": "GYPSY AND TRAVELLER ACCOMMODATION",
+    "policy_type": "Local Plan",
+    "summary": "The council will seek to address joint Gypsy and Traveller accommodation needs identified in the 2016 Assessment, working with RBKC and partners to protect, improve, and if necessary, increase capacity at the existing Stable Way site. Additional sites will meet Planning Policy for Traveller Sites (2015) requirements.",
+    "key_themes": [
+      "gypsy and traveller accommodation",
+      "housing need",
+      "site provision",
+      "partnership working"
+    ],
+    "cross_references": [
+      "Gypsy and Traveller Accommodation Needs Assessment (2016)",
+      "Planning Policy for Traveller Sites (2015)"
+    ],
+    "geographic_mentions": [
+      "Stable Way",
+      "White City Opportunity Area",
+      "Royal Borough of Kensington and Chelsea (RBKC)"
+    ],
+    "targets": [],
+    "page_number": 109
+  },
+  {
+    "policy_id": "HO11",
+    "policy_title": "DETAILED RESIDENTIAL STANDARDS",
+    "policy_type": "Local Plan",
+    "summary": "Ensures all new housing (new build, conversions, change of use) is of high design quality, meets future occupant needs, and respects good neighbourliness. Considers floor areas/room sizes (meeting 'Nationally Described Space Standards'), accessibility, amenity/garden space, safety, parking, flood protection, sustainable energy, durable materials, waste storage, noise insulation, and protection of existing residential amenities (daylight, sunlight, privacy, outlook). Extensions must not cause detrimental impact.",
+    "key_themes": [
+      "residential standards",
+      "design quality",
+      "housing amenity",
+      "accessibility",
+      "sustainability",
+      "good neighbourliness",
+      "space standards"
+    ],
+    "cross_references": [
+      "Nationally Described Space Standards",
+      "Planning Guidance SPD"
+    ],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 110
+  },
+  {
+    "policy_id": "E1",
+    "policy_title": "PROVIDING FOR A RANGE OF EMPLOYMENT USES",
+    "policy_type": "Local Plan",
+    "summary": "Supports proposals for new employment uses, especially in creative industries, health, bio-medical, and research sectors (e.g., Imperial College). Also supports retention/enhancement of existing employment uses, requiring flexible/affordable space for SMEs. Considers scale, local impact, employment opportunities, and economic strategies. Large office development (>2,500m\u00b2) is preferred in town centres or Opportunity Areas.",
+    "key_themes": [
+      "employment uses",
+      "economic development",
+      "creative industries",
+      "health services",
+      "bio-medical research",
+      "SMEs",
+      "office development",
+      "town centres",
+      "opportunity areas"
+    ],
+    "cross_references": [
+      "Hammersmith and Fulham Economic Growth Plan"
+    ],
+    "geographic_mentions": [
+      "Imperial College in Shepherd\u2019s Bush",
+      "White City Opportunity Area",
+      "Earl\u2019s Court and West Kensington Opportunity Area"
+    ],
+    "targets": [
+      "new office development above 2,500m\u00b2"
+    ],
+    "page_number": 114
+  },
+  {
+    "policy_id": "E2",
+    "policy_title": "LAND AND PREMISES FOR EMPLOYMENT USES",
+    "policy_type": "Local Plan",
+    "summary": "Requires retention of land and premises for employment or local services. Change of use is permitted only if continued use would adversely impact residential areas, an alternative use offers demonstrably greater benefit not achievable elsewhere, or the property is evidenced as no longer required for employment (considering suitability, marketing for at least 12 months, and impact on employment clusters). Mixed-use enhancement of underutilised sites is acceptable if employment uses are satisfactorily retained/replaced.",
+    "key_themes": [
+      "employment land",
+      "retention of employment uses",
+      "change of use",
+      "marketing evidence",
+      "mixed-use development"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [],
+    "targets": [
+      "marketing over a period of at least 12 months"
+    ],
+    "page_number": 116
+  },
+  {
+    "policy_id": "E3",
+    "policy_title": "PROVISION FOR VISITOR ACCOMMODATION AND FACILITIES",
+    "policy_type": "Local Plan",
+    "summary": "Permits new or extended visitor accommodation in town centres and specific Opportunity Areas if well-located for public transport, no detrimental local impact, no loss of housing, adequate servicing, high design standard, adds to variety/quality, and provides at least 10% wheelchair accessible bedrooms. Small scale hotels or those related to major attractions may be considered elsewhere under these criteria.",
+    "key_themes": [
+      "visitor accommodation",
+      "hotels",
+      "tourism",
+      "town centres",
+      "opportunity areas",
+      "accessibility",
+      "design quality"
+    ],
+    "cross_references": [
+      "London Plan"
+    ],
+    "geographic_mentions": [
+      "three town centres",
+      "Earl\u2019s Court and West Kensington Opportunity Area",
+      "White City Opportunity Area"
+    ],
+    "targets": [
+      "at least 10% of hotel bedrooms designed as wheelchair accessible"
+    ],
+    "page_number": 118
+  },
+  {
+    "policy_id": "E4",
+    "policy_title": "LOCAL EMPLOYMENT, TRAINING AND SKILLS DEVELOPMENT INITIATIVES",
+    "policy_type": "Local Plan",
+    "summary": "Requires major developments and larger employment-generating developments (including visitor accommodation) to provide appropriate employment, training, and skills initiatives for local people of all abilities during construction and operation. Encourages local businesses to adopt the London Living Wage.",
+    "key_themes": [
+      "local employment",
+      "training initiatives",
+      "skills development",
+      "major developments",
+      "London Living Wage",
+      "social inclusion"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 119
+  },
+  {
+    "policy_id": "TLC1",
+    "policy_title": "HIERARCHY OF TOWN AND LOCAL CENTRES",
+    "policy_type": "Local Plan",
+    "summary": "The council will work to enhance the vitality and viability of its hierarchy of three town centres, 5 key local centres, 15 neighbourhood parades, and 6 satellite parades. This includes supporting regeneration, maintaining retail function, promoting night-time economy, allowing residential above ground floor, ensuring a mix of shops, appropriate scale of new development, requiring impact assessments for out-of-centre retail (>300m\u00b2), promoting shopmobility, safeguarding local shops, protecting markets, and seeking affordable retail space.",
+    "key_themes": [
+      "town centres",
+      "local centres",
+      "retail hierarchy",
+      "vitality and viability",
+      "mixed-use development",
+      "night-time economy",
+      "retail impact assessment",
+      "local markets"
+    ],
+    "cross_references": [
+      "Appendix 2",
+      "Map 5",
+      "Table 3",
+      "NPPF"
+    ],
+    "geographic_mentions": [
+      "three town centres",
+      "5 key local centres",
+      "15 neighbourhood parades",
+      "6 satellite parades"
+    ],
+    "targets": [
+      "retail impact assessment for out of centre retail proposals >300m\u00b2 (gross)"
+    ],
+    "page_number": 122
+  },
+  {
+    "policy_id": "TLC2",
+    "policy_title": "TOWN CENTRES",
+    "policy_type": "Local Plan",
+    "summary": "In designated town centres, changes from A class use at street level are permitted for complementary alternative uses that maintain vitality, provided no more than 40% of prime retail frontage changes to non-A1 uses. Additional A4/A5 uses, betting shops, payday loan shops, amusement centres, mini cab offices, and residential uses are not permitted on the ground floor of prime retail frontages. Non-prime frontages also have criteria. Lawful use and extant permissions are considered in frontage calculations.",
+    "key_themes": [
+      "town centres",
+      "retail frontages",
+      "change of use",
+      "A class uses",
+      "vitality and viability",
+      "prime retail areas"
+    ],
+    "cross_references": [
+      "Policies Map",
+      "Table 4"
+    ],
+    "geographic_mentions": [],
+    "targets": [
+      "no more than 40% of the length of the prime retail frontage as a whole will be permitted to change to non-class A1 uses"
+    ],
+    "page_number": 127
+  },
+  {
+    "policy_id": "TLC3",
+    "policy_title": "LOCAL CENTRES",
+    "policy_type": "Local Plan",
+    "summary": "Permits changes of use in designated key local centres, neighbourhood parades, and satellite parades if complementary to the centre's function and vitality, and meets specified quotas for non-Class A1 uses (40% for neighbourhood, 50% for key local, 60% for satellite). Exceptions may be considered for premises vacant for at least 1 year with marketing evidence, based on unit's contribution, need, and shop front appearance. Ground floor residential frontages are not permitted.",
+    "key_themes": [
+      "local centres",
+      "neighbourhood parades",
+      "satellite parades",
+      "retail",
+      "change of use",
+      "vitality and viability",
+      "quotas",
+      "vacancy"
+    ],
+    "cross_references": [
+      "Policies Map",
+      "Appendix 2"
+    ],
+    "geographic_mentions": [],
+    "targets": [
+      "Neighbourhood Parades: no more than 40% non-class A1 uses",
+      "Key Local Centres: no more than 50% non-class A1 uses",
+      "Satellite Parades: no more than 60% non-class A1 uses",
+      "vacant for at least 1 year with evidence of marketing"
+    ],
+    "page_number": 129
+  },
+  {
+    "policy_id": "TLC4",
+    "policy_title": "SMALL NON DESIGNATED PARADES, CLUSTERS AND CORNER SHOPS",
+    "policy_type": "Local Plan",
+    "summary": "Seeks to retain shops and other local services in small non-designated parades, clusters, and corner shops to meet local needs. Residential use and changes to other non-Class A uses are permitted only if this does not result in a demonstrable shortage of Class A1 uses in the locality. Assessment considers proximity to other retail (400m benchmark), vacancy duration, marketing, and impact on the parade/cluster quality.",
+    "key_themes": [
+      "local retail",
+      "neighbourhood shops",
+      "corner shops",
+      "change of use",
+      "retail provision",
+      "local services"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [],
+    "targets": [
+      "400 metres (benchmark for alternative shopping)"
+    ],
+    "page_number": 131
+  },
+  {
+    "policy_id": "TLC5",
+    "policy_title": "MANAGING THE IMPACT OF FOOD, DRINK AND ENTERTAINMENT USES",
+    "policy_type": "Local Plan",
+    "summary": "Controls operating hours for Class A3, A4, A5 food/drink establishments and arts/culture/leisure uses: generally not later than 23:00, or 24:00 in predominantly commercial areas (e.g., parts of town centres). Extended opening may be permitted if no adverse impact (especially on residents), no increased cumulative impact, good public transport accessibility, and no demonstrable increase in parking demand on sensitive roads. Start times may also be conditioned.",
+    "key_themes": [
+      "night-time economy",
+      "food and drink uses",
+      "entertainment uses",
+      "operating hours",
+      "residential amenity",
+      "cumulative impact",
+      "public transport",
+      "parking"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [],
+    "targets": [
+      "not open to customers later than 23:00 (general)",
+      "not open to customers later than 24:00 (predominantly commercial areas)"
+    ],
+    "page_number": 132
+  },
+  {
+    "policy_id": "TLC6",
+    "policy_title": "BETTING SHOPS, PAWNBROKERS AND PAYDAY LOAN SHOPS AND HOT FOOD TAKEAWAYS",
+    "policy_type": "Local Plan",
+    "summary": "Manages the concentration of betting shops, pawnbrokers, and payday loan shops by considering proposals against Policies TLC2/TLC3 quotas and requiring no adverse amenity/character/function impact or unacceptable concentration. For hot food takeaways (A5), additionally considers proximity to existing takeaways, compatibility, and health impacts.",
+    "key_themes": [
+      "retail mix",
+      "betting shops",
+      "pawnbrokers",
+      "payday loan shops",
+      "hot food takeaways",
+      "cumulative impact",
+      "public health",
+      "amenity"
+    ],
+    "cross_references": [
+      "Policy TLC2",
+      "Policy TLC3"
+    ],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 134
+  },
+  {
+    "policy_id": "TLC7",
+    "policy_title": "PUBLIC HOUSES",
+    "policy_type": "Local Plan",
+    "summary": "Permits change of use or redevelopment of a public house (A4) only after considering retail policies and assessing: economic viability (including 12 months marketing), community role, design/heritage value, and suitability for alternative uses without demolition/detrimental alteration. Buildings of townscape/historic significance must be retained. Ground floor residential use is restricted. Applicant must assess community facility needs.",
+    "key_themes": [
+      "public houses",
+      "community facilities",
+      "heritage conservation",
+      "viability",
+      "change of use",
+      "marketing evidence",
+      "asset of community value"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [],
+    "targets": [
+      "marketing for a continuous period of at least 12 months"
+    ],
+    "page_number": 135
+  },
+  {
+    "policy_id": "CF1",
+    "policy_title": "SUPPORTING COMMUNITY FACILITIES AND SERVICES",
+    "policy_type": "Local Plan",
+    "summary": "The council will work with strategic partners to provide high-quality, accessible, and inclusive borough-wide facilities. This includes ensuring quality healthcare (retaining/enhancing facilities like Charing Cross Hospital, securing sites for new provision), improving school provision (expansion, new free schools, special needs, childcare), and improving leisure, recreation, sports, arts, cultural, and entertainment facilities (protecting existing, supporting re-provision, seeking new/enhanced facilities in major developments).",
+    "key_themes": [
+      "community facilities",
+      "healthcare",
+      "education",
+      "schools",
+      "leisure",
+      "recreation",
+      "sports",
+      "arts and culture",
+      "public services",
+      "infrastructure"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [
+      "Charing Cross Hospital",
+      "White City Opportunity Area",
+      "Earls Court and West Kensington Opportunity Area",
+      "OPDC area"
+    ],
+    "targets": [],
+    "page_number": 140
+  },
+  {
+    "policy_id": "CF2",
+    "policy_title": "ENHANCEMENT AND RETENTION OF COMMUNITY USES",
+    "policy_type": "Local Plan",
+    "summary": "Requires new or expanded community uses to meet local needs, be compatible with the local environment, and be accessible and inclusive. Existing community uses should be retained, enhanced, or replaced, unless clear evidence shows no identified need or appropriate replacement elsewhere. Assessment considers the facility's role for community groups and requires a viability report (including 12 months marketing) if loss is proposed due to non-viability.",
+    "key_themes": [
+      "community facilities",
+      "retention of facilities",
+      "local needs",
+      "accessibility",
+      "inclusive design",
+      "viability",
+      "marketing evidence"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [],
+    "targets": [
+      "marketing for a continuous period of at least 12 months"
+    ],
+    "page_number": 146
+  },
+  {
+    "policy_id": "CF3",
+    "policy_title": "ENHANCEMENT AND RETENTION OF ARTS, CULTURE, ENTERTAINMENT, LEISURE, RECREATION AND SPORT USES",
+    "policy_type": "Local Plan",
+    "summary": "Supports the enhancement of arts, culture, entertainment, leisure, recreation, and sport uses. New/expanded venues must be accessible, inclusive, and mitigate impacts (noise, traffic, parking, opening hours). Retention of existing uses is sought unless no longer needed or viable (proven by a viability report with 12 months marketing). Supports temporary use of vacant buildings for creative work.",
+    "key_themes": [
+      "arts and culture",
+      "entertainment facilities",
+      "leisure facilities",
+      "recreation facilities",
+      "sports facilities",
+      "retention of facilities",
+      "accessibility",
+      "viability",
+      "marketing evidence"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [],
+    "targets": [
+      "marketing for a continuous period of at least 12 months"
+    ],
+    "page_number": 147
+  },
+  {
+    "policy_id": "CF4",
+    "policy_title": "PROFESSIONAL FOOTBALL GROUNDS",
+    "policy_type": "Local Plan",
+    "summary": "Requires any redevelopment proposal for all or part of an existing football ground to include the re-provision of suitable facilities to enable the continuation of professional football or other field-based spectator sports in the borough.",
+    "key_themes": [
+      "sports facilities",
+      "football grounds",
+      "professional sport",
+      "recreation",
+      "community assets",
+      "re-provision of facilities"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 148
+  },
+  {
+    "policy_id": "OS1",
+    "policy_title": "PARKS AND OPEN SPACES",
+    "policy_type": "Local Plan",
+    "summary": "The council will protect, enhance, and increase provision of parks, open spaces, and biodiversity by designating a hierarchy of open spaces (MOL, borough-wide, local importance), nature conservation areas, and green corridors. It will require new public and private open space in major developments, especially in regeneration areas, and improve existing facilities.",
+    "key_themes": [
+      "open space",
+      "parks",
+      "biodiversity",
+      "green infrastructure",
+      "nature conservation",
+      "hierarchy of spaces",
+      "public realm"
+    ],
+    "cross_references": [
+      "Appendix 3",
+      "Appendix 4",
+      "Policies Map",
+      "White City Opportunity Area",
+      "Earls Court and West Kensington Opportunity Area",
+      "South Fulham Riverside Regeneration Area"
+    ],
+    "geographic_mentions": [
+      "White City Opportunity Area",
+      "Earls Court and West Kensington Opportunity Area",
+      "South Fulham Riverside Regeneration Area",
+      "Wormwood Scrubs"
+    ],
+    "targets": [],
+    "page_number": 150
+  },
+  {
+    "policy_id": "OS2",
+    "policy_title": "ACCESS TO PARKS AND OPEN SPACES",
+    "policy_type": "Local Plan",
+    "summary": "Seeks to reduce open space deficiency and protect/enhance existing open space quality and access. Refuses development on public open space and strategic/borough-wide importance unless no harm to character, function, biodiversity, or visual amenity. Development on other open space resisted unless it releases a site for needed development with qualitative community gain and replacement open space is provided. Requires new accessible/inclusive open space in major developments, particularly in regeneration areas, and seeks improvements to existing spaces like Linford Christie Stadium.",
+    "key_themes": [
+      "open space",
+      "access to open space",
+      "protection of open space",
+      "recreation",
+      "biodiversity",
+      "new provision",
+      "community benefit"
+    ],
+    "cross_references": [
+      "Appendix 3",
+      "Policies Map"
+    ],
+    "geographic_mentions": [
+      "Linford Christie Stadium"
+    ],
+    "targets": [],
+    "page_number": 153
+  },
+  {
+    "policy_id": "OS3",
+    "policy_title": "PLAYSPACE FOR CHILDREN AND YOUNG PEOPLE",
+    "policy_type": "Local Plan",
+    "summary": "Prevents loss of existing children's and young people's playspace or increased deficiency. Requires new residential development with family accommodation to provide accessible, inclusive, safe, secure, well-designed, and located communal playspace on site, catering to different age groups and disabled children, proportionate to the development's scale.",
+    "key_themes": [
+      "playspace",
+      "children and young people",
+      "recreation",
+      "open space provision",
+      "residential development",
+      "inclusive design",
+      "family accommodation"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 154
+  },
+  {
+    "policy_id": "OS4",
+    "policy_title": "NATURE CONSERVATION",
+    "policy_type": "Local Plan",
+    "summary": "Protects designated nature conservation areas and green corridors (Policies Map, Map 7, Appendix 4) from development causing demonstrable harm to ecological value, unless it achieves qualitative community gain with no net loss of native species/habitat, or provides replacement interest elsewhere. Outside these areas, proposals should enhance nature conservation interest. Planning conditions/obligations will ensure maintenance/enhancement.",
+    "key_themes": [
+      "nature conservation",
+      "biodiversity",
+      "green corridors",
+      "habitats",
+      "ecological value",
+      "mitigation",
+      "enhancement",
+      "green infrastructure"
+    ],
+    "cross_references": [
+      "Policies Map",
+      "Map 7",
+      "Appendix 4"
+    ],
+    "geographic_mentions": [
+      "River Thames",
+      "Kensal Green Cemetery",
+      "Brook Green"
+    ],
+    "targets": [
+      "no net loss of native species",
+      "no net loss of habitat"
+    ],
+    "page_number": 155
+  },
+  {
+    "policy_id": "OS5",
+    "policy_title": "GREENING THE BOROUGH",
+    "policy_type": "Local Plan",
+    "summary": "Seeks to enhance biodiversity and green infrastructure by maximising gardens/soft landscaping/green/brown roofs in new development; protecting existing gardens and trees; preventing removal/mutilation of protected trees; seeking retention of existing trees and provision of new ones on development sites; adding to street/public realm greening; and making Tree Preservation Orders where justified.",
+    "key_themes": [
+      "greening",
+      "biodiversity",
+      "green infrastructure",
+      "urban greening",
+      "soft landscaping",
+      "tree protection",
+      "gardens",
+      "green roofs"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 158
+  },
+  {
+    "policy_id": "RTC1",
+    "policy_title": "RIVER THAMES",
+    "policy_type": "Local Plan",
+    "summary": "The council will work with partners to enhance and increase access to and use of the River Thames and Chelsea Creek. This includes identifying a Thames Policy Area, encouraging development of vacant/underused land, protecting water-dependent uses, enhancing biodiversity, safeguarding flood defences, improving the Thames Path National Trail, promoting transport uses (passenger/freight), and seeking foreshore improvements per relevant plans.",
+    "key_themes": [
+      "river thames",
+      "waterways",
+      "riverside development",
+      "public access",
+      "biodiversity",
+      "flood defence",
+      "transport",
+      "thames path"
+    ],
+    "cross_references": [
+      "Policies Map",
+      "Thames River Basin Management Plan",
+      "Thames Estuary 2100 Plan",
+      "Thames Strategy \u2013 Kew to Chelsea 2002"
+    ],
+    "geographic_mentions": [
+      "River Thames",
+      "Chelsea Creek",
+      "Thames Policy Area"
+    ],
+    "targets": [],
+    "page_number": 162
+  },
+  {
+    "policy_id": "RTC2",
+    "policy_title": "ACCESS TO THE THAMES RIVERSIDE AND FORESHORE",
+    "policy_type": "Local Plan",
+    "summary": "Seeks accessible and inclusive public access to the riverside, including through-site links in riparian development and provision/enhancement of the Thames Path National Trail (riverside walk). The walk should generally be at least 6 metres wide and accessible to cyclists if safe. Promotes retention/enhancement of access to/from the foreshore where appropriate and safe, and enjoyment of riverside heritage/open spaces. Flood defences must not be adversely affected.",
+    "key_themes": [
+      "riverside access",
+      "thames path",
+      "foreshore access",
+      "public realm",
+      "pedestrian access",
+      "cycle access",
+      "heritage",
+      "inclusive design"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [
+      "Thames Riverside",
+      "Foreshore",
+      "Thames Path National Trail"
+    ],
+    "targets": [
+      "riverside walk should generally be at least 6 metres wide"
+    ],
+    "page_number": 163
+  },
+  {
+    "policy_id": "RTC3",
+    "policy_title": "DESIGN AND APPEARANCE OF DEVELOPMENT WITHIN THE THAMES POLICY AREA",
+    "policy_type": "Local Plan",
+    "summary": "Permits development within the Thames Policy Area (Policies Map) only if it respects the riverside (foreshore, context, heritage), is of high accessible/inclusive design standard, and maintains/enhances built, natural, and historic environment quality. Encourages greening/naturalising of river bank/flood defences (per Thames Estuary 2100 Plan). Requires a design and access statement.",
+    "key_themes": [
+      "riverside design",
+      "thames policy area",
+      "urban design",
+      "heritage conservation",
+      "landscape character",
+      "flood defence",
+      "biodiversity",
+      "public access"
+    ],
+    "cross_references": [
+      "Policies Map",
+      "Thames Estuary 2100 Plan"
+    ],
+    "geographic_mentions": [
+      "Thames Policy Area"
+    ],
+    "targets": [],
+    "page_number": 165
+  },
+  {
+    "policy_id": "RTC4",
+    "policy_title": "WATER-BASED ACTIVITY ON THE THAMES",
+    "policy_type": "Local Plan",
+    "summary": "Permits development for water-based/river-related activities (e.g., new permanent moorings, passenger services) if suitably located, compatible with river character/wildlife, and safe for navigation/environment/flood defences. Loss of existing facilities for water-based activities is resisted unless surplus or adequately replaced. Specific requirements for safeguarded wharves are in the London Plan.",
+    "key_themes": [
+      "water-based activities",
+      "river thames",
+      "recreation",
+      "transport",
+      "moorings",
+      "safeguarded wharves",
+      "navigation safety",
+      "environmental protection"
+    ],
+    "cross_references": [
+      "London Plan"
+    ],
+    "geographic_mentions": [
+      "River Thames"
+    ],
+    "targets": [],
+    "page_number": 166
+  },
+  {
+    "policy_id": "DC1",
+    "policy_title": "BUILT ENVIRONMENT",
+    "policy_type": "Local Plan",
+    "summary": "Requires all development to create a high-quality urban environment that respects and enhances its townscape context and heritage assets. Emphasises an accessible and inclusive urban design approach, integrating good design, quality public realm, landscaping, heritage assets, and land use to regenerate places.",
+    "key_themes": [
+      "urban design",
+      "built environment",
+      "heritage assets",
+      "townscape",
+      "public realm",
+      "landscaping",
+      "accessibility",
+      "inclusive design",
+      "regeneration"
+    ],
+    "cross_references": [
+      "NPPF",
+      "Historic England Historic Environment Planning Practice Guide",
+      "Streetsmart"
+    ],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 170
+  },
+  {
+    "policy_id": "DC2",
+    "policy_title": "DESIGN OF NEW BUILD",
+    "policy_type": "Local Plan",
+    "summary": "Permits new build development if it achieves a high standard of design and is compatible with the scale and character of existing development and its setting. Proposals must respect historical context, scale, mass, form, grain, local design context (rhythm, materials, detailing), neighbourliness, landscape, sustainability objectives, accessible/inclusive design, and Secured by Design principles.",
+    "key_themes": [
+      "urban design",
+      "new build",
+      "contextual design",
+      "scale and massing",
+      "materials",
+      "residential amenity",
+      "sustainability",
+      "inclusive design",
+      "secured by design"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 171
+  },
+  {
+    "policy_id": "DC3",
+    "policy_title": "TALL BUILDINGS",
+    "policy_type": "Local Plan",
+    "summary": "Resists tall buildings that are significantly higher than the general prevailing height and have a disruptive/harmful skyline impact. Identifies specific areas (White City, Earls Court, South Fulham Riverside, Hammersmith Town Centre) where tall buildings may be appropriate if they meet criteria including positive townscape relationship, high architectural quality, acceptable skyline/views impact, heritage consideration, transport support, good ground-level design, sustainability, and no detrimental microclimate/environmental impact.",
+    "key_themes": [
+      "tall buildings",
+      "urban design",
+      "skyline management",
+      "view protection",
+      "heritage impact",
+      "townscape character",
+      "microclimate",
+      "public realm interaction"
+    ],
+    "cross_references": [
+      "Historic England guidance on tall buildings"
+    ],
+    "geographic_mentions": [
+      "White City Regeneration Area",
+      "Earls Court & West Kensington Opportunity Area",
+      "South Fulham Riverside Regeneration Area",
+      "Hammersmith Town Centre"
+    ],
+    "targets": [],
+    "page_number": 173
+  },
+  {
+    "policy_id": "DC4",
+    "policy_title": "ALTERATIONS AND EXTENSIONS (INCLUDING OUTBUILDINGS)",
+    "policy_type": "Local Plan",
+    "summary": "Requires a high standard of design for all alterations and extensions to existing buildings. They must be compatible with the scale/character of the existing development and setting, successfully integrated architecturally, and subservient to the parent building in bulk, scale, materials, or design. Considers scale, form, proportion, materials, skyline impact, relationship to building/gardens, neighbourliness, and accessibility.",
+    "key_themes": [
+      "alterations and extensions",
+      "outbuildings",
+      "residential design",
+      "urban design",
+      "contextual design",
+      "scale and massing",
+      "materials",
+      "residential amenity",
+      "architectural integration"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 175
+  },
+  {
+    "policy_id": "DC5",
+    "policy_title": "SHOPFRONTS",
+    "policy_type": "Local Plan",
+    "summary": "Encourages high-quality shopfronts designed to respect the building's age/style, with appropriate scale, proportions, detailing, and materials. Original/traditional shopfronts should be retained/restored. New retail developments must provide a suitable shopfront framework. Fascia/projecting signs should be appropriately scaled. New shopfronts must be accessible and inclusive.",
+    "key_themes": [
+      "shopfront design",
+      "retail character",
+      "heritage conservation",
+      "urban design",
+      "advertisements",
+      "accessibility",
+      "inclusive design"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 176
+  },
+  {
+    "policy_id": "DC6",
+    "policy_title": "REPLACEMENT WINDOWS",
+    "policy_type": "Local Plan",
+    "summary": "Requires replacement windows to respect the architectural character of the building and its surroundings. The design and material of replacement windows should match the original windows as closely as possible in terms of type, size, method of opening, profile, section, and sub-division.",
+    "key_themes": [
+      "windows",
+      "replacement windows",
+      "heritage conservation",
+      "architectural character",
+      "materials",
+      "design detailing"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 177
+  },
+  {
+    "policy_id": "DC7",
+    "policy_title": "VIEWS AND LANDMARKS",
+    "policy_type": "Local Plan",
+    "summary": "Protects the strategic view of St Paul\u2019s Cathedral and important local views shown on the Policies Map, particularly riverfront views. Refuses permission for development causing harm to designated heritage assets/townscape in these views unless outweighed by public benefits. Sets criteria for applications within the Thames Policy Area affecting specific views and landmarks (e.g., from/to bridges, parks, historic waterfronts).",
+    "key_themes": [
+      "views protection",
+      "landmarks",
+      "heritage assets",
+      "townscape character",
+      "skyline",
+      "riverfront views",
+      "strategic views",
+      "thames policy area"
+    ],
+    "cross_references": [
+      "Policies Map",
+      "London Plan (2016)",
+      "St Paul\u2019s Cathedral",
+      "Hammersmith Bridge",
+      "Putney Bridge",
+      "All Saints Church",
+      "Wandsworth Bridge",
+      "Upper and Lower Mall",
+      "Hammersmith Terrace",
+      "Kelmscott House",
+      "Furnivall Gardens",
+      "Bishops Park",
+      "Hurlingham Club"
+    ],
+    "geographic_mentions": [
+      "St Paul\u2019s Cathedral",
+      "Thames Policy Area",
+      "Hammersmith Bridge",
+      "Fulham Football Ground",
+      "Putney Bridge",
+      "All Saints Church",
+      "Bishops Park",
+      "Hurlingham Club",
+      "Wandsworth Bridge",
+      "Upper Mall",
+      "Lower Mall",
+      "Hammersmith Terrace",
+      "Kelmscott House",
+      "Furnivall Gardens"
+    ],
+    "targets": [],
+    "page_number": 178
+  },
+  {
+    "policy_id": "DC8",
+    "policy_title": "HERITAGE AND CONSERVATION",
+    "policy_type": "Local Plan",
+    "summary": "The council will conserve the significance of the borough\u2019s historic environment by protecting, restoring, and enhancing heritage assets (listed buildings, conservation areas, historic parks/gardens, scheduled monument of Fulham Palace Moated site, archaeological remains, local interest buildings). Applies principles including presumption in favour of conservation, conserving setting, considering impact on non-designated assets, appropriate use changes, requiring impact assessments, respecting accessible design, and securing assets at risk.",
+    "key_themes": [
+      "heritage conservation",
+      "listed buildings",
+      "conservation areas",
+      "historic parks and gardens",
+      "scheduled monuments",
+      "archaeology",
+      "setting of heritage assets",
+      "historic environment",
+      "buildings of local interest"
+    ],
+    "cross_references": [
+      "National Planning Policy Framework (paragraph 133, 134, 135)",
+      "Historic England\u2019s national register",
+      "Policies Map",
+      "Table 5",
+      "Appendix 5"
+    ],
+    "geographic_mentions": [
+      "Fulham Palace Moated site"
+    ],
+    "targets": [],
+    "page_number": 180
+  },
+  {
+    "policy_id": "DC9",
+    "policy_title": "ADVERTISEMENTS",
+    "policy_type": "Local Plan",
+    "summary": "Requires a high standard of design for advertisements, in scale and keeping with their location, without unacceptable impact on road safety. Resists excessive/obtrusive advertising affecting neighbourhood character, residential amenity, or public safety. Advertisements should normally be at ground floor level. Hoardings and advertisement shrouds have specific criteria regarding scale, impact on sensitive areas, and duration (1:1 depiction for shrouds for building works duration).",
+    "key_themes": [
+      "advertisements",
+      "signage",
+      "urban design",
+      "visual amenity",
+      "road safety",
+      "heritage impact",
+      "hoardings",
+      "advertisement shrouds"
+    ],
+    "cross_references": [
+      "Mall Conservation Area"
+    ],
+    "geographic_mentions": [
+      "Mall Conservation Area"
+    ],
+    "targets": [],
+    "page_number": 185
+  },
+  {
+    "policy_id": "DC10",
+    "policy_title": "TELECOMMUNICATIONS",
+    "policy_type": "Local Plan",
+    "summary": "Supports the expansion of telecommunications networks while seeking to avoid detrimental impact on the local townscape. Proposals for telecommunications development must ensure apparatus is sited/designed to integrate with existing buildings, is compatible with surrounding scale/character, minimizes visual impact, avoids unacceptable impact on heritage assets/open space, and shares locations with existing facilities where appropriate.",
+    "key_themes": [
+      "telecommunications",
+      "infrastructure",
+      "urban design",
+      "visual amenity",
+      "heritage impact",
+      "site sharing",
+      "mast and antenna siting"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 186
+  },
+  {
+    "policy_id": "DC11",
+    "policy_title": "BASEMENTS AND LIGHTWELLS",
+    "policy_type": "Local Plan",
+    "summary": "Permits new basements and extensions to existing basements only if they meet strict criteria: not extending under the garden beyond 50% of garden depth or 50% of host building depth, set back from boundaries, single storey (except large sites), no unacceptable amenity/environmental impact, designed to minimize flood risk (with 1m soil above garden basements and SuDS), discreet lightwells, structural stability safeguarded (with CMS), and construction traffic managed. New self-contained basement flats in Flood Zone 3 require satisfactory escape means.",
+    "key_themes": [
+      "basements",
+      "lightwells",
+      "subterranean development",
+      "residential extensions",
+      "flood risk",
+      "sustainable drainage systems (SuDS)",
+      "construction management",
+      "structural stability",
+      "residential amenity"
+    ],
+    "cross_references": [
+      "Environment Agency\u2019s Flood Zone 3"
+    ],
+    "geographic_mentions": [
+      "Environment Agency\u2019s Flood Zone 3"
+    ],
+    "targets": [
+      "do not extend into or underneath the garden further than 50% of the depth of the host building",
+      "do not extend into or underneath the garden further than 50% of the depth of the garden",
+      "do not comprise more than one storey",
+      "minimum of one metre of soil above any part of the basement beneath a garden"
+    ],
+    "page_number": 187
+  },
+  {
+    "policy_id": "CC1",
+    "policy_title": "REDUCING CARBON DIOXIDE EMISSIONS",
+    "policy_type": "Local Plan",
+    "summary": "Requires all major developments to implement energy conservation by following London Plan sustainable energy policies and meeting CO2 reduction targets. This includes effective passive design, detailed Energy Assessments, minimizing CO2 from heating/cooling systems (assessing decentralised energy/CHP feasibility), and using on-site renewables. Payments in lieu may be accepted if targets aren't met on-site. Encourages Passivhaus standards for Energy Strategies.",
+    "key_themes": [
+      "carbon reduction",
+      "energy efficiency",
+      "sustainable energy",
+      "renewable energy",
+      "decentralised energy systems",
+      "passive design",
+      "major developments",
+      "passivhaus"
+    ],
+    "cross_references": [
+      "London Plan (2016) sustainable energy policies",
+      "BREEAM",
+      "Planning Guidance SPD"
+    ],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [
+      "London Plan\u2019s CO2 reduction targets"
+    ],
+    "page_number": 194
+  },
+  {
+    "policy_id": "CC2",
+    "policy_title": "ENSURING SUSTAINABLE DESIGN AND CONSTRUCTION",
+    "policy_type": "Local Plan",
+    "summary": "Requires major developments to implement sustainable design and construction measures by following London Plan policies. This includes minimizing energy use, effective resource use (water, aggregates), sustainable material sourcing, prefabrication, reducing pollution/waste, promoting recycling, conserving/promoting biodiversity, ensuring user comfort/security, and avoiding natural hazard impacts. Requires Sustainability Statements (or BREEAM equivalent). Encouraged for non-major developments.",
+    "key_themes": [
+      "sustainable design",
+      "sustainable construction",
+      "resource efficiency",
+      "waste management",
+      "biodiversity",
+      "climate change adaptation",
+      "major developments",
+      "BREEAM"
+    ],
+    "cross_references": [
+      "London Plan sustainable design and construction policies",
+      "BREEAM",
+      "Policy CC1",
+      "Planning Guidance SPD",
+      "Mayor of London\u2019s SPGs on Sustainable Design and Construction and control of dust and emissions during construction and demolition \u2013 July 2014"
+    ],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 195
+  },
+  {
+    "policy_id": "CC3",
+    "policy_title": "MINIMISING FLOOD RISK AND REDUCING WATER USE",
+    "policy_type": "Local Plan",
+    "summary": "Requires developments to reduce water use and minimise flood risk. Mandates site-specific Flood Risk Assessments (FRAs) for developments in Flood Zones 2/3, >1ha in FZ1, SWMP hotspots, or with subterranean elements at groundwater risk. FRAs must assess all flood sources, integrate proofing, and address NPPF requirements (including Exception Test). Restricts basement flats in Flood Zone 3/high-hazard SWMP areas unless escape is satisfactory. Requires groundwater protection, waterproofing for subterranean elements, non-return valves for vulnerable developments, demonstration of water/wastewater capacity, adherence to Thames Estuary 2100 Plan, and water-efficient fittings/rainwater harvesting.",
+    "key_themes": [
+      "flood risk management",
+      "water conservation",
+      "sustainable drainage systems (SuDS)",
+      "water efficiency",
+      "basement development",
+      "infrastructure capacity",
+      "groundwater protection",
+      "flood risk assessment"
+    ],
+    "cross_references": [
+      "National Planning Policy Framework",
+      "Hammersmith and Fulham SFRA",
+      "Surface Water Management Plan (SWMP)",
+      "Environment Agency\u2019s Flood Zones 2 and 3",
+      "Environment Agency\u2019s Groundwater Source Protection Zones 1 or 2",
+      "Thames Estuary 2100 Plan",
+      "London Plan water consumption targets",
+      "Policy CC4"
+    ],
+    "geographic_mentions": [
+      "River Thames",
+      "Flood Zone 1",
+      "Flood Zone 2",
+      "Flood Zone 3"
+    ],
+    "targets": [
+      "developments over 1 hectare in size in Flood Zone 1"
+    ],
+    "page_number": 197
+  },
+  {
+    "policy_id": "CC4",
+    "policy_title": "MINIMISING SURFACE WATER RUN-OFF WITH SUSTAINABLE DRAINAGE SYSTEMS",
+    "policy_type": "Local Plan",
+    "summary": "Requires all new development to manage surface water run-off as close to source and on the surface as practicable, following the London Plan drainage hierarchy. Major developments must implement SuDS to achieve greenfield run-off rates for storms up to 1 in 100 year event (plus climate change allowance). Other developments must maximise attenuation, especially in flooding hotspots or if increasing impermeable area. SuDS should also benefit biodiversity, amenity, recreation, water efficiency, and safety. New outdoor hardstanding must be permeable. Flat roofs should be living roofs. SuDS must be maintained for their lifetime.",
+    "key_themes": [
+      "surface water management",
+      "sustainable drainage systems (SuDS)",
+      "flood risk",
+      "green infrastructure",
+      "living roofs",
+      "water quality",
+      "biodiversity"
+    ],
+    "cross_references": [
+      "London Plan drainage hierarchy",
+      "SWMP"
+    ],
+    "geographic_mentions": [],
+    "targets": [
+      "reduction in peak run-off to greenfield run off rates for storms up to the 1 in 100 year event (plus climate change allowance)"
+    ],
+    "page_number": 202
+  },
+  {
+    "policy_id": "CC5",
+    "policy_title": "WATER QUALITY",
+    "policy_type": "Local Plan",
+    "summary": "Requires assessment of water quality where a private water supply or distribution system is proposed as part of a development. Any required treatment must be identified, and an on-going monitoring and maintenance plan established to ensure compliance with relevant directives and protect health and environment.",
+    "key_themes": [
+      "water quality",
+      "private water supply",
+      "water management",
+      "public health",
+      "environmental protection"
+    ],
+    "cross_references": [
+      "Drinking Water Directive",
+      "Water Framework Directive"
+    ],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 204
+  },
+  {
+    "policy_id": "CC6",
+    "policy_title": "STRATEGIC WASTE MANAGEMENT",
+    "policy_type": "Local Plan",
+    "summary": "The council will pursue sustainable waste management by planning to manage its London Plan waste apportionment (247,000 tonnes/annum in LBHF by 2036), promoting sustainable waste behaviour, continued use of the WRWA Smuggler\u2019s Way facility, and seeking sustainable transport of waste/recyclables, maximizing River Thames use where possible.",
+    "key_themes": [
+      "strategic waste management",
+      "waste apportionment",
+      "sustainable waste behaviour",
+      "recycling",
+      "waste transport",
+      "circular economy"
+    ],
+    "cross_references": [
+      "London Plan (2016)",
+      "WRWA Smuggler\u2019s Way facility",
+      "Table 6"
+    ],
+    "geographic_mentions": [
+      "LBHF",
+      "WRWA Smuggler\u2019s Way facility",
+      "River Thames",
+      "Old Oak Common Opportunity Area",
+      "Old Oak Sidings (Powerday)",
+      "EMR"
+    ],
+    "targets": [
+      "manage 247,000 tonnes per annum of waste in LBHF by 2036"
+    ],
+    "page_number": 204
+  },
+  {
+    "policy_id": "CC7",
+    "policy_title": "ON-SITE WASTE MANAGEMENT",
+    "policy_type": "Local Plan",
+    "summary": "Requires all new developments to include suitable facilities for managing waste generated by the development, including collection and storage of separated waste and feasible on-site energy recovery. Developments must minimize waste, provide convenient recycling/composting facilities. Major proposals need on-site management for commercial/industrial streams. Sustainable construction/demolition waste practices (segregation, re-use, recycling) are encouraged, with details expected for larger demolition sites.",
+    "key_themes": [
+      "on-site waste management",
+      "waste reduction",
+      "recycling facilities",
+      "composting",
+      "construction waste management",
+      "demolition waste",
+      "energy from waste"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 208
+  },
+  {
+    "policy_id": "CC8",
+    "policy_title": "HAZARDOUS SUBSTANCES",
+    "policy_type": "Local Plan",
+    "summary": "Ensures protection of new and existing residents by rejecting proposals involving hazardous substances that pose unacceptable health/safety risks to neighbouring land occupants, and rejecting developments near existing establishments if future occupants would face unacceptable risk. Development must account for major hazards identified by the Health and Safety Executive, specifically Swedish Wharf, Townmead Road.",
+    "key_themes": [
+      "hazardous substances",
+      "public safety",
+      "health and safety executive (HSE)",
+      "risk assessment",
+      "major hazard sites",
+      "land use planning"
+    ],
+    "cross_references": [
+      "Health and Safety Executive (HSE)",
+      "Policies Map"
+    ],
+    "geographic_mentions": [
+      "Swedish Wharf, Townmead Road"
+    ],
+    "targets": [],
+    "page_number": 209
+  },
+  {
+    "policy_id": "CC9",
+    "policy_title": "CONTAMINATED LAND",
+    "policy_type": "Local Plan",
+    "summary": "Requires a site assessment and report for development on or near potentially contaminated land, or for sensitive uses, to establish contamination nature/extent. Development is permitted only if practicable and effective measures are taken to treat, contain, or control contamination to prevent unacceptable risk to occupiers/neighbours, structural integrity, water bodies, or spread of contamination. Agreed measures must be completed as the first step of development.",
+    "key_themes": [
+      "contaminated land",
+      "remediation",
+      "site investigation",
+      "environmental protection",
+      "public health",
+      "ground conditions",
+      "pollution control"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 210
+  },
+  {
+    "policy_id": "CC10",
+    "policy_title": "AIR QUALITY",
+    "policy_type": "Local Plan",
+    "summary": "Seeks to reduce potential adverse air quality impacts from new developments by requiring air quality assessments considering pollution impacts on/from the site and exposure levels. Mandates mitigation for emissions (NOx, PM) if worsening local air quality or contributing to objective exceedances. Requires measures to reduce exposure for occupants, developments to be 'air quality neutral', and decentralised energy schemes to have acceptable air quality impact. CHP systems are not prioritised if other air quality neutral technologies are better.",
+    "key_themes": [
+      "air quality",
+      "pollution control",
+      "emissions reduction",
+      "health impacts",
+      "mitigation measures",
+      "air quality neutral",
+      "decentralised energy"
+    ],
+    "cross_references": [
+      "Government\u2019s air quality objective concentration targets",
+      "Council\u2019s Local Air Quality Management Plan",
+      "GLA\u2019s emission benchmarks"
+    ],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 211
+  },
+  {
+    "policy_id": "CC11",
+    "policy_title": "NOISE",
+    "policy_type": "Local Plan",
+    "summary": "Controls noise and vibration impacts by locating sensitive development appropriately and protecting it via design, layout, materials, and insulation. Normally resists noise-sensitive development where adversely affected by noise unless adequate mitigation is proven without compromising quality. Resists noise-generating development if it materially increases noise for sensitive uses. Requires noise assessments and mitigation details where necessary; outline applications usually unacceptable if mitigation is needed.",
+    "key_themes": [
+      "noise pollution",
+      "vibration control",
+      "acoustic design",
+      "residential amenity",
+      "environmental health",
+      "mitigation measures"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 212
+  },
+  {
+    "policy_id": "CC12",
+    "policy_title": "LIGHT POLLUTION",
+    "policy_type": "Local Plan",
+    "summary": "Controls adverse impacts from lighting by requiring all developments with external lighting proposals (signs, advertisements, security/flood lights) to submit details showing it is appropriate for use, provides minimum necessary light, is energy efficient, and provides adequate protection from glare/light spill to sensitive receptors like residential properties and Nature Conservation Areas (including River Thames).",
+    "key_themes": [
+      "light pollution",
+      "external lighting",
+      "dark skies",
+      "visual amenity",
+      "energy efficiency",
+      "biodiversity protection",
+      "residential amenity"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [
+      "Nature Conservation Areas",
+      "River Thames"
+    ],
+    "targets": [],
+    "page_number": 213
+  },
+  {
+    "policy_id": "CC13",
+    "policy_title": "CONTROL OF POTENTIALLY POLLUTING USES",
+    "policy_type": "Local Plan",
+    "summary": "Requires all proposed developments to demonstrate no undue detriment to the general amenities of existing surrounding occupiers, particularly where commercial/service activities are near residential properties. In mixed-use developments, similar protection applies to prospective residents/users from on-site activities. Requires mitigation measures for potential nuisances (smoke, fumes, dust, steam, light, vibration, smell, noise, spillage) to ensure they will not occur.",
+    "key_themes": [
+      "pollution control",
+      "environmental health",
+      "residential amenity",
+      "mixed-use development",
+      "nuisance prevention",
+      "mitigation measures"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 214
+  },
+  {
+    "policy_id": "T1",
+    "policy_title": "TRANSPORT",
+    "policy_type": "Local Plan",
+    "summary": "The council will work with strategic partners to improve transportation provision, accessibility, and air quality by improving cycling/walking opportunities and connections for bus, underground, national, and regional rail. Major scheme targets include Crossrail 2 via South Fulham, HS2 interchange at Old Oak, A4 tunnel, West London Line upgrades, increased River Thames passenger/freight use, and highway improvements. Borough-wide targets focus on modal shift, safe cycling/pedestrian environments, bike hire expansion, zero-emission buses, EV charging, and managing development traffic impact.",
+    "key_themes": [
+      "transport infrastructure",
+      "public transport",
+      "accessibility",
+      "air quality",
+      "sustainable transport",
+      "cycling",
+      "walking",
+      "major transport schemes",
+      "modal shift"
+    ],
+    "cross_references": [
+      "Crossrail 2",
+      "HS2",
+      "A4 Flyover",
+      "West London Line",
+      "Mayor\u2019s Cycling Vision",
+      "Mayor\u2019s Bike Hire scheme"
+    ],
+    "geographic_mentions": [
+      "South Fulham",
+      "Imperial Wharf",
+      "Old Oak",
+      "Willesden Junction",
+      "Hammersmith",
+      "River Thames"
+    ],
+    "targets": [],
+    "page_number": 216
+  },
+  {
+    "policy_id": "T2",
+    "policy_title": "TRANSPORT ASSESSMENTS AND TRAVEL PLANS",
+    "policy_type": "Local Plan",
+    "summary": "All development proposals will be assessed for their contribution to traffic generation and impact on congestion, public transport availability, and capacity. Requires a Transport Assessment (TA) and Travel Plan for developments anticipated to generate significant trips impacting local/strategic networks. Delivery and Servicing Plans should align with TfL\u2019s London Freight Plan and co-ordinate with Travel Plans.",
+    "key_themes": [
+      "transport assessment",
+      "travel plan",
+      "traffic management",
+      "congestion mitigation",
+      "sustainable transport",
+      "freight management",
+      "delivery and servicing plans"
+    ],
+    "cross_references": [
+      "TfL\u2019s Transport Assessment Guidance (2014)",
+      "Mayor of London\u2019s Accessible London SPG",
+      "TfL\u2019s London Freight Plan"
+    ],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 219
+  },
+  {
+    "policy_id": "T3",
+    "policy_title": "INCREASING AND PROMOTING OPPORTUNITIES FOR CYCLING AND WALKING",
+    "policy_type": "Local Plan",
+    "summary": "Encourages and supports increased bicycle use by requiring new developments to provide convenient, accessible, safe, secure cycle parking (Appendix 8) and suitable changing/showering facilities. Requires developer contributions for cycling infrastructure/Cycle Hire. Facilitates walking by requiring larger developments to provide accessible, inclusive, safe pedestrian routes within/through sites, access to river/canal, and contributions to improving local highway/walking environment.",
+    "key_themes": [
+      "cycling infrastructure",
+      "walking environment",
+      "active travel",
+      "sustainable transport",
+      "cycle parking",
+      "pedestrian routes",
+      "public realm"
+    ],
+    "cross_references": [
+      "Appendix 8",
+      "Hammersmith and Fulham Cycling Strategy 2015",
+      "TfL Cycle Hire schemes"
+    ],
+    "geographic_mentions": [
+      "river",
+      "canal"
+    ],
+    "targets": [],
+    "page_number": 220
+  },
+  {
+    "policy_id": "T4",
+    "policy_title": "VEHICLE PARKING STANDARDS",
+    "policy_type": "Local Plan",
+    "summary": "Requires all proposed developments (new build, conversion, change of use) to conform to car parking standards in Appendix 7. Also mandates car parking permit-free measures on all new development unless evidence shows a significant lack of public transport availability. Encourages car club bays and requires minimum EV charging provision.",
+    "key_themes": [
+      "vehicle parking standards",
+      "car parking",
+      "permit-free development",
+      "transport management",
+      "electric vehicle charging",
+      "car clubs"
+    ],
+    "cross_references": [
+      "Appendix 7",
+      "London Plan (2016) parking standards"
+    ],
+    "geographic_mentions": [],
+    "targets": [
+      "minimum 25% of parking spaces equipped with electric car charging points",
+      "a further 25% passive provision for EV charging"
+    ],
+    "page_number": 221
+  },
+  {
+    "policy_id": "T5",
+    "policy_title": "PARKING FOR BLUE BADGE HOLDERS",
+    "policy_type": "Local Plan",
+    "summary": "Requires new developments that include vehicular access to provide accessible, off-street car parking bays for Blue Badge holders, even if no other general parking is provided as part of the development.",
+    "key_themes": [
+      "disabled parking",
+      "blue badge holders",
+      "accessibility",
+      "inclusive design",
+      "parking provision"
+    ],
+    "cross_references": [
+      "Mayor of London\u2019s blue badge parking standards for off-street car parking (2006)"
+    ],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 222
+  },
+  {
+    "policy_id": "T6",
+    "policy_title": "BOROUGH ROAD NETWORK - HIERARCHY OF ROADS",
+    "policy_type": "Local Plan",
+    "summary": "Regulates developments, construction, and other operations affecting the borough\u2019s road network according to a defined hierarchy (Tier 1: Strategic routes/TLRN, Tier 2: London distributor, Tier 3: Borough distributor, Tier 4: Local access roads - detailed on Policies Map). Development prejudicing the effectiveness of higher-tier roads or introducing additional through-traffic on them will not be permitted. Direct frontage access to strategic routes is resisted. Proposals increasing car commuting into central London on strategic routes are resisted.",
+    "key_themes": [
+      "road network hierarchy",
+      "traffic management",
+      "transport infrastructure",
+      "strategic routes (TLRN)",
+      "distributor roads",
+      "local access roads",
+      "highway management"
+    ],
+    "cross_references": [
+      "Policies Map",
+      "Table 7"
+    ],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 222
+  },
+  {
+    "policy_id": "T7",
+    "policy_title": "CONSTRUCTION AND DEMOLITION LOGISTICS",
+    "policy_type": "Local Plan",
+    "summary": "Requires all construction, demolition, utilities, and major logistic activities within the borough to work with the council in developing the scope and impact of their operations. Careful planning and co-ordination with the council are necessary to mitigate the impact of any additional traffic or potential disruption to the network, ensuring the smooth operation of the highway network. Encourages FORS recognition and CLOCS membership.",
+    "key_themes": [
+      "construction logistics",
+      "demolition logistics",
+      "traffic management plan",
+      "highway network management",
+      "mitigation of construction impacts",
+      "road safety"
+    ],
+    "cross_references": [
+      "FORS (Freight Operator Recognition System)",
+      "CLOCS (Construction Logistics and Community Safety)",
+      "TfL\u2019s Transport Assessment guidance"
+    ],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 226
+  },
+  {
+    "policy_id": "INFRA1",
+    "policy_title": "PLANNING CONTRIBUTIONS AND INFRASTRUCTURE PLANNING",
+    "policy_type": "Local Plan",
+    "summary": "The council will seek planning contributions to ensure necessary infrastructure to support the Local Plan, using two main mechanisms: Community Infrastructure Levy (CIL) and Section 106 Agreements (S106s). CIL will be charged on developments per CIL Regulations and LBHF Charging Schedule, spent on the R123 List, Neighbourhood CIL projects, and administration. S106s will be negotiated for infrastructure not on R123 List and non-infrastructure provisions like affordable housing and monitoring.",
+    "key_themes": [
+      "planning contributions",
+      "infrastructure planning",
+      "community infrastructure levy (CIL)",
+      "section 106 agreements",
+      "affordable housing contributions",
+      "development viability"
+    ],
+    "cross_references": [
+      "CIL Regulations",
+      "LBHF CIL Charging Schedule",
+      "H&F Regulation 123 (R123) List",
+      "Policy HO3",
+      "NPPF",
+      "London Plan (2016) Policy 8.2",
+      "London Plan (2016) Policy 8.3",
+      "Infrastructure Delivery Plan (IDP)",
+      "Development Infrastructure Funding Studies (DIFS)"
+    ],
+    "geographic_mentions": [
+      "White City",
+      "Earls Court and West Kensington",
+      "South Fulham Riverside"
+    ],
+    "targets": [
+      "Neighbourhood CIL (up to 15-25%)",
+      "CIL administration costs (no more than the statutory cap, currently 5%)"
+    ],
+    "page_number": 228
+  }
+]

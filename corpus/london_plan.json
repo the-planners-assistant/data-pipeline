@@ -1,0 +1,3089 @@
+[
+  {
+    "policy_id": "GG1",
+    "policy_title": "Building strong and inclusive communities",
+    "policy_type": "Regional Plan",
+    "summary": "Outlines that to achieve Good Growth, planning and development must foster strong and inclusive communities by encouraging early engagement, ensuring positive contributions to London, providing access to quality community spaces and infrastructure, generating diverse opportunities, creating safe and welcoming public spaces, promoting town centres, designing resilient and adaptable environments, and supporting an inclusive London for all individuals.",
+    "key_themes": [
+      "good growth",
+      "inclusive communities",
+      "social inclusion",
+      "community engagement",
+      "public realm",
+      "accessibility",
+      "equality"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [],
+    "page_number": 14
+  },
+  {
+    "policy_id": "GG2",
+    "policy_title": "Making the best use of land",
+    "policy_type": "Regional Plan",
+    "summary": "Mandates that planning and development must make the best use of land to create successful sustainable mixed-use places by enabling brownfield development, prioritising well-connected sites, intensifying land use for homes and workspaces, applying a design-led approach to site capacity, valuing existing places, protecting open spaces, planning for sustainable travel, and maximising infrastructure asset use.",
+    "key_themes": [
+      "good growth",
+      "land use",
+      "brownfield development",
+      "density",
+      "sustainable transport",
+      "open space",
+      "infrastructure"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [
+      "London",
+      "Opportunity Areas",
+      "Green Belt",
+      "Metropolitan Open Land"
+    ],
+    "targets": [
+      "80 per cent of all journeys using sustainable travel"
+    ],
+    "page_number": 17
+  },
+  {
+    "policy_id": "GG3",
+    "policy_title": "Creating a healthy city",
+    "policy_type": "Regional Plan",
+    "summary": "Requires planning and development to improve Londoners' health and reduce health inequalities by addressing wider determinants of health, promoting active lives, using the Healthy Streets Approach, assessing health impacts, planning for health infrastructure, improving air quality, increasing access to green spaces, and ensuring well-insulated and ventilated buildings, and creating a healthy food environment.",
+    "key_themes": [
+      "good growth",
+      "health",
+      "health inequalities",
+      "active travel",
+      "Healthy Streets Approach",
+      "air quality",
+      "green infrastructure",
+      "food environment"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [],
+    "page_number": 19
+  },
+  {
+    "policy_id": "GG4",
+    "policy_title": "Delivering the homes Londoners need",
+    "policy_type": "Regional Plan",
+    "summary": "Mandates planning and development to create a housing market that works better for all Londoners by ensuring more homes are delivered, supporting the strategic target of 50% genuinely affordable new homes, creating mixed and inclusive communities with high-quality design, identifying a range of sites for housing, supporting skilled precision-manufacturing, and establishing ambitious build-out rates.",
+    "key_themes": [
+      "good growth",
+      "housing delivery",
+      "affordable housing",
+      "inclusive communities",
+      "housing design",
+      "site allocation"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [
+      "50 per cent of all new homes being genuinely affordable"
+    ],
+    "page_number": 22
+  },
+  {
+    "policy_id": "GG5",
+    "policy_title": "Growing a good economy",
+    "policy_type": "Regional Plan",
+    "summary": "Requires planning and development to conserve and enhance London's global economic competitiveness and ensure economic success is shared by promoting the wider city region, diversifying the economy, planning for employment and industrial space, ensuring sufficient housing and infrastructure, supporting innovation and learning, promoting heritage and cultural assets, making full use of public transport and town centres, and promoting a transition to a low carbon circular economy.",
+    "key_themes": [
+      "good growth",
+      "economic development",
+      "employment",
+      "global competitiveness",
+      "inclusive economy",
+      "infrastructure",
+      "low carbon economy",
+      "circular economy"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [],
+    "page_number": 24
+  },
+  {
+    "policy_id": "GG6",
+    "policy_title": "Increasing efficiency and resilience",
+    "policy_type": "Regional Plan",
+    "summary": "Mandates planning and development to help London become a more efficient and resilient city by improving energy efficiency, supporting a low carbon circular economy, ensuring buildings and infrastructure adapt to a changing climate, making efficient use of water, reducing impacts from natural hazards, and creating a safe and secure environment resilient to emergencies. It also requires an integrated and smart approach to infrastructure delivery.",
+    "key_themes": [
+      "good growth",
+      "efficiency",
+      "resilience",
+      "climate change adaptation",
+      "energy efficiency",
+      "low carbon economy",
+      "circular economy",
+      "safety",
+      "security",
+      "infrastructure"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [
+      "zero-carbon city by 2050"
+    ],
+    "page_number": 26
+  },
+  {
+    "policy_id": "SD1",
+    "policy_title": "Opportunity Areas",
+    "policy_type": "Regional Plan",
+    "summary": "Sets out the Mayor's commitment to supporting Opportunity Areas to realise their growth and regeneration potential through collaborative planning frameworks, infrastructure investment, and monitoring. Boroughs are expected to encourage and deliver this growth, plan for necessary infrastructure, and integrate development with surrounding areas.",
+    "key_themes": [
+      "opportunity areas",
+      "growth",
+      "regeneration",
+      "housing",
+      "employment",
+      "infrastructure",
+      "strategic planning"
+    ],
+    "cross_references": [
+      "Table 2.1",
+      "Policy E4 Land for industry, logistics and services to support London\u2019s economic function",
+      "Policy E5 Strategic Industrial Locations (SIL)",
+      "Policy E6 Locally Significant Industrial Sites",
+      "Policy E7 Industrial intensification, co-location and substitution",
+      "Policy SD10 Strategic and local regeneration"
+    ],
+    "geographic_mentions": [
+      "Opportunity Areas",
+      "Local Areas for Regeneration",
+      "Strategic Areas for Regeneration",
+      "Strategic Industrial Locations (SIL)"
+    ],
+    "targets": [
+      "at least 5,000 new jobs and/or 2,500 new homes"
+    ],
+    "page_number": 30
+  },
+  {
+    "policy_id": "SD2",
+    "policy_title": "Collaboration in the Wider South East",
+    "policy_type": "Regional Plan",
+    "summary": "The Mayor will collaborate with partners across the Wider South East (WSE) to address regional strategic challenges and opportunities through strategic coordination arrangements, joint working on technical evidence and monitoring, and responding to Development Plans. The policy supports recognition of migration trends and finding solutions to shared strategic concerns.",
+    "key_themes": [
+      "strategic planning",
+      "regional collaboration",
+      "Wider South East",
+      "housing",
+      "infrastructure",
+      "economic prosperity"
+    ],
+    "cross_references": [
+      "paragraph 9.6.9"
+    ],
+    "geographic_mentions": [
+      "Wider South East (WSE)",
+      "London"
+    ],
+    "targets": [],
+    "page_number": 62
+  },
+  {
+    "policy_id": "SD3",
+    "policy_title": "Growth locations in the Wider South East and beyond",
+    "policy_type": "Regional Plan",
+    "summary": "The Mayor will work with strategic partners to realize growth potential in the Wider South East and beyond, investing in strategic infrastructure to support housing and business development, particularly in growth locations with mutual benefits for London. The policy supports recognizing these growth locations in Local Plans outside London.",
+    "key_themes": [
+      "strategic planning",
+      "regional growth",
+      "Wider South East",
+      "infrastructure",
+      "housing",
+      "economic development"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [
+      "Wider South East (WSE)",
+      "London"
+    ],
+    "targets": [],
+    "page_number": 66
+  },
+  {
+    "policy_id": "SD4",
+    "policy_title": "The Central Activities Zone (CAZ)",
+    "policy_type": "Regional Plan",
+    "summary": "Promotes and enhances the unique international, national, and London-wide roles of the Central Activities Zone (CAZ), supporting its agglomeration of strategic functions like offices, culture, tourism, retail, and state functions, while sustaining its distinct environment, heritage, and improving air quality and infrastructure.",
+    "key_themes": [
+      "Central Activities Zone (CAZ)",
+      "strategic planning",
+      "economic development",
+      "offices",
+      "culture",
+      "tourism",
+      "retail",
+      "heritage"
+    ],
+    "cross_references": [
+      "Policy SI 1 Improving air quality",
+      "Policy T2 Healthy Streets",
+      "Figure 2.16"
+    ],
+    "geographic_mentions": [
+      "Central Activities Zone (CAZ)",
+      "West End",
+      "Oxford Street",
+      "Regent Street",
+      "Bond Street",
+      "Knightsbridge",
+      "Northern Isle of Dogs"
+    ],
+    "targets": [],
+    "page_number": 70
+  },
+  {
+    "policy_id": "SD5",
+    "policy_title": "Offices, other strategic functions and residential development in the CAZ",
+    "policy_type": "Regional Plan",
+    "summary": "Manages residential development in the CAZ to ensure it does not compromise strategic functions, particularly offices. It gives greater weight to offices and other strategic functions over new residential development in most of the CAZ, with specific exceptions for certain Opportunity Areas and wholly residential areas. It also supports Article 4 Directions to remove office-to-residential permitted development rights.",
+    "key_themes": [
+      "Central Activities Zone (CAZ)",
+      "offices",
+      "residential development",
+      "strategic functions",
+      "mixed-use development",
+      "planning policy"
+    ],
+    "cross_references": [
+      "Policy H4 Delivering affordable housing"
+    ],
+    "geographic_mentions": [
+      "Central Activities Zone (CAZ)",
+      "Vauxhall, Nine Elms, Battersea Opportunity Area",
+      "Elephant & Castle Opportunity Area",
+      "City of London",
+      "Northern Isle of Dogs",
+      "Tech City",
+      "Kensington & Chelsea"
+    ],
+    "targets": [],
+    "page_number": 79
+  },
+  {
+    "policy_id": "SD6",
+    "policy_title": "Town centres and high streets",
+    "policy_type": "Regional Plan",
+    "summary": "Promotes and enhances the vitality and viability of London\u2019s town centres and high streets by encouraging diverse uses, residential intensification, sustainable access, and supporting their roles in community life, local identity, and the economy. It also addresses night-time economy, tourism, inclusivity, and social infrastructure.",
+    "key_themes": [
+      "town centres",
+      "high streets",
+      "retail",
+      "mixed-use development",
+      "residential intensification",
+      "night-time economy",
+      "placemaking"
+    ],
+    "cross_references": [
+      "Policy E1 Offices",
+      "Policy E2 Providing suitable business space",
+      "Policy E3 Affordable workspace",
+      "Figure 7.6",
+      "Table A1.1",
+      "Policy E10 Visitor infrastructure"
+    ],
+    "geographic_mentions": [
+      "London",
+      "Central Activities Zone (CAZ)"
+    ],
+    "targets": [],
+    "page_number": 82
+  },
+  {
+    "policy_id": "SD7",
+    "policy_title": "Town centres: development principles and Development Plan Documents",
+    "policy_type": "Regional Plan",
+    "summary": "Requires boroughs to adopt a 'town centres first' approach, using sequential tests for main town centre uses and impact assessments for out-of-centre proposals. Development Plans should assess needs, allocate sites, review boundaries, and identify intensification opportunities to support sustainable town centres.",
+    "key_themes": [
+      "town centres",
+      "development principles",
+      "sequential test",
+      "impact assessment",
+      "retail planning",
+      "housing intensification",
+      "local plans"
+    ],
+    "cross_references": [
+      "Policy E1 Offices",
+      "Policy SD8 Town centre network",
+      "Annex 1",
+      "Policy SD9 Town centres: Local partnerships and implementation",
+      "Policy H1 Increasing housing supply"
+    ],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [
+      "2,500 sqm"
+    ],
+    "page_number": 86
+  },
+  {
+    "policy_id": "SD8",
+    "policy_title": "Town centre network",
+    "policy_type": "Regional Plan",
+    "summary": "Mandates proactive management of the town centre network to support sustainable economic growth and adapt to changing roles. It outlines how different tiers of town centres (International, Metropolitan, Major, District, Local, Neighbourhood, CAZ Retail Clusters) should be classified, managed, and potentially reclassified, based on evidence and local needs.",
+    "key_themes": [
+      "town centres",
+      "retail hierarchy",
+      "strategic planning",
+      "economic development",
+      "local plans"
+    ],
+    "cross_references": [
+      "Figure 2.17",
+      "Annex 1",
+      "Figure A1.1",
+      "Policy SD7 Town centres: development principles and Development Plan Documents",
+      "Policy HC6 Supporting the night-time economy",
+      "Policy E1 Offices",
+      "Policy SD10 Strategic and local regeneration"
+    ],
+    "geographic_mentions": [
+      "International town centres",
+      "Metropolitan town centres",
+      "Major town centres",
+      "District centres",
+      "Local centres",
+      "Neighbourhood centres",
+      "CAZ Retail Clusters",
+      "Wider South East"
+    ],
+    "targets": [],
+    "page_number": 91
+  },
+  {
+    "policy_id": "SD9",
+    "policy_title": "Town centres: Local partnerships and implementation",
+    "policy_type": "Regional Plan",
+    "summary": "Encourages strategic and local partnership approaches to develop resilient and adaptable town centres. It supports the creation of Town Centre Strategies, regular health checks, and targeted Article 4 Directions to manage permitted development rights, alongside proactive land assembly and housing intensification efforts.",
+    "key_themes": [
+      "town centres",
+      "partnerships",
+      "implementation",
+      "regeneration",
+      "town centre management",
+      "housing intensification"
+    ],
+    "cross_references": [
+      "Policy E1 Offices",
+      "Table A1.1"
+    ],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 96
+  },
+  {
+    "policy_id": "SD10",
+    "policy_title": "Strategic and local regeneration",
+    "policy_type": "Regional Plan",
+    "summary": "The Mayor will lead and support regeneration, requiring boroughs to identify Strategic and Local Areas for Regeneration in Local Plans and develop policies based on community needs. Development proposals should contribute to regeneration by tackling inequalities and supporting renewal in these areas.",
+    "key_themes": [
+      "regeneration",
+      "strategic areas for regeneration",
+      "local areas for regeneration",
+      "social inclusion",
+      "community development"
+    ],
+    "cross_references": [
+      "Figure 2.19",
+      "Town Centres policies",
+      "Annex 1"
+    ],
+    "geographic_mentions": [
+      "Strategic Areas for Regeneration",
+      "Local Areas for Regeneration"
+    ],
+    "targets": [],
+    "page_number": 98
+  },
+  {
+    "policy_id": "D1",
+    "policy_title": "London\u2019s form, character and capacity for growth",
+    "policy_type": "Regional Plan",
+    "summary": "Requires boroughs to undertake area assessments to define local characteristics and capacity for growth, covering demographics, housing, urban form, transport, environment, heritage, and land availability. Based on these assessments, Development Plans should identify suitable locations and scales for growth, using a design-led approach to optimise site capacities.",
+    "key_themes": [
+      "urban form",
+      "character assessment",
+      "capacity for growth",
+      "area assessment",
+      "design-led approach",
+      "planning for growth"
+    ],
+    "cross_references": [
+      "Policy D3 Optimising site capacity through the design-led approach",
+      "GG2 Parts A to C",
+      "Policy D9 Tall buildings",
+      "Figure 3.1"
+    ],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [],
+    "page_number": 104
+  },
+  {
+    "policy_id": "D2",
+    "policy_title": "Infrastructure requirements for sustainable densities",
+    "policy_type": "Regional Plan",
+    "summary": "Mandates that the density of development proposals must consider and be linked to future planned infrastructure levels and be proportionate to site connectivity and accessibility (including PTAL). Where existing infrastructure is insufficient, capacity improvements must be planned and potentially phased. Additional infrastructure needs for developments exceeding allocated capacity should be delivered through the development.",
+    "key_themes": [
+      "infrastructure",
+      "density",
+      "sustainable development",
+      "connectivity",
+      "accessibility",
+      "PTAL"
+    ],
+    "cross_references": [
+      "Policy D3 Optimising site capacity through the design-led approach",
+      "Policy H2 Small sites"
+    ],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [],
+    "page_number": 108
+  },
+  {
+    "policy_id": "D3",
+    "policy_title": "Optimising site capacity through the design-led approach",
+    "policy_type": "Regional Plan",
+    "summary": "Requires all development to make the best use of land by following a design-led approach that optimises site capacity based on context, infrastructure capacity, and specific design outcomes related to form, layout, experience, quality, and character. It promotes higher densities in well-connected locations and incremental densification elsewhere.",
+    "key_themes": [
+      "design-led approach",
+      "site capacity",
+      "density",
+      "urban design",
+      "form and layout",
+      "housing quality",
+      "sustainability",
+      "circular economy"
+    ],
+    "cross_references": [
+      "Policy D2 Infrastructure requirements for sustainable densities",
+      "Policy H2 Small sites",
+      "Policy D4 Delivering good design",
+      "Policy SI 7 Reducing waste and supporting the circular economy",
+      "Figure 3.2",
+      "Policy D5 Inclusive design",
+      "Policy D9 Tall buildings"
+    ],
+    "geographic_mentions": [
+      "London",
+      "Opportunity Area"
+    ],
+    "targets": [],
+    "page_number": 110
+  },
+  {
+    "policy_id": "D4",
+    "policy_title": "Delivering good design",
+    "policy_type": "Regional Plan",
+    "summary": "Promotes the use of masterplans and design codes to ensure high-quality design and placemaking. It requires design scrutiny, including design review for certain referable developments, and emphasizes maintaining design quality through to completion by ensuring adequate detail, clear planning permission wording, and considering ongoing involvement of the original design team.",
+    "key_themes": [
+      "good design",
+      "masterplanning",
+      "design codes",
+      "design review",
+      "placemaking",
+      "design quality"
+    ],
+    "cross_references": [
+      "Policy D3 Optimising site capacity",
+      "Policy D9 Tall buildings",
+      "Policy D5 Inclusive design",
+      "Policy D6 Housing quality and standards"
+    ],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [
+      "exceeds 350 units per hectare"
+    ],
+    "page_number": 117
+  },
+  {
+    "policy_id": "D5",
+    "policy_title": "Inclusive design",
+    "policy_type": "Regional Plan",
+    "summary": "Mandates that Development Plans and proposals achieve the highest standards of accessible and inclusive design, creating inclusive neighbourhoods. Development should be designed for London's diverse population, provide high-quality people-focused spaces, ensure convenient and welcoming access without disabling barriers, and incorporate safe emergency evacuation for all users, including fire evacuation lifts.",
+    "key_themes": [
+      "inclusive design",
+      "accessibility",
+      "diversity",
+      "public realm",
+      "safety",
+      "emergency evacuation"
+    ],
+    "cross_references": [
+      "Policy D12 Fire safety",
+      "BS8300-1:2018",
+      "BS8300-2:2018"
+    ],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [
+      "at least one lift per core (or more subject to capacity assessments) should be a suitably sized fire evacuation lift"
+    ],
+    "page_number": 122
+  },
+  {
+    "policy_id": "D6",
+    "policy_title": "Housing quality and standards",
+    "policy_type": "Regional Plan",
+    "summary": "Requires housing development to be of high quality design with adequately-sized rooms and functional layouts, meeting minimum internal space standards (Table 3.1) and qualitative aspects (Table 3.2). It prioritises dual aspect dwellings, sufficient daylight/sunlight, adequate storage, and private outdoor space, and applies to all tenures.",
+    "key_themes": [
+      "housing quality",
+      "design standards",
+      "space standards",
+      "dual aspect",
+      "daylight and sunlight",
+      "amenity space",
+      "storage"
+    ],
+    "cross_references": [
+      "Table 3.1",
+      "Table 3.2",
+      "Policy D3 Optimising site capacity through the design-led approach",
+      "Policy S4 Play and informal recreation"
+    ],
+    "geographic_mentions": [],
+    "targets": [
+      "minimum 2.5m floor to ceiling height for at least 75 per cent of GIA",
+      "minimum of 5 sq.m. of private outdoor space for 1-2 person dwellings",
+      "extra 1 sq.m. private outdoor space for each additional occupant"
+    ],
+    "page_number": 125
+  },
+  {
+    "policy_id": "D7",
+    "policy_title": "Accessible housing",
+    "policy_type": "Regional Plan",
+    "summary": "Mandates that new residential development provides accessible housing to meet the needs of London's diverse population, including disabled and older people. It requires at least 10% of dwellings to meet M4(3) 'wheelchair user dwellings' standards and all other dwellings to meet M4(2) 'accessible and adaptable dwellings' standards.",
+    "key_themes": [
+      "accessible housing",
+      "inclusive design",
+      "disability",
+      "older people",
+      "housing standards"
+    ],
+    "cross_references": [
+      "Building Regulations Part M volume 1",
+      "Policy H2 Small sites",
+      "Policy T6.1 Residential parking"
+    ],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [
+      "at least 10 per cent of dwellings meet M4(3) 'wheelchair user dwellings'",
+      "all other dwellings meet M4(2) 'accessible and adaptable dwellings'"
+    ],
+    "page_number": 132
+  },
+  {
+    "policy_id": "D8",
+    "policy_title": "Public realm",
+    "policy_type": "Regional Plan",
+    "summary": "Requires Development Plans and proposals to create and enhance high-quality, safe, accessible, and inclusive public realm. This includes good design, easy maintenance, promoting active travel, considering diverse uses throughout day and night, integrating green infrastructure, managing street clutter, and ensuring supportive relationships between spaces and buildings.",
+    "key_themes": [
+      "public realm",
+      "urban design",
+      "accessibility",
+      "safety",
+      "active travel",
+      "green infrastructure",
+      "placemaking"
+    ],
+    "cross_references": [
+      "Public London Charter"
+    ],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 134
+  },
+  {
+    "policy_id": "D9",
+    "policy_title": "Tall buildings",
+    "policy_type": "Regional Plan",
+    "summary": "Requires Development Plans to define 'tall building' locally (not less than 6 storeys or 18m) and identify suitable locations. Proposals for tall buildings must address visual impacts (long, mid, immediate range), functional impacts (safety, servicing, capacity), environmental impacts (wind, daylight, noise), cumulative impacts, and provide public access where appropriate.",
+    "key_themes": [
+      "tall buildings",
+      "urban design",
+      "skyline",
+      "visual impact",
+      "environmental impact",
+      "heritage",
+      "public access"
+    ],
+    "cross_references": [
+      "Policy D1 London\u2019s form, character and capacity for growth",
+      "Policy D4 Delivering good design",
+      "Policy D8 Public realm",
+      "Policy D11 Safety, security and resilience to emergency",
+      "Policy D12 Fire safety"
+    ],
+    "geographic_mentions": [
+      "London",
+      "River Thames",
+      "Thames Policy Area"
+    ],
+    "targets": [
+      "not be less than 6 storeys or 18 metres"
+    ],
+    "page_number": 138
+  },
+  {
+    "policy_id": "D10",
+    "policy_title": "Basement development",
+    "policy_type": "Regional Plan",
+    "summary": "Requires boroughs to establish policies in Development Plans to address the negative impacts of large-scale basement development beneath existing buildings, particularly where identified as a local issue. It highlights considerations such as ground conditions, flood risk, structural stability, and neighbour amenity.",
+    "key_themes": [
+      "basement development",
+      "subterranean development",
+      "amenity",
+      "flood risk",
+      "structural stability",
+      "construction impacts"
+    ],
+    "cross_references": [
+      "Policy D13 Agent of Change",
+      "Article 4 Directions"
+    ],
+    "geographic_mentions": [
+      "central London",
+      "inner London"
+    ],
+    "targets": [],
+    "page_number": 144
+  },
+  {
+    "policy_id": "D11",
+    "policy_title": "Safety, security and resilience to emergency",
+    "policy_type": "Regional Plan",
+    "summary": "The Mayor will work with partners to ensure a safe, secure, and resilient environment in London. Boroughs should collaborate with emergency services to identify community safety needs and site requirements. Development proposals must maximize building resilience and minimize physical risks, including those from extreme weather and terrorism, by incorporating measures to design out crime and assist in detecting and mitigating terrorist activity.",
+    "key_themes": [
+      "safety",
+      "security",
+      "resilience",
+      "emergency planning",
+      "crime prevention",
+      "counter-terrorism",
+      "designing out crime"
+    ],
+    "cross_references": [
+      "London Risk Register",
+      "Secured by Design Scheme",
+      "Chapter 9 (Sustainable Infrastructure)"
+    ],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [],
+    "page_number": 145
+  },
+  {
+    "policy_id": "D12",
+    "policy_title": "Fire safety",
+    "policy_type": "Regional Plan",
+    "summary": "Requires all development proposals to achieve the highest standards of fire safety, ensuring suitable access for fire appliances, appropriate evacuation assembly points, features to reduce risk to life (fire alarms, passive/active measures), construction to minimize fire spread, and robust evacuation strategies. Major developments must submit a Fire Statement produced by a suitably qualified assessor.",
+    "key_themes": [
+      "fire safety",
+      "building safety",
+      "emergency evacuation",
+      "construction standards",
+      "risk assessment"
+    ],
+    "cross_references": [
+      "Policy D5 Inclusive design"
+    ],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 147
+  },
+  {
+    "policy_id": "D13",
+    "policy_title": "Agent of Change",
+    "policy_type": "Regional Plan",
+    "summary": "Establishes the Agent of Change principle, placing responsibility on new noise-sensitive developments to mitigate impacts from existing noise-generating uses, and on new noise-generating developments to manage impacts on existing sensitive uses. This aims to ensure established uses remain viable and new developments are protected.",
+    "key_themes": [
+      "agent of change",
+      "noise",
+      "nuisance",
+      "amenity",
+      "development management",
+      "mitigation"
+    ],
+    "cross_references": [
+      "Policy SI 1 Improving air quality",
+      "Policy T7 Deliveries, servicing and construction",
+      "Policy E7 Industrial intensification, co-location and substitution",
+      "Policy HC5 Supporting London\u2019s culture and creative industries",
+      "Policy D14 Noise"
+    ],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 150
+  },
+  {
+    "policy_id": "D14",
+    "policy_title": "Noise",
+    "policy_type": "Regional Plan",
+    "summary": "Requires development proposals to manage noise to improve health and quality of life by avoiding significant adverse impacts, reflecting the Agent of Change principle, mitigating existing and potential adverse impacts, improving the acoustic environment, separating noise-sensitive development from major noise sources, and promoting new noise-reducing technologies.",
+    "key_themes": [
+      "noise",
+      "acoustic design",
+      "amenity",
+      "public health",
+      "agent of change",
+      "mitigation",
+      "soundscape",
+      "Quiet Areas"
+    ],
+    "cross_references": [
+      "Policy D13 Agent of Change",
+      "Policy SI 1 Improving air quality",
+      "Policy T8 Aviation",
+      "Defra\u2019s Noise Action Plan for Agglomerations"
+    ],
+    "geographic_mentions": [
+      "Quiet Areas",
+      "Metropolitan Open Land"
+    ],
+    "targets": [],
+    "page_number": 153
+  },
+  {
+    "policy_id": "H1",
+    "policy_title": "Increasing housing supply",
+    "policy_type": "Regional Plan",
+    "summary": "Sets ten-year housing completion targets for each local planning authority (Table 4.1) and requires boroughs to prepare delivery-focused Development Plans that allocate sufficient sites, encourage windfall development, enable Opportunity Area delivery, optimise brownfield potential (especially near transport hubs and town centres, and on small sites and industrial land identified for release), and establish ambitious build-out rates. It also mandates proactive use of brownfield registers, annual housing trajectory updates, and consideration of higher-density development where new transport is planned.",
+    "key_themes": [
+      "housing supply",
+      "housing targets",
+      "development plans",
+      "brownfield development",
+      "site allocation",
+      "windfall sites",
+      "opportunity areas",
+      "small sites",
+      "industrial land",
+      "build-out rates"
+    ],
+    "cross_references": [
+      "Table 4.1",
+      "Table 4.2",
+      "Policy H2 Small sites",
+      "Policy E4 Land for industry, logistics and services to support London\u2019s economic function",
+      "Policy E5 Strategic Industrial Locations (SIL)",
+      "Policy E6 Locally Significant Industrial Sites",
+      "Policy E7 Industrial intensification, co-location and substitution",
+      "Policy H5 Threshold approach to applications",
+      "Chapter 12 - Monitoring"
+    ],
+    "geographic_mentions": [
+      "London",
+      "Opportunity Areas",
+      "Green Belt",
+      "Metropolitan Open Land",
+      "Epping Forest Special Area of Conservation (SAC)"
+    ],
+    "targets": [
+      "ten-year housing targets",
+      "800m distance of a station or town centre boundary"
+    ],
+    "page_number": 157
+  },
+  {
+    "policy_id": "H2",
+    "policy_title": "Small sites",
+    "policy_type": "Regional Plan",
+    "summary": "Requires boroughs to proactively support well-designed new homes on small sites (below 0.25 hectares) to increase their contribution to housing supply, diversify housing types, support smaller builders, and achieve minimum targets (Table 4.2). Boroughs should recognise evolving local character, prepare site-specific guidance, identify and allocate small sites, and grant permission in principle where appropriate.",
+    "key_themes": [
+      "small sites",
+      "housing supply",
+      "housing design",
+      "densification",
+      "brownfield development",
+      "community-led housing",
+      "custom-build housing",
+      "self-build housing"
+    ],
+    "cross_references": [
+      "Table 4.2",
+      "Table 4.1",
+      "Policy D7 Accessible housing"
+    ],
+    "geographic_mentions": [
+      "Outer London"
+    ],
+    "targets": [
+      "below 0.25 hectares in size",
+      "minimum targets for small sites set out in Table 4.2",
+      "800m distance of a station or town centre boundary",
+      "PTALs 3-6"
+    ],
+    "page_number": 166
+  },
+  {
+    "policy_id": "H3",
+    "policy_title": "Meanwhile use as housing",
+    "policy_type": "Regional Plan",
+    "summary": "Encourages boroughs to identify opportunities for the meanwhile (temporary) use of sites for housing to make efficient use of land awaiting longer-term development. Such housing, potentially including precision-manufactured homes, should count towards housing targets but not result in unacceptable impacts or prevent timely permanent development.",
+    "key_themes": [
+      "meanwhile use",
+      "temporary housing",
+      "land use efficiency",
+      "precision-manufactured homes"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 171
+  },
+  {
+    "policy_id": "H4",
+    "policy_title": "Delivering affordable housing",
+    "policy_type": "Regional Plan",
+    "summary": "Sets a strategic target for 50% of all new homes to be genuinely affordable. It outlines measures including requiring major developments to provide affordable housing via the threshold approach, using grant to increase delivery, expecting affordable housing providers to deliver at least 50-60% affordable homes, and requiring 50% affordable housing on public sector land and certain industrial land redevelopments. Affordable housing should be provided on-site except in exceptional circumstances.",
+    "key_themes": [
+      "affordable housing",
+      "housing delivery",
+      "strategic target",
+      "threshold approach",
+      "public sector land",
+      "industrial land"
+    ],
+    "cross_references": [
+      "Policy H5 Threshold approach to applications",
+      "Policy E7 Industrial intensification, co-location and substitution",
+      "Policy H2 Small sites",
+      "Policy H8 Loss of existing housing and estate redevelopment",
+      "Policy H7 Monitoring of affordable housing",
+      "Policy H16 Large-scale purpose-built shared living"
+    ],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [
+      "50 per cent of all new homes delivered across London to be genuinely affordable",
+      "43,500 affordable homes per year (need identified in SHMA)",
+      "65 per cent of London\u2019s need is for affordable housing (identified in SHMA)",
+      "at least 50 per cent affordable housing across their development programme (affordable housing providers)",
+      "60 per cent affordable housing across their development programme (strategic partners)",
+      "at least 50 per cent affordable housing on each public sector land site",
+      "at least 35 per cent affordable housing (portfolio approach on public land)"
+    ],
+    "page_number": 172
+  },
+  {
+    "policy_id": "H5",
+    "policy_title": "Threshold approach to applications",
+    "policy_type": "Regional Plan",
+    "summary": "Applies a threshold approach to major developments triggering affordable housing requirements. Schemes meeting or exceeding specified affordable housing thresholds (35% general, 50% on public sector/industrial land) without public subsidy, and meeting tenure split/other policy requirements, can follow a Fast Track Route without viability assessment at application. Other schemes follow a Viability Tested Route with detailed scrutiny and review mechanisms. Scheme amendments are also subject to viability considerations.",
+    "key_themes": [
+      "affordable housing",
+      "threshold approach",
+      "viability assessment",
+      "Fast Track Route",
+      "Viability Tested Route",
+      "planning applications",
+      "Section 73 applications"
+    ],
+    "cross_references": [
+      "paragraph 4.5.15",
+      "Policy H6 Affordable housing tenure",
+      "Policy E7 Industrial intensification, co-location and substitution",
+      "Affordable Housing and Viability SPG",
+      "Policy H11 Build to Rent",
+      "Policy H13 Specialist older persons housing",
+      "Policy H15 Purpose-built student accommodation",
+      "Policy H16 Large-scale purpose-built shared living",
+      "Policy H8 Loss of existing housing and estate redevelopment"
+    ],
+    "geographic_mentions": [],
+    "targets": [
+      "minimum of 35 per cent affordable housing",
+      "50 per cent affordable housing for public sector land",
+      "50 per cent affordable housing for Strategic Industrial Locations, Locally Significant Industrial Sites and Non-Designated Industrial Sites appropriate for residential uses",
+      "75 per cent or more affordable housing (may follow Fast Track Route with flexible tenure)",
+      "two years of permission being granted (trigger for Early Stage Viability Review)",
+      "75 per cent of units sold or let (trigger for Late Stage Viability Review)"
+    ],
+    "page_number": 176
+  },
+  {
+    "policy_id": "H6",
+    "policy_title": "Affordable housing tenure",
+    "policy_type": "Regional Plan",
+    "summary": "Specifies the tenure split for affordable housing in residential developments: a minimum of 30% low-cost rented homes (London Affordable Rent or Social Rent) and a minimum of 30% intermediate products (including London Living Rent and London Shared Ownership). The remaining 40% is determined by the borough based on identified need. Fast Track Route applications must meet this split for the initial 35% affordable housing.",
+    "key_themes": [
+      "affordable housing tenure",
+      "social rent",
+      "London Affordable Rent",
+      "London Living Rent",
+      "London Shared Ownership",
+      "intermediate housing"
+    ],
+    "cross_references": [
+      "Policy H5 Threshold approach to applications"
+    ],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [
+      "minimum of 30 per cent low-cost rented homes",
+      "minimum of 30 per cent intermediate products",
+      "remaining 40 per cent to be determined by the borough",
+      "40 per cent of net household income (housing cost affordability threshold)",
+      "\u00a360,000 income cap (intermediate rented products)",
+      "\u00a390,000 income cap (intermediate ownership products)"
+    ],
+    "page_number": 181
+  },
+  {
+    "policy_id": "H7",
+    "policy_title": "Monitoring of affordable housing",
+    "policy_type": "Regional Plan",
+    "summary": "Requires boroughs to have clear monitoring processes for affordable housing delivery, including on or off-site provision and cash in lieu payments. This includes ensuring review mechanisms are implemented and recorded. Boroughs must publish this monitoring information annually and share it with the GLA.",
+    "key_themes": [
+      "affordable housing",
+      "monitoring",
+      "Section 106 agreement",
+      "transparency"
+    ],
+    "cross_references": [
+      "Policy H4 Delivering affordable housing",
+      "Policy H5 Threshold approach to applications",
+      "Policy H6 Affordable housing tenure"
+    ],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 185
+  },
+  {
+    "policy_id": "H8",
+    "policy_title": "Loss of existing housing and estate redevelopment",
+    "policy_type": "Regional Plan",
+    "summary": "Requires replacement of lost existing housing at existing or higher densities with equivalent floorspace. Loss of specialised accommodation like hostels must be re-provided. Demolition of affordable housing, especially social rent, is only permitted if replaced by equivalent floorspace (social rent for social rent where facilitating right of return) and integrated into the new development. All such proposals follow the Viability Tested Route and should seek an uplift in affordable housing.",
+    "key_themes": [
+      "housing loss",
+      "estate redevelopment",
+      "affordable housing replacement",
+      "social rent",
+      "right of return",
+      "viability"
+    ],
+    "cross_references": [
+      "Mayor\u2019s Good Practice Guide to Estate Regeneration"
+    ],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 185
+  },
+  {
+    "policy_id": "H9",
+    "policy_title": "Ensuring the best use of stock",
+    "policy_type": "Regional Plan",
+    "summary": "Promotes efficient use of existing housing stock by reducing vacant and under-occupied dwellings. It supports boroughs in tackling 'buy to leave' properties and managing the impact of short-term holiday lets on housing supply and local housing need. The protection of Houses in Multiple Occupation (HMOs) of reasonable standard is also advocated.",
+    "key_themes": [
+      "housing stock management",
+      "vacant homes",
+      "under-occupation",
+      "buy to leave",
+      "short-term lets",
+      "Houses in Multiple Occupation (HMOs)"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [
+      "more than 90 days a year (short term holiday rental)"
+    ],
+    "page_number": 188
+  },
+  {
+    "policy_id": "H10",
+    "policy_title": "Housing size mix",
+    "policy_type": "Regional Plan",
+    "summary": "Requires residential schemes to provide a range of unit sizes based on local evidence of need (or the London SHMA), the requirement for mixed and inclusive neighbourhoods, delivering homes at different price points, and the mix of uses and tenures. For low-cost rent, boroughs should provide guidance on required bedroom sizes based on local needs, welfare reform impacts, and cost/grant availability.",
+    "key_themes": [
+      "housing mix",
+      "unit size",
+      "bedroom number",
+      "housing need",
+      "family housing",
+      "affordable housing"
+    ],
+    "cross_references": [
+      "2017 London Strategic Housing Market Assessment (SHMA)"
+    ],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [],
+    "page_number": 189
+  },
+  {
+    "policy_id": "H11",
+    "policy_title": "Build to Rent",
+    "policy_type": "Regional Plan",
+    "summary": "Supports Build to Rent schemes where affordable housing is Discounted Market Rent (DMR), preferably at London Living Rent levels, secured in perpetuity. Qualifying schemes must meet criteria including minimum unit numbers, 15-year covenants, clawback mechanisms, unified management, longer tenancies, rent certainty, on-site management, and no up-front fees. Fast Track Route requires 35% affordable housing (or 50% on public/industrial land), with specific DMR rent level expectations. Non-compliant schemes are assessed under standard affordable housing policies.",
+    "key_themes": [
+      "Build to Rent",
+      "Discounted Market Rent (DMR)",
+      "London Living Rent",
+      "affordable housing",
+      "housing management",
+      "tenancy agreements"
+    ],
+    "cross_references": [
+      "Policy E7 Industrial intensification, co-location and substitution",
+      "Policy H5 Threshold approach to applications",
+      "Policy H6 Affordable housing tenure",
+      "Affordable Housing and Viability SPG"
+    ],
+    "geographic_mentions": [],
+    "targets": [
+      "at least 50 units",
+      "at least 15 years (covenant)",
+      "minimum tenancy lengths of three years",
+      "at least 35 per cent affordable housing (Fast Track Route)",
+      "50 per cent affordable housing (Fast Track Route on public sector/industrial land)",
+      "at least 30 per cent of DMR homes at London Living Rent equivalent",
+      "discount of 50 per cent of market rent (contribution for shared living)"
+    ],
+    "page_number": 192
+  },
+  {
+    "policy_id": "H12",
+    "policy_title": "Supported and specialised accommodation",
+    "policy_type": "Regional Plan",
+    "summary": "Supports the delivery, retention, and refurbishment of supported and specialised housing that meets identified needs for diverse groups including care leavers, young people with support needs, those needing reablement, disabled people, individuals with mental health issues, rough sleepers, and victims of domestic abuse/violence. Boroughs should assess these needs and plan for appropriate provision.",
+    "key_themes": [
+      "supported housing",
+      "specialised housing",
+      "vulnerable groups",
+      "housing need",
+      "social inclusion",
+      "inclusive design"
+    ],
+    "cross_references": [
+      "Policy D7 Accessible housing"
+    ],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 197
+  },
+  {
+    "policy_id": "H13",
+    "policy_title": "Specialist older persons housing",
+    "policy_type": "Regional Plan",
+    "summary": "Requires boroughs to work with providers to identify suitable sites for specialist older persons housing, considering local needs (Table 4.3), connectivity, access to facilities, and dementia needs. Provision should deliver affordable housing, meet high accessibility and inclusive design standards, and include facilities like mobility scooter storage and appropriate pick-up/drop-off areas.",
+    "key_themes": [
+      "specialist older persons housing",
+      "older people",
+      "dementia care",
+      "accessible housing",
+      "inclusive design",
+      "affordable housing"
+    ],
+    "cross_references": [
+      "Table 4.3",
+      "Policy H4 Delivering affordable housing",
+      "Policy H5 Threshold approach to applications",
+      "Policy D7 Accessible housing",
+      "Policy D5 Inclusive design",
+      "Policy H6 Affordable housing tenure"
+    ],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [],
+    "page_number": 198
+  },
+  {
+    "policy_id": "H14",
+    "policy_title": "Gypsy and traveller accommodation",
+    "policy_type": "Regional Plan",
+    "summary": "Requires boroughs to plan to meet identified need for permanent gypsy and traveller pitches, including ten-year targets in Development Plans. Boroughs without recent needs assessments should use Table 4.4 figures. Audits of existing sites should identify overcrowding, potential capacity, and refurbishment needs. Existing pitch capacity should be protected.",
+    "key_themes": [
+      "gypsy and traveller accommodation",
+      "housing need",
+      "site provision",
+      "pitch targets",
+      "Travelling Showpeople"
+    ],
+    "cross_references": [
+      "Table 4.4",
+      "Housing and Planning Act 2016 section 124"
+    ],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [
+      "ten-year pitch targets"
+    ],
+    "page_number": 203
+  },
+  {
+    "policy_id": "H15",
+    "policy_title": "Purpose-built student accommodation",
+    "policy_type": "Regional Plan",
+    "summary": "Supports purpose-built student accommodation (PBSA) to meet local and strategic need, provided it contributes to mixed and inclusive neighbourhoods, is secured for students, has a nomination agreement with a higher education provider for most rooms, and includes affordable student accommodation (at least 35% or 50% on public/industrial land for Fast Track Route, or subject to Viability Tested Route).",
+    "key_themes": [
+      "student accommodation",
+      "purpose-built student accommodation (PBSA)",
+      "affordable student accommodation",
+      "higher education",
+      "mixed communities"
+    ],
+    "cross_references": [
+      "Policy E7 Industrial intensification, co-location and substitution",
+      "Policy H5 Threshold approach to applications",
+      "Policy D3 Optimising site capacity through the design-led approach"
+    ],
+    "geographic_mentions": [],
+    "targets": [
+      "at least 35 per cent affordable student accommodation (Fast Track Route)",
+      "50 per cent affordable student accommodation (Fast Track Route on public land/industrial land)",
+      "rental cost equal to or below 55 per cent of the maximum Government maintenance loan"
+    ],
+    "page_number": 206
+  },
+  {
+    "policy_id": "H16",
+    "policy_title": "Large-scale purpose-built shared living",
+    "policy_type": "Regional Plan",
+    "summary": "Sets criteria for large-scale purpose-built shared living developments, including good design, contribution to mixed neighbourhoods, good transport links, single management, minimum tenancy lengths, and specified communal facilities. It requires a financial contribution towards conventional C3 affordable housing (equivalent to 35% or 50% of units at a 50% market rent discount), subject to viability testing without a Late Stage Review if the threshold contribution is met.",
+    "key_themes": [
+      "shared living",
+      "co-living",
+      "sui generis housing",
+      "housing design",
+      "affordable housing contribution",
+      "housing management"
+    ],
+    "cross_references": [
+      "Policy E7 Industrial intensification, co-location and substitution",
+      "Policy H5 Threshold approach to applications"
+    ],
+    "geographic_mentions": [],
+    "targets": [
+      "minimum tenancy lengths of three months",
+      "contribution equivalent to 35 per cent of units",
+      "contribution equivalent to 50 per cent of units (on public sector land/industrial land)",
+      "discount of 50 per cent of the market rent (for contribution calculation)"
+    ],
+    "page_number": 211
+  },
+  {
+    "policy_id": "E1",
+    "policy_title": "Offices",
+    "policy_type": "Regional Plan",
+    "summary": "Supports improvements to office space quality, flexibility, and adaptability for various enterprises, and directs increases in office stock to specific locations. It promotes central London's office market, including CAZ and NIOD, and the consolidation and extension of diverse office markets in outer and inner London, while managing surplus office capacity.",
+    "key_themes": [
+      "offices",
+      "employment",
+      "economic development",
+      "urban development",
+      "mixed-use development",
+      "workspace"
+    ],
+    "cross_references": [
+      "Table A1.1",
+      "Figure A1.4 in Annex 1",
+      "Parts C and D",
+      "Part D3",
+      "Article 4 Directions",
+      "Parts G and H"
+    ],
+    "geographic_mentions": [
+      "central London",
+      "CAZ",
+      "NIOD (Northern Isle of Dogs)",
+      "Tech City",
+      "Kensington & Chelsea",
+      "Stratford",
+      "Old Oak Common",
+      "Croydon town centre",
+      "Chiswick Park",
+      "Stockley Park",
+      "Bedfont Lakes",
+      "outer London",
+      "inner London"
+    ],
+    "targets": [],
+    "page_number": 239
+  },
+  {
+    "policy_id": "E2",
+    "policy_title": "Providing suitable business space",
+    "policy_type": "Regional Plan",
+    "summary": "Ensures the provision, protection, and appropriate quality of B Use Class business space to meet the needs of micro, small, and medium-sized enterprises (SMEs), and supports firms wishing to start-up or expand. It also outlines conditions for the loss of existing B Use Class business space.",
+    "key_themes": [
+      "business space",
+      "employment",
+      "SMEs",
+      "economic development",
+      "workspace",
+      "B Use Class"
+    ],
+    "cross_references": [
+      "Policy E3 Affordable workspace"
+    ],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [
+      "2,500 sq.m. (gross external area)"
+    ],
+    "page_number": 242
+  },
+  {
+    "policy_id": "E3",
+    "policy_title": "Affordable workspace",
+    "policy_type": "Regional Plan",
+    "summary": "Allows for planning obligations to secure affordable workspace at sub-market rents for specific social, cultural, or economic development purposes, particularly for certain sectors or disadvantaged groups. It specifies conditions under which the need for affordable workspace should be considered and how boroughs should develop related policies.",
+    "key_themes": [
+      "affordable workspace",
+      "workspace",
+      "economic development",
+      "social value",
+      "cultural value",
+      "planning obligations",
+      "SMEs"
+    ],
+    "cross_references": [
+      "Parts B and C",
+      "Section 106 agreements",
+      "Part A"
+    ],
+    "geographic_mentions": [
+      "City Fringe",
+      "CAZ",
+      "Creative Enterprise Zones"
+    ],
+    "targets": [
+      "at least 15 years"
+    ],
+    "page_number": 244
+  },
+  {
+    "policy_id": "E4",
+    "policy_title": "Land for industry, logistics and services to support London\u2019s economic function",
+    "policy_type": "Regional Plan",
+    "summary": "Ensures a sufficient supply of land and premises for a variety of industrial, logistics, and service functions to support London's economy. It categorises industrial land and prioritises its retention, enhancement, and provision based on accessibility and function, while managing release through intensification, co-location, and substitution.",
+    "key_themes": [
+      "industrial land",
+      "logistics",
+      "services",
+      "economic function",
+      "employment land",
+      "waste management",
+      "transport infrastructure"
+    ],
+    "cross_references": [
+      "Policy E7 Industrial intensification, co-location and substitution",
+      "Policy E5 Strategic Industrial Locations (SIL)",
+      "Policy E6 Locally Significant Industrial Sites",
+      "Policy E2 Providing suitable business space",
+      "Use Classes B1c, B2, B8, B1b",
+      "Part C",
+      "Article 4 Directions"
+    ],
+    "geographic_mentions": [
+      "London",
+      "central London",
+      "Northern Isle of Dogs"
+    ],
+    "targets": [],
+    "page_number": 247
+  },
+  {
+    "policy_id": "E5",
+    "policy_title": "Strategic Industrial Locations (SIL)",
+    "policy_type": "Regional Plan",
+    "summary": "Mandates proactive, plan-led management of Strategic Industrial Locations (SILs) to sustain their function as London\u2019s largest concentrations of industrial and logistics capacity. Boroughs are required to define boundaries, protect and intensify SIL functions, and strategically coordinate any release of SIL land.",
+    "key_themes": [
+      "industrial land",
+      "strategic planning",
+      "employment land",
+      "logistics",
+      "economic function"
+    ],
+    "cross_references": [
+      "Figure 6.1",
+      "Table 6.2",
+      "Policy E7 Industrial intensification, co-location and substitution",
+      "Part A of Policy E4"
+    ],
+    "geographic_mentions": [
+      "London",
+      "Park Royal",
+      "Heathrow",
+      "Upper Lee Valley",
+      "Thames Gateway",
+      "Wandle Valley"
+    ],
+    "targets": [
+      "24-hour basis"
+    ],
+    "page_number": 251
+  },
+  {
+    "policy_id": "E6",
+    "policy_title": "Locally Significant Industrial Sites",
+    "policy_type": "Regional Plan",
+    "summary": "Requires boroughs to designate and define Locally Significant Industrial Sites (LSIS) in Development Plans, justified by local employment land reviews. These policies should clarify acceptable industrial uses, including hybrid/flexible spaces for SMEs, and distinguish LSIS from other local employment areas.",
+    "key_themes": [
+      "industrial land",
+      "employment land",
+      "local planning",
+      "SMEs"
+    ],
+    "cross_references": [
+      "Policy E7 Industrial intensification, co-location and substitution"
+    ],
+    "geographic_mentions": [
+      "Inner London",
+      "Central Activities Zone",
+      "Northern Isle of Dogs"
+    ],
+    "targets": [],
+    "page_number": 257
+  },
+  {
+    "policy_id": "E7",
+    "policy_title": "Industrial intensification, co-location and substitution",
+    "policy_type": "Regional Plan",
+    "summary": "Encourages the intensification of industrial uses (B1c, B2, B8) on all industrial land categories through measures like small units and multi-storey schemes. It supports plan-led processes for intensification, co-location (especially with residential in LSIS), and substitution of industrial capacity, ensuring continued efficient function and appropriate mitigation.",
+    "key_themes": [
+      "industrial land",
+      "intensification",
+      "co-location",
+      "mixed-use development",
+      "residential development",
+      "planning policy",
+      "logistics"
+    ],
+    "cross_references": [
+      "Part A of Policy E4",
+      "Part C of Policy E2 Providing suitable business space",
+      "Figure 6.2"
+    ],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [
+      "7-day/24-hour access"
+    ],
+    "page_number": 258
+  },
+  {
+    "policy_id": "E8",
+    "policy_title": "Sector growth opportunities and clusters",
+    "policy_type": "Regional Plan",
+    "summary": "Promotes diverse employment opportunities and business growth across various sectors by supporting suitable workspaces, innovation, and the development of specific industry clusters and Strategic Outer London Development Centres (SOLDCs). It aims to maximise London's global leadership in tech and ensure availability of appropriate workspaces.",
+    "key_themes": [
+      "economic development",
+      "employment",
+      "sector growth",
+      "clusters",
+      "innovation",
+      "workspace",
+      "education",
+      "regeneration"
+    ],
+    "cross_references": [
+      "Policy E3 Affordable workspace",
+      "Policy HC5 Supporting London\u2019s culture and creative industries",
+      "Policy E1 Offices",
+      "Policy SI 7 Reducing waste and supporting the circular economy",
+      "Policy SI 6 Digital connectivity infrastructure",
+      "Policy E10 Visitor infrastructure"
+    ],
+    "geographic_mentions": [
+      "London",
+      "Tech City",
+      "MedCity",
+      "CleanTech innovation clusters",
+      "Creative Enterprise Zones",
+      "Thames Gateway",
+      "Strategic Outer London Development Centres (SOLDC)",
+      "Euston Road",
+      "White City Campus",
+      "Whitechapel",
+      "London Cancer Hub",
+      "West London",
+      "City Fringe",
+      "Old Oak",
+      "Park Royal",
+      "inner London",
+      "outer London"
+    ],
+    "targets": [],
+    "page_number": 263
+  },
+  {
+    "policy_id": "E9",
+    "policy_title": "Retail, markets and hot food takeaways",
+    "policy_type": "Regional Plan",
+    "summary": "Supports a successful, competitive, and diverse retail sector, promoting sustainable access to goods and services in line with town centre policies. It addresses future retail requirements, consolidation of surplus space, management of hot food takeaways (especially near schools), and support for London's markets.",
+    "key_themes": [
+      "retail",
+      "markets",
+      "hot food takeaways",
+      "town centres",
+      "high streets",
+      "public health",
+      "A Use Class"
+    ],
+    "cross_references": [
+      "Policy SD6 Town centres and high streets",
+      "Policy SD8 Town centre network",
+      "Policy SD7 Town centres: development principles and Development Plan Documents",
+      "Policy SD9 Town centres: Local partnerships and implementation",
+      "Table A1.1"
+    ],
+    "geographic_mentions": [
+      "London",
+      "International town centres",
+      "Metropolitan town centres",
+      "Major town centres",
+      "District centres",
+      "Local centres",
+      "Neighbourhood centres",
+      "Central Activities Zone"
+    ],
+    "targets": [
+      "over 2,500 sq.m. gross A Use Class floorspace",
+      "400 metres walking distance"
+    ],
+    "page_number": 267
+  },
+  {
+    "policy_id": "E10",
+    "policy_title": "Visitor infrastructure",
+    "policy_type": "Regional Plan",
+    "summary": "Aims to strengthen London's visitor economy by enhancing attractions, ensuring inclusive access, and managing the supply of serviced accommodation and convention facilities. It specifies requirements for accessible bedrooms in new serviced accommodation.",
+    "key_themes": [
+      "tourism",
+      "visitor economy",
+      "accommodation",
+      "hotels",
+      "accessibility",
+      "infrastructure",
+      "convention facilities"
+    ],
+    "cross_references": [
+      "Policy SD5 Offices, other strategic functions and residential development in the CAZ",
+      "Policy SD7 Town centres: development principles and Development Plan Documents",
+      "Figure 52",
+      "Figure 30",
+      "Figure 33",
+      "British Standard BS8300-2:2018",
+      "Policy D5 Inclusive design"
+    ],
+    "geographic_mentions": [
+      "London",
+      "outer London",
+      "CAZ",
+      "Opportunity Areas",
+      "central London"
+    ],
+    "targets": [
+      "10 per cent of new bedrooms to be wheelchair-accessible",
+      "15 per cent of new bedrooms to be accessible rooms"
+    ],
+    "page_number": 273
+  },
+  {
+    "policy_id": "E11",
+    "policy_title": "Skills and opportunities for all",
+    "policy_type": "Regional Plan",
+    "summary": "Aims to address low pay and skills gaps by promoting inclusive access to training, skills, and employment opportunities for all Londoners. Development proposals should support these opportunities, particularly through Section 106 obligations, focusing on completion of training and increasing take-up by Londoners and under-represented groups.",
+    "key_themes": [
+      "skills",
+      "employment",
+      "training",
+      "social inclusion",
+      "apprenticeships",
+      "Section 106",
+      "regeneration"
+    ],
+    "cross_references": [
+      "Skills for Londoners Strategy",
+      "Section 106 obligations"
+    ],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [],
+    "page_number": 276
+  },
+  {
+    "policy_id": "HC1",
+    "policy_title": "Heritage conservation and growth",
+    "policy_type": "Regional Plan",
+    "summary": "Requires boroughs to understand, conserve, and enhance London's historic environment and heritage assets, integrating them into regenerative change. Development proposals must conserve the significance of heritage assets and their settings, avoid harm, and identify enhancement opportunities, including for archaeological assets.",
+    "key_themes": [
+      "heritage",
+      "conservation",
+      "archaeology",
+      "historic environment",
+      "urban design",
+      "place-making",
+      "growth"
+    ],
+    "cross_references": [
+      "Historic England",
+      "Policy D1 London\u2019s form, character and capacity for growth",
+      "Figure 7.1",
+      "Figure 7.2",
+      "Figure 7.3",
+      "Figure 7.4"
+    ],
+    "geographic_mentions": [
+      "London",
+      "City of London"
+    ],
+    "targets": [],
+    "page_number": 279
+  },
+  {
+    "policy_id": "HC2",
+    "policy_title": "World Heritage Sites",
+    "policy_type": "Regional Plan",
+    "summary": "Mandates the conservation, promotion, and protection of the Outstanding Universal Value (OUV) of World Heritage Sites (WHS) and their settings, including authenticity and integrity. Development proposals potentially affecting WHS require Heritage Impact Assessments and adherence to up-to-date WHS Management Plans.",
+    "key_themes": [
+      "heritage",
+      "World Heritage Sites",
+      "conservation",
+      "planning policy",
+      "impact assessment",
+      "OUV"
+    ],
+    "cross_references": [
+      "Policy HC3 Strategic and Local Views",
+      "Policy HC4 London View Management Framework"
+    ],
+    "geographic_mentions": [
+      "Maritime Greenwich WHS",
+      "Royal Botanic Gardens Kew WHS",
+      "Palace of Westminster and Westminster Abbey including St Margaret\u2019s Church WHS",
+      "Tower of London WHS",
+      "City of London",
+      "Royal Borough of Greenwich",
+      "Hounslow",
+      "Lambeth",
+      "Lewisham",
+      "Richmond",
+      "Southwark",
+      "Tower Hamlets",
+      "Wandsworth",
+      "City of Westminster",
+      "River Thames"
+    ],
+    "targets": [],
+    "page_number": 288
+  },
+  {
+    "policy_id": "HC3",
+    "policy_title": "Strategic and Local Views",
+    "policy_type": "Regional Plan",
+    "summary": "Designates and protects Strategic Views that help define London, identifying landmarks and World Heritage Site aspects. Management is guided by the LVMF SPG. Boroughs are advised to identify and manage local views based on similar principles.",
+    "key_themes": [
+      "views",
+      "strategic views",
+      "local views",
+      "landmarks",
+      "heritage",
+      "urban design",
+      "skyline",
+      "World Heritage Sites"
+    ],
+    "cross_references": [
+      "Table 7.1",
+      "LVMF SPG",
+      "Policy HC4 London View Management Framework",
+      "Figure 7.5"
+    ],
+    "geographic_mentions": [
+      "London",
+      "St Paul\u2019s Cathedral",
+      "Palace of Westminster",
+      "Tower of London"
+    ],
+    "targets": [],
+    "page_number": 290
+  },
+  {
+    "policy_id": "HC4",
+    "policy_title": "London View Management Framework",
+    "policy_type": "Regional Plan",
+    "summary": "Ensures development proposals within designated Strategic Views do not harm, and ideally enhance, their characteristics, landmark elements, and World Heritage Site silhouettes. It sets out management principles for London Panoramas, River Prospects, and Townscape/Linear Views, and specific protections for Protected Vistas.",
+    "key_themes": [
+      "views",
+      "strategic views",
+      "landmarks",
+      "heritage",
+      "urban design",
+      "skyline",
+      "development management",
+      "World Heritage Sites"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [
+      "London Panoramas",
+      "River Prospects",
+      "Townscape Views",
+      "Linear Views"
+    ],
+    "targets": [],
+    "page_number": 296
+  },
+  {
+    "policy_id": "HC5",
+    "policy_title": "Supporting London\u2019s culture and creative industries",
+    "policy_type": "Regional Plan",
+    "summary": "Supports the growth and evolution of London\u2019s cultural facilities and creative industries by protecting existing venues, promoting new and existing distinct clusters (Cultural Quarters), encouraging meanwhile uses, and ensuring new developments include cultural elements. It also promotes the identification of Creative Enterprise Zones.",
+    "key_themes": [
+      "culture",
+      "creative industries",
+      "economic development",
+      "regeneration",
+      "town centres",
+      "workspace",
+      "meanwhile use"
+    ],
+    "cross_references": [
+      "Policy E2 Providing suitable business space",
+      "Policy E4 Land for industry, logistics and services to support London\u2019s economic function",
+      "Policy E8 Sector growth opportunities and clusters",
+      "Policy D13 Agent of Change",
+      "Policy E3 Affordable workspace"
+    ],
+    "geographic_mentions": [
+      "London",
+      "Cultural Quarters",
+      "Creative Enterprise Zones",
+      "Opportunity Areas",
+      "Areas for Regeneration",
+      "South Kensington museums complex",
+      "Southbank/Bankside/London Bridge area",
+      "West End",
+      "Wembley Stadium",
+      "Wembley Arena",
+      "Greenwich Riverside",
+      "O2 Centre",
+      "Olympic Park",
+      "London\u2019s Arcadia (Kew Gardens to Hampton Court)"
+    ],
+    "targets": [],
+    "page_number": 298
+  },
+  {
+    "policy_id": "HC6",
+    "policy_title": "Supporting the night-time economy",
+    "policy_type": "Regional Plan",
+    "summary": "Requires boroughs to develop a vision for the night-time economy, supporting its growth and diversification in strategic areas and town centres with good public transport. It aims to improve access, safety, and manage cumulative impacts of licensed premises, while protecting cultural venues.",
+    "key_themes": [
+      "night-time economy",
+      "town centres",
+      "culture",
+      "leisure",
+      "public transport",
+      "safety",
+      "public realm",
+      "24-hour city"
+    ],
+    "cross_references": [
+      "Table A1.1",
+      "Figure 7.6",
+      "Mayor\u2019s Vision for London as a 24-Hour City",
+      "Policy SD10 Strategic and local regeneration",
+      "Policy S6 Public toilets"
+    ],
+    "geographic_mentions": [
+      "Central Activities Zone (CAZ)",
+      "strategic areas of night-time activity",
+      "town centres",
+      "Night Tube",
+      "Night Buses",
+      "Areas for Regeneration",
+      "Outer London"
+    ],
+    "targets": [
+      "6pm and 6am"
+    ],
+    "page_number": 303
+  },
+  {
+    "policy_id": "HC7",
+    "policy_title": "Protecting public houses",
+    "policy_type": "Regional Plan",
+    "summary": "Aims to protect public houses that have heritage, economic, social, or cultural value, and supports new pubs that stimulate town centres and the night-time economy. Loss of valued pubs is resisted unless unviability is proven through authoritative marketing evidence, and development affecting pub operation or viability is also resisted.",
+    "key_themes": [
+      "public houses",
+      "pubs",
+      "heritage",
+      "culture",
+      "night-time economy",
+      "community facilities",
+      "town centres",
+      "social value"
+    ],
+    "cross_references": [
+      "Policy D13 Agent of Change"
+    ],
+    "geographic_mentions": [
+      "London",
+      "town centres",
+      "night-time economy areas",
+      "Cultural Quarters",
+      "Creative Enterprise Zones"
+    ],
+    "targets": [
+      "24 months"
+    ],
+    "page_number": 308
+  },
+  {
+    "policy_id": "S1",
+    "policy_title": "Developing London\u2019s social infrastructure",
+    "policy_type": "Regional Plan",
+    "summary": "Requires boroughs to ensure London's diverse social infrastructure needs are met through needs assessments, area-based planning, and supporting proposals for high-quality, inclusive facilities. It encourages co-location, rationalisation, accessibility, and prioritises re-provision or alternative social infrastructure use before other developments are considered for lost facilities.",
+    "key_themes": [
+      "social infrastructure",
+      "community facilities",
+      "needs assessment",
+      "planning policy",
+      "co-location",
+      "accessibility"
+    ],
+    "cross_references": [
+      "Chapter 7 (Cultural facilities)",
+      "Policy E1 Offices",
+      "Chapter 8 (Green infrastructure)",
+      "Policy G3 Metropolitan Open Land",
+      "Policy G4 Open space",
+      "Policy S2 Health and social care facilities",
+      "Part F2"
+    ],
+    "geographic_mentions": [
+      "London",
+      "Opportunity Area Planning Frameworks",
+      "Area Action Plans",
+      "Neighbourhood Plans"
+    ],
+    "targets": [],
+    "page_number": 216
+  },
+  {
+    "policy_id": "S2",
+    "policy_title": "Health and social care facilities",
+    "policy_type": "Regional Plan",
+    "summary": "Requires boroughs to work with NHS and community organisations to identify and address local health and social care needs, understand service transformation impacts, undertake needs assessments, and identify sites for future provision. Development proposals supporting high-quality, accessible health and social care facilities that meet identified needs and new models of care should be supported.",
+    "key_themes": [
+      "health facilities",
+      "social care facilities",
+      "NHS",
+      "needs assessment",
+      "service transformation",
+      "co-location",
+      "accessibility"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 219
+  },
+  {
+    "policy_id": "S3",
+    "policy_title": "Education and childcare facilities",
+    "policy_type": "Regional Plan",
+    "summary": "Ensures sufficient supply of good quality education and childcare facilities by requiring boroughs to undertake needs assessments, identify sites for future provision (especially for schools and SEND places), and ensure housing/commercial developments incorporate childcare where needed. Proposals for new facilities should be accessible, well-located, enable active travel, maximise multiple use, encourage shared services, be inclusive, and incorporate outdoor space.",
+    "key_themes": [
+      "education facilities",
+      "childcare facilities",
+      "schools",
+      "needs assessment",
+      "site allocation",
+      "accessibility",
+      "shared use"
+    ],
+    "cross_references": [
+      "Policy S5 Sports and recreation facilities"
+    ],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 222
+  },
+  {
+    "policy_id": "S4",
+    "policy_title": "Play and informal recreation",
+    "policy_type": "Regional Plan",
+    "summary": "Requires boroughs to prepare needs assessments and strategies for children's play and informal recreation facilities. Development proposals likely to be used by children and young people should increase play opportunities, incorporate good-quality accessible play provision for all ages (at least 10 sqm per child in residential developments), and integrate accessible routes to existing facilities. Net loss of play provision is resisted unless no future demand is demonstrated.",
+    "key_themes": [
+      "play provision",
+      "informal recreation",
+      "children and young people",
+      "public realm",
+      "accessibility",
+      "open space"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [],
+    "targets": [
+      "At least 10 square metres of playspace should be provided per child"
+    ],
+    "page_number": 227
+  },
+  {
+    "policy_id": "S5",
+    "policy_title": "Sports and recreation facilities",
+    "policy_type": "Regional Plan",
+    "summary": "Ensures sufficient supply of good quality sports and recreation facilities by requiring boroughs to undertake needs assessments, secure sites, and promote networks for active travel. Development proposals for new facilities should be accessible, maximise multiple use, and support sports lighting where appropriate. Existing sports land and facilities should be retained unless proven surplus, adequately replaced, or the new development offers outweighing benefits.",
+    "key_themes": [
+      "sports facilities",
+      "recreation facilities",
+      "playing fields",
+      "needs assessment",
+      "accessibility",
+      "shared use",
+      "open space protection"
+    ],
+    "cross_references": [
+      "Figure 5.1 (Walk London Network)",
+      "Policy G2 London\u2019s Green Belt",
+      "Policy G3 Metropolitan Open Land",
+      "Policy G4 Open space"
+    ],
+    "geographic_mentions": [
+      "Walk London Network"
+    ],
+    "targets": [],
+    "page_number": 229
+  },
+  {
+    "policy_id": "S6",
+    "policy_title": "Public toilets",
+    "policy_type": "Regional Plan",
+    "summary": "Requires large-scale developments open to the public and large areas of public realm to provide and manage free publicly-accessible toilets, including 'Changing Places' toilets, suitable for a diverse range of users. These should be available during opening hours or 24/7 if accessed from public realm.",
+    "key_themes": [
+      "public toilets",
+      "accessibility",
+      "inclusive design",
+      "public realm",
+      "Changing Places toilets"
+    ],
+    "cross_references": [
+      "British Standard BS8300-2:2018",
+      "British Standard BS6465-4:2010"
+    ],
+    "geographic_mentions": [],
+    "targets": [
+      "24 hours a day"
+    ],
+    "page_number": 233
+  },
+  {
+    "policy_id": "S7",
+    "policy_title": "Burial space",
+    "policy_type": "Regional Plan",
+    "summary": "Requires boroughs to ensure provision for diverse burial needs, informed by needs assessments and audits of existing space, including re-use opportunities. Cross-borough working is encouraged. New burial provision is supported, while loss is resisted unless no future demand is demonstrated.",
+    "key_themes": [
+      "burial space",
+      "cemeteries",
+      "faith communities",
+      "needs assessment",
+      "green infrastructure"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [
+      "inner London",
+      "outer London",
+      "Green Belt",
+      "Metropolitan Open Land"
+    ],
+    "targets": [],
+    "page_number": 235
+  },
+  {
+    "policy_id": "G1",
+    "policy_title": "Green infrastructure",
+    "policy_type": "Regional Plan",
+    "summary": "Mandates the protection and enhancement of London's network of green and open spaces and green features in the built environment. It requires green infrastructure to be planned, designed, and managed in an integrated way to achieve multiple benefits. Boroughs must prepare green infrastructure strategies identifying cross-borough collaboration opportunities and addressing environmental/social challenges through strategic interventions. Development proposals must incorporate appropriate and integrated green infrastructure elements.",
+    "key_themes": [
+      "green infrastructure",
+      "open space",
+      "urban greening",
+      "biodiversity",
+      "climate change adaptation",
+      "public health"
+    ],
+    "cross_references": [
+      "Policy SI 14 Waterways \u2013 strategic role to Policy SI 17 Protecting and enhancing London\u2019s waterways"
+    ],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [],
+    "page_number": 313
+  },
+  {
+    "policy_id": "G2",
+    "policy_title": "London\u2019s Green Belt",
+    "policy_type": "Regional Plan",
+    "summary": "States that the Green Belt should be protected from inappropriate development, with proposals causing harm refused except in very special circumstances. It supports the enhancement of the Green Belt for multi-functional beneficial uses. Exceptional circumstances are required to justify any extension or de-designation of the Green Belt through a Local Plan.",
+    "key_themes": [
+      "Green Belt",
+      "open space protection",
+      "inappropriate development",
+      "green infrastructure",
+      "urban sprawl"
+    ],
+    "cross_references": [
+      "NPPF"
+    ],
+    "geographic_mentions": [
+      "London\u2019s Green Belt"
+    ],
+    "targets": [],
+    "page_number": 314
+  },
+  {
+    "policy_id": "G3",
+    "policy_title": "Metropolitan Open Land",
+    "policy_type": "Regional Plan",
+    "summary": "Affords Metropolitan Open Land (MOL) the same status and protection as Green Belt, protecting it from inappropriate development and supporting enhancement of its quality and uses. Extension of MOL designations is supported where land meets criteria related to physical structure, open air facilities, national/metropolitan value features, or strategic green infrastructure links. Boundary alterations require exceptional circumstances through a Local Plan process.",
+    "key_themes": [
+      "Metropolitan Open Land (MOL)",
+      "open space protection",
+      "Green Belt equivalent",
+      "green infrastructure",
+      "urban planning"
+    ],
+    "cross_references": [
+      "Policy SI 14 Waterways \u2013 strategic role to Policy SI 17 Protecting and enhancing London\u2019s waterways"
+    ],
+    "geographic_mentions": [
+      "Metropolitan Open Land (MOL)",
+      "River Thames"
+    ],
+    "targets": [],
+    "page_number": 317
+  },
+  {
+    "policy_id": "G4",
+    "policy_title": "Open space",
+    "policy_type": "Regional Plan",
+    "summary": "Requires Development Plans to undertake needs assessments for all open space, identify deficiencies (using Table 8.1 benchmarks), designate and protect open space, and promote new publicly-accessible open space, especially green space. Development proposals should not result in the loss of protected open space and should create new publicly accessible open space where possible, particularly in deficient areas.",
+    "key_themes": [
+      "open space",
+      "public open space",
+      "green space",
+      "needs assessment",
+      "green infrastructure",
+      "accessibility"
+    ],
+    "cross_references": [
+      "Table 8.1",
+      "Policy G1 Green infrastructure"
+    ],
+    "geographic_mentions": [],
+    "targets": [
+      "Mayor\u2019s target of making more than 50 per cent of London green by 2050"
+    ],
+    "page_number": 318
+  },
+  {
+    "policy_id": "G5",
+    "policy_title": "Urban greening",
+    "policy_type": "Regional Plan",
+    "summary": "Requires major development proposals to contribute to London's greening by including urban greening as a fundamental design element, incorporating features like high-quality landscaping, trees, green roofs, green walls, and nature-based sustainable drainage. Boroughs should develop an Urban Greening Factor (UGF) tailored to local circumstances, with interim Mayoral targets of 0.4 for residential and 0.3 for commercial developments. Existing green cover retained on site counts towards these targets.",
+    "key_themes": [
+      "urban greening",
+      "green infrastructure",
+      "landscaping",
+      "green roofs",
+      "green walls",
+      "sustainable drainage",
+      "Urban Greening Factor (UGF)"
+    ],
+    "cross_references": [
+      "Table 8.2",
+      "livingroofs.org"
+    ],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [
+      "target score of 0.4 for developments that are predominately residential (interim UGF)",
+      "target score of 0.3 for predominately commercial development (excluding B2 and B8 uses) (interim UGF)"
+    ],
+    "page_number": 322
+  },
+  {
+    "policy_id": "G6",
+    "policy_title": "Biodiversity and access to nature",
+    "policy_type": "Regional Plan",
+    "summary": "Mandates the protection of Sites of Importance for Nature Conservation (SINCs). Boroughs should use up-to-date information to identify SINCs and ecological corridors, identify and address areas deficient in access to nature, support priority species/habitats, and seek opportunities to create new habitats. Development proposals must manage biodiversity impacts, aim for net biodiversity gain, and proposals reducing access deficiencies are viewed positively. Harm to SINCs is resisted unless benefits clearly outweigh impacts and mitigation hierarchy is applied.",
+    "key_themes": [
+      "biodiversity",
+      "nature conservation",
+      "Sites of Importance for Nature Conservation (SINC)",
+      "access to nature",
+      "ecological networks",
+      "net biodiversity gain",
+      "priority species",
+      "priority habitats"
+    ],
+    "cross_references": [
+      "Policy SI 17 Protecting and enhancing London\u2019s waterways",
+      "London Environment Strategy (Appendix 5)"
+    ],
+    "geographic_mentions": [
+      "Sites of Importance for Nature Conservation (SINCs)",
+      "European or national nature conservation importance sites",
+      "Sites of Metropolitan Importance",
+      "Sites of Borough Importance",
+      "Sites of Local Importance",
+      "Special Protection Areas",
+      "Special Areas of Conservation",
+      "Sites of Special Scientific Interest",
+      "National Nature Reserves",
+      "Local Reserves"
+    ],
+    "targets": [
+      "more than 1km walking distance from an accessible Metropolitan or Borough SINC (deficiency definition)"
+    ],
+    "page_number": 325
+  },
+  {
+    "policy_id": "G7",
+    "policy_title": "Trees and woodlands",
+    "policy_type": "Regional Plan",
+    "summary": "Requires the protection and maintenance of London\u2019s urban forest and woodlands, and the planting of new trees and woodlands to increase canopy cover. Development Plans should protect \u2018veteran\u2019 trees and ancient woodland and identify strategic tree planting opportunities. Development proposals must retain existing trees of value where possible, with adequate replacement based on valuation if removal is necessary. Planting of additional trees, especially large-canopied species, is generally required in new developments.",
+    "key_themes": [
+      "trees",
+      "woodlands",
+      "urban forest",
+      "green infrastructure",
+      "canopy cover",
+      "veteran trees",
+      "ancient woodland"
+    ],
+    "cross_references": [
+      "BS 5837:2012",
+      "i-tree",
+      "CAVAT",
+      "Right Trees for a Changing Climate",
+      "Trees and Design Action Group guidance"
+    ],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [
+      "increase tree canopy cover in London by 10 per cent by 2050"
+    ],
+    "page_number": 329
+  },
+  {
+    "policy_id": "G8",
+    "policy_title": "Food growing",
+    "policy_type": "Regional Plan",
+    "summary": "Requires Development Plans to protect existing allotments and encourage provision of space for urban agriculture, community gardening, and food growing in new developments and as meanwhile use on vacant/under-utilised sites. It also requires identification of potential sites for food production to support a healthier food environment and local sustainability.",
+    "key_themes": [
+      "food growing",
+      "urban agriculture",
+      "allotments",
+      "community gardening",
+      "food environment",
+      "sustainability"
+    ],
+    "cross_references": [
+      "Mayor\u2019s Food Strategy",
+      "Capital Growth network"
+    ],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 331
+  },
+  {
+    "policy_id": "G9",
+    "policy_title": "Geodiversity",
+    "policy_type": "Regional Plan",
+    "summary": "Requires Development Plans to establish clear goals for managing identified geodiversity sites, promoting public access, appreciation, and interpretation, and ensuring geological sites of European, national, or regional conservation importance are clearly identified. Development proposals should make a positive contribution to geodiversity protection, protect Regionally Important Geological Sites (RIGS), and give Locally Important Geological Sites (LIGS) commensurate protection.",
+    "key_themes": [
+      "geodiversity",
+      "geological conservation",
+      "Regionally Important Geological Sites (RIGS)",
+      "Locally Important Geological Sites (LIGS)",
+      "heritage",
+      "education"
+    ],
+    "cross_references": [
+      "Figure 8.3",
+      "London Geodiversity Partnership",
+      "London Foundations SPG 2012"
+    ],
+    "geographic_mentions": [
+      "Sites of Special Scientific Interest (SSSIs)"
+    ],
+    "targets": [],
+    "page_number": 332
+  },
+  {
+    "policy_id": "SI 1",
+    "policy_title": "Improving air quality",
+    "policy_type": "Regional Plan",
+    "summary": "Aims to tackle poor air quality by requiring Development Plans to seek improvements and development proposals to not worsen existing conditions, create new exceedances of air quality limits, or cause unacceptable exposure. Proposals must be at least Air Quality Neutral, use design to minimize exposure, and major developments require Air Quality Assessments. Large-scale developments should adopt an air quality positive approach.",
+    "key_themes": [
+      "air quality",
+      "public health",
+      "pollution control",
+      "Air Quality Neutral",
+      "Air Quality Assessment",
+      "Air Quality Focus Areas"
+    ],
+    "cross_references": [
+      "Non-Road Mobile Machinery Low Emission Zone",
+      "The Control of Dust and Emissions During Construction and Demolition Supplementary Planning Guidance, Mayor of London, 2014",
+      "Air Quality Standards Regulations, 2010",
+      "Land-Use Planning & Development Control: Planning for Air Quality, Institution of Air Quality Management, 2017",
+      "Figure 9.1"
+    ],
+    "geographic_mentions": [
+      "Air Quality Focus Areas (AQFA)",
+      "Air Quality Management Areas (AQMA)",
+      "London Atmospheric Emissions Inventory (LAEI)"
+    ],
+    "targets": [
+      "current pollution levels are within 5 per cent of legal limits (trigger for 'existing poor air quality' definition)"
+    ],
+    "page_number": 335
+  },
+  {
+    "policy_id": "SI 2",
+    "policy_title": "Minimising greenhouse gas emissions",
+    "policy_type": "Regional Plan",
+    "summary": "Requires major development to be net zero-carbon by reducing operational greenhouse gas emissions and minimising energy demand according to the energy hierarchy (be lean, be clean, be green, be seen). A minimum on-site reduction of 35% beyond Building Regulations is required, with specific energy efficiency targets for residential (10%) and non-residential (15%). Shortfalls must be met via offset funds or off-site provision. Whole life-cycle carbon assessments are required for referable proposals.",
+    "key_themes": [
+      "greenhouse gas emissions",
+      "net zero-carbon",
+      "energy hierarchy",
+      "energy efficiency",
+      "renewable energy",
+      "carbon offset funds",
+      "whole life-cycle carbon"
+    ],
+    "cross_references": [
+      "Building Regulations 2013",
+      "Figure 9.2",
+      "Policy SI 1 Improving air quality",
+      "Policy SI 3 Energy infrastructure",
+      "Policy SI 4 Managing heat risk"
+    ],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [
+      "net zero-carbon (major development)",
+      "minimum on-site reduction of at least 35 per cent beyond Building Regulations",
+      "10 per cent energy efficiency (residential development beyond Part L)",
+      "15 per cent energy efficiency (non-residential development beyond Part L)",
+      "zero-carbon city by 2050",
+      "\u00a395/tonne (non-traded price for carbon offsetting)"
+    ],
+    "page_number": 342
+  },
+  {
+    "policy_id": "SI 3",
+    "policy_title": "Energy infrastructure",
+    "policy_type": "Regional Plan",
+    "summary": "Promotes early engagement with energy companies to establish future energy infrastructure needs for large-scale developments. It mandates energy masterplans for these locations to identify optimal energy supply options, including heat loads, secondary heat sources, heat network opportunities, and renewable generation. Development Plans must identify sites for necessary energy infrastructure. Major developments in Heat Network Priority Areas must have communal low-temperature heating systems following a specific heat source hierarchy.",
+    "key_themes": [
+      "energy infrastructure",
+      "energy masterplanning",
+      "decentralised energy",
+      "heat networks",
+      "district heating",
+      "renewable energy",
+      "Combined Heat and Power (CHP)"
+    ],
+    "cross_references": [
+      "Policy SI 1 Improving air quality",
+      "CIBSE/ADE Code of Practice CP1",
+      "London Heat Map",
+      "London Environment Strategy",
+      "London Heat Network Manual"
+    ],
+    "geographic_mentions": [
+      "Opportunity Areas",
+      "Town Centres",
+      "Heat Network Priority Areas"
+    ],
+    "targets": [
+      "zero-carbon target by 2050"
+    ],
+    "page_number": 348
+  },
+  {
+    "policy_id": "SI 4",
+    "policy_title": "Managing heat risk",
+    "policy_type": "Regional Plan",
+    "summary": "Requires development proposals to minimise adverse impacts on the urban heat island effect through design and green infrastructure. Major developments must demonstrate via an energy strategy how they will reduce internal overheating and reliance on air conditioning, following a cooling hierarchy: reduce heat entry, minimise internal heat generation, manage heat within the building, provide passive ventilation, then mechanical ventilation, and finally active cooling systems.",
+    "key_themes": [
+      "heat risk management",
+      "urban heat island effect",
+      "overheating",
+      "cooling hierarchy",
+      "passive design",
+      "green infrastructure",
+      "climate change adaptation"
+    ],
+    "cross_references": [
+      "Policy G1 Green infrastructure",
+      "Policy G5 Urban greening",
+      "Policy D6 Housing quality and standards",
+      "CIBSE TM 59",
+      "CIBSE TM 52",
+      "CIBSE TM 49"
+    ],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [],
+    "page_number": 354
+  },
+  {
+    "policy_id": "SI 5",
+    "policy_title": "Water infrastructure",
+    "policy_type": "Regional Plan",
+    "summary": "Aims to minimise mains water use and protect water resources. Development Plans should promote improvements to water supply infrastructure. Proposals must minimise mains water consumption (105 litres/head/day residential, BREEAM excellent for commercial), incorporate water-saving measures, and support wastewater treatment investment. Integrated Water Management Strategies are required for growth locations with flood risk or insufficient water infrastructure.",
+    "key_themes": [
+      "water infrastructure",
+      "water conservation",
+      "water efficiency",
+      "wastewater management",
+      "flood risk",
+      "Integrated Water Management Strategies"
+    ],
+    "cross_references": [
+      "Building Regulations (Optional Requirement for residential water consumption)",
+      "BREEAM Wat 01",
+      "Thames River Basin Management Plan",
+      "Catchment Plans"
+    ],
+    "geographic_mentions": [
+      "London",
+      "Thames River Basin"
+    ],
+    "targets": [
+      "105 litres or less per head per day (residential mains water consumption)",
+      "BREEAM excellent standard for \u2018Wat 01\u2019 water category (commercial development)",
+      "12.5% improvement over defined baseline performance standard (BREEAM Wat 01)"
+    ],
+    "page_number": 356
+  },
+  {
+    "policy_id": "SI 6",
+    "policy_title": "Digital connectivity infrastructure",
+    "policy_type": "Regional Plan",
+    "summary": "Requires development proposals to ensure sufficient ducting for full fibre connectivity (or provide 1GB/s-capable alternative), meet expected mobile connectivity demand, avoid reducing existing mobile connectivity without mitigation, and support effective use of rooftops and public realm for mobile infrastructure. Development Plans should support full-fibre delivery, focusing on areas with connectivity gaps.",
+    "key_themes": [
+      "digital connectivity",
+      "broadband",
+      "full fibre",
+      "mobile connectivity",
+      "smart cities",
+      "telecommunications infrastructure"
+    ],
+    "cross_references": [
+      "Building Regulations 2010 Part R1",
+      "Policy E4 Land for industry, logistics and services to support London\u2019s economic function",
+      "Policy E5 Strategic Industrial Locations (SIL)",
+      "Policy E6 Locally Significant Industrial Sites",
+      "Policy E7 Industrial intensification, co-location and substitution"
+    ],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [
+      "1GB/s-capable connection",
+      "30 MB/s (Building Regulations 2010 Part R1 minimum)"
+    ],
+    "page_number": 361
+  },
+  {
+    "policy_id": "SI 7",
+    "policy_title": "Reducing waste and supporting the circular economy",
+    "policy_type": "Regional Plan",
+    "summary": "Promotes resource conservation, waste reduction, material re-use and recycling, and supports a circular economy. Sets targets for municipal waste recycling (65% by 2030), zero biodegradable/recyclable waste to landfill by 2026, and specific targets for construction/demolition (95% reuse/recycling/recovery) and excavation waste (95% beneficial use). Referable applications require a Circular Economy Statement.",
+    "key_themes": [
+      "waste management",
+      "circular economy",
+      "recycling",
+      "resource efficiency",
+      "waste reduction",
+      "construction waste"
+    ],
+    "cross_references": [
+      "Policy D3 Optimising site capacity through the design-led approach"
+    ],
+    "geographic_mentions": [
+      "London",
+      "Edmonton",
+      "Beddington Lane"
+    ],
+    "targets": [
+      "zero biodegradable or recyclable waste to landfill by 2026",
+      "65 per cent municipal waste recycling target by 2030",
+      "95 per cent reuse/recycling/recovery (construction and demolition waste)",
+      "95 per cent beneficial use (excavation waste)",
+      "50 per cent reduction in food waste and associated packaging waste per person by 2030"
+    ],
+    "page_number": 365
+  },
+  {
+    "policy_id": "SI 8",
+    "policy_title": "Waste capacity and net waste self-sufficiency",
+    "policy_type": "Regional Plan",
+    "summary": "Aims for London to manage 100% of its waste within London (net self-sufficiency) by 2026. Requires safeguarding and optimisation of existing waste sites, provision of new sites where needed, and creation of benefits from waste management. Development Plans must plan for apportioned waste tonnages (Table 9.2), identifying suitable locations like existing waste sites, SILs, LSIS, and safeguarded wharves. New or expanded waste sites are evaluated against criteria including waste hierarchy, carbon outcome, amenity impact, and transport.",
+    "key_themes": [
+      "waste capacity",
+      "net self-sufficiency",
+      "waste management sites",
+      "waste hierarchy",
+      "circular economy",
+      "renewable energy from waste"
+    ],
+    "cross_references": [
+      "Policy SI 9 Safeguarded waste sites",
+      "Table 9.2",
+      "Table 9.1",
+      "Table 9.3",
+      "Policy SI 3 Energy infrastructure Part D1c",
+      "Policy D6 Housing quality and standards Part E",
+      "London Waste Map"
+    ],
+    "geographic_mentions": [
+      "London",
+      "Strategic Industrial Locations (SIL)",
+      "Locally Significant Industrial Sites (LSIS)",
+      "East of England",
+      "South East"
+    ],
+    "targets": [
+      "100 per cent of London\u2019s waste should be managed within London by 2026",
+      "minimum performance of 400g of CO2 equivalent per kilowatt hour of electricity produced (Energy from Waste facilities)"
+    ],
+    "page_number": 369
+  },
+  {
+    "policy_id": "SI 9",
+    "policy_title": "Safeguarded waste sites",
+    "policy_type": "Regional Plan",
+    "summary": "Requires existing waste sites to be safeguarded and retained in waste management use. Waste facilities in non-waste related development areas should be integrated as a first principle. Loss of an existing waste site is only supported if appropriate compensatory capacity is made within London at or above the same waste hierarchy level and meeting or exceeding the site's maximum achievable throughput. Relocation of waste sites is supported where strategic waste management outcomes are achieved.",
+    "key_themes": [
+      "waste management sites",
+      "site safeguarding",
+      "waste capacity",
+      "compensatory provision"
+    ],
+    "cross_references": [
+      "Policy SI 8 Waste capacity and net waste self-sufficiency"
+    ],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [],
+    "page_number": 378
+  },
+  {
+    "policy_id": "SI 10",
+    "policy_title": "Aggregates",
+    "policy_type": "Regional Plan",
+    "summary": "Ensures an adequate supply of aggregates for London's construction by encouraging re-use/recycling of C&D waste, local extraction, and sustainable import. Development Plans must maintain a landbank (at least 5 million tonnes, apportioned to specific boroughs), ensure sufficient wharf/rail depot capacity, support recycled/secondary aggregate production, and safeguard mineral resources and facilities. Proposals must manage environmental impacts and conflicts with safeguarded sites.",
+    "key_themes": [
+      "aggregates",
+      "minerals",
+      "construction materials",
+      "recycling",
+      "sustainable transport",
+      "site safeguarding",
+      "landbank"
+    ],
+    "cross_references": [
+      "Policy SI 7 Reducing waste and supporting the circular economy",
+      "Policy SI 5 Water infrastructure",
+      "Policy T7 Deliveries, servicing and construction",
+      "Agent of Change principle"
+    ],
+    "geographic_mentions": [
+      "London Borough of Havering",
+      "London Borough of Redbridge",
+      "London Borough of Hillingdon",
+      "London Borough of Hounslow",
+      "Lee Valley"
+    ],
+    "targets": [
+      "seven years\u2019 supply (landbank)",
+      "at least five million tonnes of land-won aggregates up to 2041",
+      "at least 1.75 mt to London Borough of Havering (landbank apportionment)",
+      "at least 0.7 mt to London Borough of Redbridge (landbank apportionment)",
+      "at least 1.75 mt to London Borough of Hillingdon (landbank apportionment)",
+      "at least 0.7 mt to London Borough of Hounslow (landbank apportionment)"
+    ],
+    "page_number": 379
+  },
+  {
+    "policy_id": "SI 11",
+    "policy_title": "Hydraulic fracturing (Fracking)",
+    "policy_type": "Regional Plan",
+    "summary": "States that development proposals for exploration, appraisal, or production of shale gas via hydraulic fracturing (fracking) should be refused. This is due to concerns about energy efficiency, renewable energy priorities, climate change, air quality, water resources, and potential location on Green Belt or Metropolitan Open Land in water-stressed areas.",
+    "key_themes": [
+      "hydraulic fracturing",
+      "fracking",
+      "shale gas",
+      "energy policy",
+      "environmental protection"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [
+      "London",
+      "Weald Basin",
+      "Green Belt",
+      "Metropolitan Open Land",
+      "Areas of Outstanding Natural Beauty",
+      "Sites of Special Scientific Interest",
+      "Groundwater Source Protection Zone 1",
+      "Special Protection Areas",
+      "Special Areas of Conservation",
+      "Sites of Metropolitan Importance for Nature Conservation"
+    ],
+    "targets": [],
+    "page_number": 382
+  },
+  {
+    "policy_id": "SI 12",
+    "policy_title": "Flood risk management",
+    "policy_type": "Regional Plan",
+    "summary": "Mandates sustainable and cost-effective management of current and expected flood risk from all sources, in collaboration with relevant agencies. Development Plans must use RFRA and SFRA to identify risks and develop actions. Proposals must minimise and mitigate flood risk, make space for water, contribute to Thames Estuary 2100 Plan measures, and ensure utility services remain operational and buildings are quick recovery post-flood. Natural flood management methods are encouraged.",
+    "key_themes": [
+      "flood risk management",
+      "climate change adaptation",
+      "sustainable drainage",
+      "resilience",
+      "strategic planning"
+    ],
+    "cross_references": [
+      "Regional Flood Risk Appraisal (RFRA)",
+      "Strategic Flood Risk Assessment (SFRA)",
+      "Local Flood Risk Management Strategies",
+      "Thames Estuary 2100 Plan"
+    ],
+    "geographic_mentions": [
+      "London",
+      "Thames Estuary",
+      "Thames Barrier"
+    ],
+    "targets": [],
+    "page_number": 383
+  },
+  {
+    "policy_id": "SI 13",
+    "policy_title": "Sustainable drainage",
+    "policy_type": "Regional Plan",
+    "summary": "Requires Lead Local Flood Authorities to identify and address surface water management issues. Development proposals must aim for greenfield run-off rates, manage surface water close to its source, and follow a drainage hierarchy preferring green over grey features (rainwater use, infiltration, attenuation in green infrastructure, discharge to watercourse, then sewers). Impermeable surfacing is resisted.",
+    "key_themes": [
+      "sustainable drainage (SuDS)",
+      "surface water management",
+      "flood risk",
+      "green infrastructure",
+      "water quality"
+    ],
+    "cross_references": [
+      "Local Flood Risk Management Strategies",
+      "Surface Water Management Plans",
+      "London Sustainable Drainage Action Plan"
+    ],
+    "geographic_mentions": [
+      "London",
+      "Thames"
+    ],
+    "targets": [],
+    "page_number": 385
+  },
+  {
+    "policy_id": "SI 14",
+    "policy_title": "Waterways \u2013 strategic role",
+    "policy_type": "Regional Plan",
+    "summary": "Development Plans and proposals should address the strategic importance of London\u2019s waterway network (Blue Ribbon Network), including the River Thames, to maximise their multifunctional benefits. This involves coordination with Marine Spatial Plans, cross-boundary strategies, and designating Thames Policy Areas (TPAs). Joint strategies should consider local character, transport nodes, regeneration, environmental improvements, heritage, public access, and flood risk.",
+    "key_themes": [
+      "waterways",
+      "Blue Ribbon Network",
+      "River Thames",
+      "strategic planning",
+      "multifunctional benefits",
+      "Thames Policy Areas (TPAs)"
+    ],
+    "cross_references": [
+      "Marine Spatial Plans",
+      "Figure 9.6",
+      "Figure 9.7",
+      "Port of London Authority\u2019s Vision for the Thames",
+      "Environment Agency\u2019s Thames River Basin Management Plan"
+    ],
+    "geographic_mentions": [
+      "London",
+      "River Thames",
+      "Blue Ribbon Network",
+      "Thames Policy Areas (TPAs)",
+      "Hampton\u2013Kew",
+      "Kew-Chelsea",
+      "East (of Tower Bridge)",
+      "Chelsea-Tower Bridge"
+    ],
+    "targets": [],
+    "page_number": 387
+  },
+  {
+    "policy_id": "SI 15",
+    "policy_title": "Water transport",
+    "policy_type": "Regional Plan",
+    "summary": "Supports the protection and enhancement of passenger transport piers, boatyard sites, and increased freight transport on London's waterways. It calls for the safeguarding and potential consolidation of wharves for waterborne freight, resisting redevelopment for other uses unless viability for freight is unachievable. Proposals near wharves must minimise conflicts, and bulk materials transport by water during construction is encouraged.",
+    "key_themes": [
+      "water transport",
+      "passenger transport",
+      "freight transport",
+      "safeguarded wharves",
+      "boatyards",
+      "piers"
+    ],
+    "cross_references": [
+      "Port of London Authority Pier Strategy",
+      "Transport for London Pier Strategy",
+      "Port of London Authority (PLA) Thames Vision",
+      "Agent of Change principle"
+    ],
+    "geographic_mentions": [
+      "London",
+      "Thames Estuary",
+      "Bay Wharf, Greenwich",
+      "East London",
+      "Opportunity Areas"
+    ],
+    "targets": [
+      "20 million by 2035 patronage target (river passenger and tourist services)"
+    ],
+    "page_number": 392
+  },
+  {
+    "policy_id": "SI 16",
+    "policy_title": "Waterways \u2013 use and enjoyment",
+    "policy_type": "Regional Plan",
+    "summary": "Requires protection and enhancement of waterway infrastructure for active water-based leisure and informal waterside recreation. Supports new water sport centres where deficits exist, protects and enhances existing moorings, and supports new moorings if appropriately located and designed. Existing access points and paths (like Thames Path) should be protected, enhanced, and expanded, ensuring public access.",
+    "key_themes": [
+      "waterways",
+      "recreation",
+      "leisure",
+      "public access",
+      "moorings",
+      "Thames Path",
+      "Blue Ribbon Network"
+    ],
+    "cross_references": [
+      "Policy SI 15 Water transport",
+      "Policy SI 17 Protecting and enhancing London\u2019s waterways",
+      "Policy H2 Small sites"
+    ],
+    "geographic_mentions": [
+      "Blue Ribbon Network",
+      "Thames Path",
+      "Opportunity Areas"
+    ],
+    "targets": [],
+    "page_number": 395
+  },
+  {
+    "policy_id": "SI 17",
+    "policy_title": "Protecting and enhancing London\u2019s waterways",
+    "policy_type": "Regional Plan",
+    "summary": "Supports river restoration and biodiversity improvements. Proposals facilitating river restoration (opening culverts, naturalising channels, improving habitats/water quality) are supported, while those impounding/narrowing waterways are refused. It requires protection of waterway character and heritage. Development into waterways (including moored vessels) is generally only for water-related uses. On-shore power at transport facilities and moorings is encouraged to reduce air pollution.",
+    "key_themes": [
+      "waterways protection",
+      "river restoration",
+      "biodiversity",
+      "water quality",
+      "heritage",
+      "dock areas",
+      "air pollution"
+    ],
+    "cross_references": [
+      "London Rivers Action Plan"
+    ],
+    "geographic_mentions": [
+      "London",
+      "canal network",
+      "docks",
+      "reservoirs",
+      "lakes",
+      "ponds"
+    ],
+    "targets": [],
+    "page_number": 398
+  },
+  {
+    "policy_id": "T1",
+    "policy_title": "Strategic approach to transport",
+    "policy_type": "Regional Plan",
+    "summary": "Development Plans and proposals should support the Mayor's strategic target of 80% of trips by foot, cycle, or public transport by 2041, and facilitate proposed transport schemes (Table 10.1). All development must make effective use of land, reflecting connectivity and mitigating impacts on transport networks.",
+    "key_themes": [
+      "strategic transport",
+      "mode share",
+      "sustainable transport",
+      "public transport",
+      "walking",
+      "cycling",
+      "freight"
+    ],
+    "cross_references": [
+      "Table 10.1",
+      "Mayor\u2019s Transport Strategy",
+      "Figure 10.1"
+    ],
+    "geographic_mentions": [
+      "London",
+      "Wider South East"
+    ],
+    "targets": [
+      "80 per cent of all trips in London to be made by foot, cycle or public transport by 2041"
+    ],
+    "page_number": 401
+  },
+  {
+    "policy_id": "T2",
+    "policy_title": "Healthy Streets",
+    "policy_type": "Regional Plan",
+    "summary": "Requires development to deliver land use patterns facilitating shorter, regular trips by walking or cycling. Development Plans must promote the Healthy Streets Approach to improve health, reduce car dominance and related negative impacts, and improve street safety and amenity. Proposals must demonstrate delivery against the ten Healthy Streets Indicators.",
+    "key_themes": [
+      "Healthy Streets",
+      "active travel",
+      "walking",
+      "cycling",
+      "public health",
+      "street design",
+      "public realm"
+    ],
+    "cross_references": [
+      "Transport for London guidance",
+      "ten Healthy Streets Indicators",
+      "Mayor\u2019s Transport Strategy",
+      "Vision Zero",
+      "Figure 10.2"
+    ],
+    "geographic_mentions": [
+      "Opportunity Areas"
+    ],
+    "targets": [
+      "20 minutes of active travel each day (by 2041)"
+    ],
+    "page_number": 402
+  },
+  {
+    "policy_id": "T3",
+    "policy_title": "Transport capacity, connectivity and safeguarding",
+    "policy_type": "Regional Plan",
+    "summary": "Requires Development Plans and decisions to ensure sufficient land for current and expanded public/active transport systems, including safeguarding existing facilities and new sites/alignments (Table 10.1). Priority is given to delivering upgrades like Crossrail 2 and Bakerloo line extension. Bus network improvements are also supported.",
+    "key_themes": [
+      "transport capacity",
+      "transport connectivity",
+      "site safeguarding",
+      "public transport",
+      "active travel",
+      "infrastructure delivery"
+    ],
+    "cross_references": [
+      "Table 10.1"
+    ],
+    "geographic_mentions": [
+      "London",
+      "Wider South East",
+      "Underground lines",
+      "Crossrail 2",
+      "Bakerloo line extension",
+      "Elizabeth line"
+    ],
+    "targets": [],
+    "page_number": 406
+  },
+  {
+    "policy_id": "T4",
+    "policy_title": "Assessing and mitigating transport impacts",
+    "policy_type": "Regional Plan",
+    "summary": "Requires development to integrate with transport access, capacity, and connectivity. Transport assessments/statements are needed for proposals to assess impacts on the network, focusing on Healthy Streets. Mitigation (direct provision or financial contributions) is required for adverse impacts. Development is contingent on necessary public transport and active travel infrastructure if existing capacity is insufficient. Cumulative impacts must be considered, and proposals should not increase road danger.",
+    "key_themes": [
+      "transport assessment",
+      "impact mitigation",
+      "Healthy Streets",
+      "transport capacity",
+      "sustainable transport",
+      "road safety"
+    ],
+    "cross_references": [
+      "Transport for London guidance"
+    ],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 413
+  },
+  {
+    "policy_id": "T5",
+    "policy_title": "Cycling",
+    "policy_type": "Regional Plan",
+    "summary": "Aims to remove barriers to cycling and create a healthy cycling environment by supporting a London-wide cycle network and requiring appropriate, secure, and well-located cycle parking (Table 10.2, Figure 10.3). Parking must cater for larger/adapted cycles. Higher provision is supported by local evidence. On-street or commuted sum provision is acceptable for short-stay parking in specific circumstances. The highest applicable standard applies if use class is unfixed.",
+    "key_themes": [
+      "cycling",
+      "cycle network",
+      "cycle parking",
+      "active travel",
+      "Healthy Streets",
+      "accessibility"
+    ],
+    "cross_references": [
+      "Table 10.2",
+      "Figure 10.3",
+      "London Cycling Design Standards",
+      "Policy H13 Specialist older persons housing"
+    ],
+    "geographic_mentions": [
+      "London",
+      "Mini-Hollands",
+      "Liveable Neighbourhoods",
+      "Opportunity Areas",
+      "CAZ"
+    ],
+    "targets": [
+      "minimum of two short-stay and two long-stay cycle parking spaces"
+    ],
+    "page_number": 415
+  },
+  {
+    "policy_id": "T6",
+    "policy_title": "Car parking",
+    "policy_type": "Regional Plan",
+    "summary": "Restricts car parking in line with public transport accessibility and connectivity, with car-free development as the starting point in well-connected places. Maximum standards (Policy T6.1-T6.5) apply. Disabled persons parking must be provided. Motorcycle parking counts towards car parking maximums. EV charging infrastructure is required. Parking Design and Management Plans are needed. Restrictive general parking policies are supported, with specific conditions for outer London minimums.",
+    "key_themes": [
+      "car parking",
+      "parking standards",
+      "car-free development",
+      "disabled persons parking",
+      "electric vehicle charging",
+      "transport management",
+      "PTAL"
+    ],
+    "cross_references": [
+      "Policy T6.1 Residential parking",
+      "Policy T6.2 Office Parking",
+      "Policy T6.3 Retail parking",
+      "Policy T6.4 Hotel and leisure uses parking",
+      "Policy T6.5 Non-residential disabled persons parking",
+      "Policy SI 13 Sustainable drainage",
+      "Transport for London guidance",
+      "Table 10.3",
+      "Table 10.4",
+      "Table 10.5",
+      "Table 10.6",
+      "Policy Policy D5 Inclusive design",
+      "GG1 Building strong and inclusive communities",
+      "Mayor\u2019s Transport Strategy"
+    ],
+    "geographic_mentions": [
+      "London",
+      "CAZ",
+      "town centres",
+      "Opportunity Areas",
+      "Inner London",
+      "Outer London"
+    ],
+    "targets": [],
+    "page_number": 422
+  },
+  {
+    "policy_id": "T6.1",
+    "policy_title": "Residential parking",
+    "policy_type": "Regional Plan",
+    "summary": "New residential development must not exceed maximum parking standards (Table 10.3). Communal parking should be leased. All spaces need EV infrastructure (20% active, rest passive). Car club spaces are considered. Large-scale shared living/student accommodation should be car-free. Parking provision should not reduce affordable housing. Specific provision for disabled persons parking is mandated, with initial and future phases outlined.",
+    "key_themes": [
+      "residential parking",
+      "parking standards",
+      "car-free development",
+      "electric vehicle charging",
+      "disabled persons parking",
+      "car clubs",
+      "affordable housing"
+    ],
+    "cross_references": [
+      "Table 10.3",
+      "Policy D5 Inclusive design",
+      "GG1 Building strong and inclusive communities",
+      "BS8300vol.1"
+    ],
+    "geographic_mentions": [
+      "Central Activities Zone",
+      "Inner London Opportunity Areas",
+      "Metropolitan and Major Town Centres",
+      "Inner London",
+      "Outer London Opportunity Areas"
+    ],
+    "targets": [
+      "At least 20 per cent of spaces should have active charging facilities, with passive provision for all remaining spaces",
+      "three per cent of dwellings (initial disabled bays)",
+      "additional seven per cent of dwellings (future disabled bays)"
+    ],
+    "page_number": 425
+  },
+  {
+    "policy_id": "T6.2",
+    "policy_title": "Office Parking",
+    "policy_type": "Regional Plan",
+    "summary": "Applies maximum office parking standards (Table 10.4). Encourages car-free office developments in well-connected outer London locations. B2/B8 uses should consider these standards with flexibility for employment density. Outer London boroughs can adopt more generous standards with evidence-based justification. Operational parking requires EV infrastructure. Disabled parking as per T6.5.",
+    "key_themes": [
+      "office parking",
+      "parking standards",
+      "car-free development",
+      "electric vehicle charging",
+      "operational parking"
+    ],
+    "cross_references": [
+      "Table 10.4",
+      "Policy T6.5 Non-residential disabled persons parking",
+      "Density Guide 3rd Edition, Homes & Communities Agency, 2015"
+    ],
+    "geographic_mentions": [
+      "Central Activities Zone",
+      "inner London",
+      "Outer London Opportunity Areas",
+      "Outer London"
+    ],
+    "targets": [],
+    "page_number": 429
+  },
+  {
+    "policy_id": "T6.3",
+    "policy_title": "Retail parking",
+    "policy_type": "Regional Plan",
+    "summary": "Applies maximum retail parking standards (Table 10.5), prioritizing town centre first approach. Encourages use of existing public parking and shared parking. On-site parking, if justified, should be publicly available. Disabled parking as per T6.5. Rapid EV charging required for retail parking.",
+    "key_themes": [
+      "retail parking",
+      "parking standards",
+      "town centre first",
+      "shared parking",
+      "electric vehicle charging"
+    ],
+    "cross_references": [
+      "Table 10.5",
+      "Policy SD7 Town centres: development principles and Development Plan Documents",
+      "Policy T6.5 Non-residential disabled persons parking",
+      "NPPF"
+    ],
+    "geographic_mentions": [
+      "Central Activities Zone",
+      "Inner London",
+      "Outer London Opportunity Areas",
+      "Outer London"
+    ],
+    "targets": [],
+    "page_number": 431
+  },
+  {
+    "policy_id": "T6.4",
+    "policy_title": "Hotel and leisure uses parking",
+    "policy_type": "Regional Plan",
+    "summary": "Limits on-site parking for hotel and leisure uses in CAZ and PTAL 4-6 locations to operational/disabled/taxi/delivery needs. In PTAL 0-3, provision is case-by-case, consistent with Healthy Streets and mode share targets. All operational parking requires EV infrastructure. Disabled parking as per T6.5.",
+    "key_themes": [
+      "hotel parking",
+      "leisure parking",
+      "parking standards",
+      "operational parking",
+      "electric vehicle charging",
+      "PTAL"
+    ],
+    "cross_references": [
+      "Policy T6.5 Non-residential disabled persons parking"
+    ],
+    "geographic_mentions": [
+      "CAZ"
+    ],
+    "targets": [],
+    "page_number": 433
+  },
+  {
+    "policy_id": "T6.5",
+    "policy_title": "Non-residential disabled persons parking",
+    "policy_type": "Regional Plan",
+    "summary": "Requires provision of disabled persons parking for non-residential elements according to Table 10.6. Bays must be on firm, level ground near entrances, designated from outset. Enlarged bays for future conversion must be planned. Design must follow BS8300: Vol 1.",
+    "key_themes": [
+      "disabled persons parking",
+      "non-residential parking",
+      "accessibility",
+      "inclusive design",
+      "parking standards"
+    ],
+    "cross_references": [
+      "Table 10.6",
+      "BS8300: Vol 1"
+    ],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 433
+  },
+  {
+    "policy_id": "T7",
+    "policy_title": "Deliveries, servicing and construction",
+    "policy_type": "Regional Plan",
+    "summary": "Development plans and proposals should facilitate sustainable freight by rail, waterways, and road. Freight strategies for area-based plans should reduce trips, coordinate infrastructure, and mitigate impacts. Hydrogen refuelling and rapid EV charging at logistics/industrial sites are supported. Railheads should be safeguarded. Consolidation sites should enable 24-hour operation. Construction Logistics Plans and Delivery and Servicing Plans are required, focusing on safety, off-street provision, and out-of-peak deliveries.",
+    "key_themes": [
+      "freight",
+      "deliveries",
+      "servicing",
+      "construction logistics",
+      "sustainable transport",
+      "rail freight",
+      "water freight",
+      "consolidation centres"
+    ],
+    "cross_references": [
+      "Agent of Change principle",
+      "Transport for London guidance",
+      "CLOCS (Construction Logistics and Community Safety)",
+      "FORS (Fleet Operator Recognition Scheme)",
+      "Direct Vision Standard"
+    ],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [
+      "carbon-free travel from 2050",
+      "24-hour operation (consolidation sites)"
+    ],
+    "page_number": 435
+  },
+  {
+    "policy_id": "T8",
+    "policy_title": "Aviation",
+    "policy_type": "Regional Plan",
+    "summary": "Supports airports' role in London's growth, especially within well-connected Opportunity Areas. Aviation-related development must acknowledge and mitigate environmental/health impacts (noise, air quality, climate change). Opposes Heathrow expansion unless no additional noise/air quality harm results and benefits are fairly shared. Airport expansion proposals must demonstrate sufficient surface access capacity. Better use of existing capacity with upgraded facilities and rail access is encouraged. Heliports are refused, other than for emergency services.",
+    "key_themes": [
+      "aviation",
+      "airports",
+      "airport expansion",
+      "environmental impact",
+      "noise pollution",
+      "air quality",
+      "surface access",
+      "climate change"
+    ],
+    "cross_references": [],
+    "geographic_mentions": [
+      "London",
+      "Opportunity Areas",
+      "Heathrow Airport",
+      "Gatwick Airport",
+      "Stansted Airport",
+      "London City Airport",
+      "Luton Airport",
+      "Southend Airport"
+    ],
+    "targets": [],
+    "page_number": 438
+  },
+  {
+    "policy_id": "T9",
+    "policy_title": "Funding transport infrastructure through planning",
+    "policy_type": "Regional Plan",
+    "summary": "The Mayor will charge Mayoral Community Infrastructure Levy (MCIL) to fund strategic transport infrastructure like Crossrail 2. Boroughs, in consultation with the Mayor, should identify other strategically-important transport infrastructure and funding streams. Planning obligations (Section 106) will be sought to mitigate development impacts, including providing/improving public transport, cycle networks, and creating Healthy Streets.",
+    "key_themes": [
+      "transport funding",
+      "infrastructure funding",
+      "Mayoral Community Infrastructure Levy (MCIL)",
+      "Section 106 agreements",
+      "planning obligations"
+    ],
+    "cross_references": [
+      "Table 10.1",
+      "Healthy Streets Approach"
+    ],
+    "geographic_mentions": [
+      "London",
+      "Crossrail 2",
+      "Crossrail 1 (Elizabeth line)"
+    ],
+    "targets": [],
+    "page_number": 441
+  },
+  {
+    "policy_id": "DF1",
+    "policy_title": "Delivery of the Plan and Planning Obligations",
+    "policy_type": "Regional Plan",
+    "summary": "Requires applicants to account for Development Plan policies. Viability testing for up-to-date policies should only occur with clear delivery barriers. Where viability is assessed, boroughs determine its weight against other considerations. Priority in obligations is given to affordable housing and public transport, then health/education infrastructure, then affordable workspace/culture/leisure. Boroughs should use this prioritisation for CIL schedules.",
+    "key_themes": [
+      "plan delivery",
+      "planning obligations",
+      "viability",
+      "affordable housing",
+      "infrastructure funding",
+      "Community Infrastructure Levy (CIL)"
+    ],
+    "cross_references": [
+      "Mayor\u2019s Affordable Housing and Viability SPG"
+    ],
+    "geographic_mentions": [],
+    "targets": [],
+    "page_number": 445
+  },
+  {
+    "policy_id": "M1",
+    "policy_title": "Monitoring",
+    "policy_type": "Regional Plan",
+    "summary": "The implementation of the London Plan will be kept under review using Key Performance Indicators (KPIs) set out in Table 12.1 and the Annual Monitoring Report (AMR). The AMR will report on KPIs, other relevant data, and contextual indicators to assess the Plan's implementation and inform future reviews.",
+    "key_themes": [
+      "monitoring",
+      "plan implementation",
+      "Key Performance Indicators (KPIs)",
+      "Annual Monitoring Report (AMR)"
+    ],
+    "cross_references": [
+      "Table 12.1",
+      "Chapter 1",
+      "Policy SD1 Opportunity Areas",
+      "Policy SD10 Strategic and local regeneration"
+    ],
+    "geographic_mentions": [
+      "London"
+    ],
+    "targets": [],
+    "page_number": 462
+  }
+]
